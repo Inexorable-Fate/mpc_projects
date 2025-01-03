@@ -202,6 +202,7 @@
         },
         {
           "name": "Rex Mix & Match (Non-Taboo)",
+          "enabled": false,
           "cards": [
             {
               "id": "72065346-64d5-4e40-8194-a5ad157ccfd1",
@@ -248,7 +249,6 @@
         },
         {
           "name": "Rex Mix & Match (Taboo)",
-          "enabled": false,
           "cards": [
             {
               "id": "72065346-64d5-4e40-8194-a5ad157ccfd1",
