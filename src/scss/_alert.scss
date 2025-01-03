@@ -38,7 +38,16 @@
 
       h3 {
         font-size: 1.1rem;
+        display: inline;
+
+        & + p {
+          display: inline;
+        }
       }
+    }
+
+    .alert-item {
+      margin-top: 0.5rem;
     }
   }
 }
