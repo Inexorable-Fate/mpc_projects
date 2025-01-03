@@ -116,7 +116,7 @@
       "name": "Parallel Jenny Barnes, 2024-08",
       "parts": [
         {
-          "name": "Parallel Jenny, Aconyte Art",
+          "name": "Parallel Jenny, Aconyte art",
           "cards": [
             {
               "id": "f46f6a3a-cd37-40a6-b0e3-68800e94cdb3",
@@ -180,6 +180,32 @@
             }
           ],
           "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Parallel Jenny mini-sized minicard, Aconyte art",
+          "cards": [
+            {
+              "id": "de61f543-c1a3-4aae-a1f2-119d52a81ffc",
+              "count": 1,
+              "front": {
+                "Name": "Jenny mini mini-1.png",
+                "ID": "48EB00F064C4858E7AA39650590D70FC",
+                "SourceID": "160B389F5D8B580ABD9BEBFA4D3828629892CC0D",
+                "Exp": "png",
+                "Width": 597,
+                "Height": 822
+              },
+              "back": {
+                "Name": "Jenny mini mini-2.png",
+                "ID": "FE2C02B1EF00011F8031E66FC670430A",
+                "SourceID": "365AB21D355F6A77B0BC83E2D6D638FC3214B93A",
+                "Exp": "png",
+                "Width": 597,
+                "Height": 822
+              }
+            }
+          ],
+          "code": "CA7C88A094DDABB0"
         }
       ]
     },
@@ -2464,6 +2490,6 @@
     }
   ],
   "created": "2020-05-05T04:45:26.681Z",
-  "updated": "2024-10-31T11:56:30.334Z",
+  "updated": "2025-01-02T22:36:30.334Z",
   "hash": "a14159abbdb5d5c098bdb878d5597ae5d0ca0da8162b6d7850f7d4634cc78436"
 }

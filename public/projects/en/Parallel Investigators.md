@@ -1,4 +1,4 @@
-**2024-08-20:**
+**2025-01-02:**
   - Added minicard for Parallel Jenny with Aconyte art. (Note that this is the first Parallel to use different art from the standard version of the investigator so is the only one with a minicard.)
 
 **2024-08-03:**

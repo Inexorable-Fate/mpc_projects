@@ -5323,6 +5323,7 @@
         },
         {
           "name": "6 Moon Tokens",
+          "enabled": false,
           "cards": [
             {
               "id": "b03f4fae-b562-4c88-9fc7-f3faa129d62c",
@@ -9672,6 +9673,7 @@
         },
         {
           "name": "12 Tension Tokens",
+          "enabled": false,
           "cards": [
             {
               "id": "3872c413-1172-43cd-811c-bb505d855a1b",

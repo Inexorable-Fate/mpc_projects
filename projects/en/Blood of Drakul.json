@@ -1,0 +1,548 @@
+{
+	"version": 5,
+	"projectIds": {
+		"E830B9322238DDDA373AD67F7E1D9F2BC2254D3E612CE5E81654697566B95BEC525F678D786BAB93": "The Blood of Drakul Investigator Expansion",
+		"403F94FEE3704060C7F259F7553E5C14084C76377ED1C07320CAB661DC88D88B2DBE26269703EEE8": "The Blood of Drakul Minicards"
+	},
+	"name": "The Blood of Drakul Investigator Expansion",
+	"description": "A set of six vampire-themed investigators from the unfinished Blood of Drakul fan expansion.",
+	"artist": "Christof Grobelski",
+	"info": null,
+	"website": "https://github.com/ArkhamDotCards/thebloodofdrakul/tree/main",
+	"cardsLink": "https://github.com/ArkhamDotCards/thebloodofdrakul/tree/main/img/enUS/bleed",
+	"scenarioCount": 0,
+	"investigatorCount": 6,
+	"authors": [
+		"Myriad"
+	],
+	"statuses": [
+		"Finished",
+		"Project Available"
+	],
+	"tags": [
+		"Investigator(s)"
+	],
+	"options": [
+		{
+			"name": "",
+			"parts": [
+				{
+          "name": "Blood of Drakul Investigators",
+					"cards": [
+						{
+							"id": "ab54807a-d568-444e-8a34-ab78476259d8",
+							"count": 1,
+							"front": {
+								"Name": "Anastasia Bernhardt-Face",
+								"ID": "877019DF314DA2C3B4305143A08C69F7",
+								"SourceID": "607599AAB7797123F5C034A41D6BED9EA6CFB045",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							},
+							"back": {
+								"Name": "Anastasia Bernhardt-Back",
+								"ID": "F4099655DF685F66A405D915F25DFD21",
+								"SourceID": "CF75B60169B805AC781E3C463249AF889FB16780",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							}
+						},
+						{
+							"id": "45fb1ef2-ab42-468d-bdb0-58e4e903ee79",
+							"count": 1,
+							"front": {
+								"Name": "Sanaz al-Bashir-Face",
+								"ID": "024F400F1B74EA388DE15910EBA00142",
+								"SourceID": "217AD48C325AF8C1F9FA7C11DF1F5D5B32B52CA6",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							},
+							"back": {
+								"Name": "Sanaz al-Bashir-Back",
+								"ID": "B2E29BEF6A381AF592228CDFB6B3CEEB",
+								"SourceID": "BEFF7AA969DCDEFBD024013CCC0645F072EBF41C",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							}
+						},
+						{
+							"id": "220c26b4-c49d-4b00-9503-97af84ab7b76",
+							"count": 1,
+							"front": {
+								"Name": "Mercer Kincaid-Face",
+								"ID": "F7F86B388D203075F337179F0531D53D",
+								"SourceID": "F05E1637C4F2B6DB457421CFF26B5316D220141C",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							},
+							"back": {
+								"Name": "Mercer Kincaid-Back",
+								"ID": "94100C47E48B44096D205A4171F011DB",
+								"SourceID": "FDC4E8BCD50971956A81F3EA69476AC38E0F4040",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							}
+						},
+						{
+							"id": "512a24c5-ef75-4da1-99f9-364f5567d84e",
+							"count": 1,
+							"front": {
+								"Name": "Luther Payne-Face",
+								"ID": "EAF908BDEB5C83E7E1D18BEC63F7BE9C",
+								"SourceID": "9309699AB39068393ECF7207BCF97D8713B9B891",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							},
+							"back": {
+								"Name": "Luther Payne-Back",
+								"ID": "C6AB4B1B565BAB9F0893BF881F6C5F17",
+								"SourceID": "EFD2FBBE206A8664948E94120995775A4A9EE691",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							}
+						},
+						{
+							"id": "d899d6b8-01f7-46eb-b709-13e1091aff3d",
+							"count": 1,
+							"front": {
+								"Name": "Holden Whitaker-Face",
+								"ID": "F8788E141B1B24B8CF2D39F6E099EB0F",
+								"SourceID": "850B03B358ED098C3FB63669943A35E90366F5AE",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							},
+							"back": {
+								"Name": "Holden Whitaker-Back",
+								"ID": "9C27A3C3B8EF6C4DDDF3F766216E8DA2",
+								"SourceID": "67BE4128E44F1ECB27B42095F892D313A2434121",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							}
+						},
+						{
+							"id": "4cdc0536-8ac0-4454-8d0c-946c5b150e93",
+							"count": 1,
+							"front": {
+								"Name": "Adrian Tepesh-Face",
+								"ID": "884934BC19EABBC517AA9EF1E1D74FF7",
+								"SourceID": "B07A653C71BA59705990F622937AB0C86EF8B131",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							},
+							"back": {
+								"Name": "Adrian Tepesh-Back",
+								"ID": "9B335FC8D5FD79716347DA029E6BE62A",
+								"SourceID": "FE11C5392D6578E64384DE1EEA0075668DC3240E",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							}
+						},
+						{
+							"id": "e33eb51b-6492-417e-8be6-fb6ff01e3ca8",
+							"count": 1,
+							"front": {
+								"Name": "Lash of Thanatos-Face",
+								"ID": "3D5BCABF574BF029BF21B3ACCBCD0747",
+								"SourceID": "E33BDE3E7081F3CEBCD41C490C834F923A60A946",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							},
+							"back": {
+								"Name": "Player Back",
+								"ID": "ACF5C21B79E31C80E298F513A752A3EE",
+								"SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+								"Exp": "png",
+								"Width": 822,
+								"Height": 1122
+							}
+						},
+						{
+							"id": "9d603dbf-db4a-4125-a73f-86aaf6246837",
+							"count": 1,
+							"front": {
+								"Name": "Wicked Thoughts-Face",
+								"ID": "74684E300CC58A59A7F3EC81B540FBC4",
+								"SourceID": "33C9B2EAB46A7CDFED430FAEC5739B54FA5BECF7",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							},
+							"back": {
+								"Name": "Player Back",
+								"ID": "ACF5C21B79E31C80E298F513A752A3EE",
+								"SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+								"Exp": "png",
+								"Width": 822,
+								"Height": 1122
+							}
+						},
+						{
+							"id": "f79911d2-d3f5-4a9c-8961-7092b68846d5",
+							"count": 1,
+							"front": {
+								"Name": "Competitive Advantage-Face",
+								"ID": "0BC02C023F241EDE6A2469BB96ECE1BC",
+								"SourceID": "901CD2D13C5D81FC4AF699942CCED7A8784A3FAD",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							},
+							"back": {
+								"Name": "Player Back",
+								"ID": "ACF5C21B79E31C80E298F513A752A3EE",
+								"SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+								"Exp": "png",
+								"Width": 822,
+								"Height": 1122
+							}
+						},
+						{
+							"id": "20e62338-8ea0-4d48-9f08-2f47f9e650d1",
+							"count": 1,
+							"front": {
+								"Name": "Fool's Mate-Face",
+								"ID": "8DF35C542AF4E87624DBEFD6BB2DF5FE",
+								"SourceID": "514A033DDD96543B18D2CA046253661BF44E4733",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							},
+							"back": {
+								"Name": "Player Back",
+								"ID": "ACF5C21B79E31C80E298F513A752A3EE",
+								"SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+								"Exp": "png",
+								"Width": 822,
+								"Height": 1122
+							}
+						},
+						{
+							"id": "6e80c950-44bb-4f6c-b7ce-31f582cb281f",
+							"count": 1,
+							"front": {
+								"Name": "Hope Watson-Face",
+								"ID": "77D3D23D08A76658A318D0AFDE1B00A1",
+								"SourceID": "71834AE3020824E6275CF7644CD0722A18A795C5",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							},
+							"back": {
+								"Name": "Player Back",
+								"ID": "ACF5C21B79E31C80E298F513A752A3EE",
+								"SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+								"Exp": "png",
+								"Width": 822,
+								"Height": 1122
+							}
+						},
+						{
+							"id": "0127437c-6528-47eb-9364-81f5c94d0568",
+							"count": 1,
+							"front": {
+								"Name": "Until Dawn-Face",
+								"ID": "CBBD1DBD15651083A28722ED4694A1B4",
+								"SourceID": "F051E85146A1A7D13A0C0096E22A8243964BE5E2",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							},
+							"back": {
+								"Name": "Player Back",
+								"ID": "ACF5C21B79E31C80E298F513A752A3EE",
+								"SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+								"Exp": "png",
+								"Width": 822,
+								"Height": 1122
+							}
+						},
+						{
+							"id": "463624aa-a539-4756-8cf3-df0b45f8f4f6",
+							"count": 1,
+							"front": {
+								"Name": "Dominion Torque-Face",
+								"ID": "F3DFD39BC50140E71044240507821965",
+								"SourceID": "2B28CE2A8F157F8606F2F2983B63776451D605B5",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							},
+							"back": {
+								"Name": "Player Back",
+								"ID": "ACF5C21B79E31C80E298F513A752A3EE",
+								"SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+								"Exp": "png",
+								"Width": 822,
+								"Height": 1122
+							}
+						},
+						{
+							"id": "a2dd4ad3-5597-4db4-864d-88f11bfd5614",
+							"count": 1,
+							"front": {
+								"Name": "Shade of Zul'khan-Face",
+								"ID": "9F61D154D7E25895D84BD404B637DF13",
+								"SourceID": "466DA73079A016766FAEFD1095987F3039879293",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							},
+							"back": {
+								"Name": "Player Back",
+								"ID": "ACF5C21B79E31C80E298F513A752A3EE",
+								"SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+								"Exp": "png",
+								"Width": 822,
+								"Height": 1122
+							}
+						},
+						{
+							"id": "790a689d-12f4-438d-8f74-1c92f0419fab",
+							"count": 1,
+							"front": {
+								"Name": "Eye of the Storm-Face",
+								"ID": "D223AD3E440D676EDB780CB3A65186AF",
+								"SourceID": "37698CC6D16078A940C1968BB4D1337ED3DA4958",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							},
+							"back": {
+								"Name": "Eye of the Storm-Back",
+								"ID": "2D01AFE9D53BF83158F834EBDA7DE75E",
+								"SourceID": "CACE37B9D8A8B7EA0BEA78619DAF70A73250F3C7",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							}
+						},
+						{
+							"id": "544f978a-6f3a-4f0f-85a3-b8479d7d3feb",
+							"count": 1,
+							"front": {
+								"Name": "Apex Predator-Face",
+								"ID": "EC65A86808AD90C487084849BA90F615",
+								"SourceID": "8D8C6CC960F2314674A39D139FC584B66EEF16EC",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							},
+							"back": {
+								"Name": "Player Back",
+								"ID": "ACF5C21B79E31C80E298F513A752A3EE",
+								"SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+								"Exp": "png",
+								"Width": 822,
+								"Height": 1122
+							}
+						},
+						{
+							"id": "e2530b71-a5b6-47af-b21c-08510596d6d3",
+							"count": 1,
+							"front": {
+								"Name": "Bloodstained Centuries-Face",
+								"ID": "FB59006592F51E6B86C2AAE44C8F7A16",
+								"SourceID": "EBCFED6A032D172D3390BFF6B037681337F957FD",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							},
+							"back": {
+								"Name": "Player Back",
+								"ID": "ACF5C21B79E31C80E298F513A752A3EE",
+								"SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+								"Exp": "png",
+								"Width": 822,
+								"Height": 1122
+							}
+						},
+						{
+							"id": "452a6665-4587-4fa7-a68a-b39f4686c960",
+							"count": 1,
+							"front": {
+								"Name": "In the House of My Father-Face",
+								"ID": "CE0F3F447E711A2872F41AEF6A1CAB6B",
+								"SourceID": "1966D0EBB5868DC71A7FD58496790B8D8DC7784D",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							},
+							"back": {
+								"Name": "Player Back",
+								"ID": "ACF5C21B79E31C80E298F513A752A3EE",
+								"SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+								"Exp": "png",
+								"Width": 822,
+								"Height": 1122
+							}
+						},
+						{
+							"id": "e7d5368d-f3b0-454e-ba6e-3819bb827d56",
+							"count": 1,
+							"front": {
+								"Name": "Profligate Temptation-Face",
+								"ID": "CB0D5883D401D182F4520CAE9D2EC7C4",
+								"SourceID": "1A518B6CBA456E963D7D92397B08452F9476172A",
+								"Exp": "png",
+								"Width": 1650,
+								"Height": 2250
+							},
+							"back": {
+								"Name": "Player Back",
+								"ID": "ACF5C21B79E31C80E298F513A752A3EE",
+								"SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+								"Exp": "png",
+								"Width": 822,
+								"Height": 1122
+							}
+						}
+          ],
+          "code": "C380050185D1C1AF"
+				},
+				{
+          "name": "Blood of Drakul mini-sized minicards",
+					"cards": [
+						{
+							"id": "c56cbfba-ecb2-478b-b5cb-384cf63a819a",
+							"count": 1,
+							"front": {
+								"Name": "Anastasia Bernhardt-Mini Face",
+								"ID": "94BDA8C8BA0D5DA2F2E746CADF0AF8BA",
+								"SourceID": "655516833E6DAD73D8644D398439FD261C0353C8",
+								"Exp": "png",
+								"Width": 1126,
+								"Height": 1650
+							},
+							"back": {
+								"Name": "Anastasia Bernhardt-Mini Back",
+								"ID": "0035ED1CD80DDD7F4FF130E7D935B1DA",
+								"SourceID": "A83AFEBCE389CDA59DE250D76B80169F2590C5B6",
+								"Exp": "png",
+								"Width": 1126,
+								"Height": 1650
+							}
+						},
+						{
+							"id": "bf093abc-5a1d-4d28-98ec-e3354b888fa1",
+							"count": 1,
+							"front": {
+								"Name": "Sanaz al-Bashir-Mini Face",
+								"ID": "8F8426E7E322C46DE7818B449E1C32EB",
+								"SourceID": "FF68482604C288C2A12AC376DE2A7F40D7AC9B2B",
+								"Exp": "png",
+								"Width": 1126,
+								"Height": 1650
+							},
+							"back": {
+								"Name": "Sanaz al-Bashir-Mini Back",
+								"ID": "51ECD08BFE281AF4CE006CB174E46842",
+								"SourceID": "5B813C346953FC4D36526A1EC07B7F74D6BF8384",
+								"Exp": "png",
+								"Width": 1126,
+								"Height": 1650
+							}
+						},
+						{
+							"id": "912bca73-8042-4ca9-bb1f-7117f783b23d",
+							"count": 1,
+							"front": {
+								"Name": "Mercer Kincaid-Mini Face",
+								"ID": "1CB655C00BD091022C18E2A18ED21EFF",
+								"SourceID": "FD4444574BE072DDAE0365FF2B2A6AEA26A3CBF6",
+								"Exp": "png",
+								"Width": 1126,
+								"Height": 1650
+							},
+							"back": {
+								"Name": "Mercer Kincaid-Mini Back",
+								"ID": "ACC250D81FB5CAC8410D20E3C5987606",
+								"SourceID": "475E0B8F743DE7CC3F49F493BB2F22AA92C3D06F",
+								"Exp": "png",
+								"Width": 1126,
+								"Height": 1650
+							}
+						},
+						{
+							"id": "c1ecbdb9-32f7-49da-9989-c1573bbc62e7",
+							"count": 1,
+							"front": {
+								"Name": "Luther Payne-Mini Face",
+								"ID": "E9101133D3A058790300ED5B52148CBA",
+								"SourceID": "74C412A45DAE5B804A1DCAE07F70C95EC149ED77",
+								"Exp": "png",
+								"Width": 1126,
+								"Height": 1650
+							},
+							"back": {
+								"Name": "Luther Payne-Mini Back",
+								"ID": "46803858D3265D3A909D32E76BD9B0BB",
+								"SourceID": "CEF4CC36532D16BAE98FD39EC0A2D5E514FD0A11",
+								"Exp": "png",
+								"Width": 1126,
+								"Height": 1650
+							}
+						},
+						{
+							"id": "b6ce68e2-b1c2-4109-8fbf-14af42000691",
+							"count": 1,
+							"front": {
+								"Name": "Holden Whitaker-Mini Face",
+								"ID": "54A59BF79629ABCBEB6F77F43E55ECFE",
+								"SourceID": "4511FA05810D816CDD77D36FFECD81065C3FDA88",
+								"Exp": "png",
+								"Width": 1126,
+								"Height": 1650
+							},
+							"back": {
+								"Name": "Holden Whitaker-Mini Back",
+								"ID": "BF675AF48E85A3A199C1CE44A422215D",
+								"SourceID": "52A021E8EA06760E0A1A7148141A72F53C105499",
+								"Exp": "png",
+								"Width": 1126,
+								"Height": 1650
+							}
+						},
+						{
+							"id": "70b7da7d-1027-4eda-bb47-d9e3b491513b",
+							"count": 1,
+							"front": {
+								"Name": "Adrian Tepesh-Mini Face",
+								"ID": "1611A44B7F50BDFAF3ED2B95FA143191",
+								"SourceID": "1C1E796FD086BCF96127D6992107BB308A43E086",
+								"Exp": "png",
+								"Width": 1126,
+								"Height": 1650
+							},
+							"back": {
+								"Name": "Adrian Tepesh-Mini Back",
+								"ID": "012901CC88E73FFE70B1AD6FA56D4879",
+								"SourceID": "DD16EE45D9944507C458DFD9AC0CB3EC313DD95C",
+								"Exp": "png",
+								"Width": 1126,
+								"Height": 1650
+							}
+						}
+          ],
+          "code": "CA7C88A094DDABB0"
+				}
+			]
+		}
+			
+	],
+  "created": "2024-12-18T22:25:30.336Z",
+	"updated": "2024-12-18T22:25:30.336Z",
+	"hash": "cde2583baa59a83b701230a22d9eabf96e6b576877cb9538c2249f3e74b0109a"
+}
