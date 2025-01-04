@@ -83,16 +83,12 @@
         },
         "name": {
           "type": "string"
-        },
-        "size": {
-          "type": "string"
         }
       },
       "required": [
         "cards",
         "code",
-        "name",
-        "size"
+        "name"
       ],
       "type": "object"
     }
@@ -171,7 +167,7 @@
       "type": "string"
     },
     "version": {
-      "const": 6,
+      "const": 5,
       "type": "number"
     },
     "website": {

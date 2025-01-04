@@ -63,7 +63,7 @@ const convertWebsiteProject = (project: WebsiteProjects.ProjectUnion): WebsitePr
     const { projectId, code, name, cards, ...rest } = project
     return {
       ...rest,
-      version: 6,
+      version: 5,
       projectIds: Object.fromEntries(projectId.map(projectId => [projectId, name])),
       name,
       options: [{
@@ -72,7 +72,6 @@ const convertWebsiteProject = (project: WebsiteProjects.ProjectUnion): WebsitePr
           code,
           name,
           cards,
-          size: getSize(code),
         }]
       }],
     }
@@ -80,7 +79,7 @@ const convertWebsiteProject = (project: WebsiteProjects.ProjectUnion): WebsitePr
     const { projectId, code, name, parts, ...rest } = project
     return {
       ...rest,
-      version: 6,
+      version: 5,
       projectIds: Object.fromEntries(projectId.map(projectId => [projectId, name])),
       name,
       options: [{
@@ -96,7 +95,7 @@ const convertWebsiteProject = (project: WebsiteProjects.ProjectUnion): WebsitePr
     const { projectId, code, name, options, ...rest } = project
     return {
       ...rest,
-      version: 6,
+      version: 5,
       projectIds: Object.fromEntries(projectId.map(projectId => [projectId, name])),
       name,
       options: options.map(option => ({
@@ -112,7 +111,7 @@ const convertWebsiteProject = (project: WebsiteProjects.ProjectUnion): WebsitePr
     const { projectId, name, options, ...rest } = project
     return {
       ...rest,
-      version: 6,
+      version: 5,
       projectIds: Object.fromEntries(projectId.map(projectId => [projectId, name])),
       name,
       options: options.map(option => ({
@@ -124,18 +123,6 @@ const convertWebsiteProject = (project: WebsiteProjects.ProjectUnion): WebsitePr
       })),
     }
   } else if (project.version == 5) {
-    return {
-      ...project,
-      version: 6,
-      options: project.options.map(option => ({
-        ...option,
-        parts: option.parts.map(part => ({
-          ...part,
-          size: getSize(part.code),
-        })),
-      })),
-    }
-  } else if (project.version == 6) {
     return project
   }
   throw Error(project)
@@ -146,7 +133,7 @@ const convertExtensionProject = (filename: string, project: ExtensionProjects.Pr
   if (project.version == 1) {
     const { code, cards } = project
     return {
-      version: 6,
+      version: 5,
       projectIds: {},
       name,
       description: '',
@@ -168,14 +155,13 @@ const convertExtensionProject = (filename: string, project: ExtensionProjects.Pr
           code,
           name,
           cards,
-          size: getSize(code),
         }]
       }],
     }
   } else if (project.version == 2) {
     const { code, parts } = project
     return {
-      version: 6,
+      version: 5,
       projectIds: {},
       name,
       description: '',
@@ -203,7 +189,7 @@ const convertExtensionProject = (filename: string, project: ExtensionProjects.Pr
   } else if (project.version == 3) {
     const { parts } = project
     return {
-      version: 6,
+      version: 5,
       projectIds: {},
       name,
       description: '',
