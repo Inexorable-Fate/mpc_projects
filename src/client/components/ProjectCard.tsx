@@ -18,15 +18,15 @@ const sizeIcons: {
   [key: string]: [number, number]
 } = {
   'Blank Micro Cards (32 x 45mm)': [32, 45],
-  'Blank Mini American Cards (41mm x 63mm)': [41, 63],
-  'Blank Mini European Cards (44mm x 67mm)': [44, 67],
-  'Blank Square Cards (70mm x 70mm)': [70, 70],
+  'Blank Mini American Cards (41 x 63mm)': [41, 63],
+  'Blank Mini European Cards (44 x 67mm)': [44, 67],
+  'Blank Square Cards (70 x 70mm)': [70, 70],
   'Blank Game Cards (63 x 88mm)': [63, 88],
   'Blank Poker Cards (63.5 x 88.9mm)': [63.5, 88.9],
-  'Blank Bridge Cards (57mm x 89mm)': [57, 89],
-  'Blank Square Cards (89mm x 89mm)': [89, 89],
-  'Blank Tarot Cards (70mm x 121mm)': [70, 121],
-  'Blank Jumbo Cards (89mm x 127mm)': [89, 127],
+  'Blank Bridge Cards (57 x 89mm)': [57, 89],
+  'Blank Square Cards (89 x 89mm)': [89, 89],
+  'Blank Tarot Cards (70 x 121mm)': [70, 121],
+  'Blank Jumbo Cards (89 x 127mm)': [89, 127],
 }
 
 
