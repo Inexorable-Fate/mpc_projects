@@ -105,8 +105,13 @@ button.changelog {
   margin-top: -2px;
 }
 
+// Card Footer
+.card-footer {
+
+}
+
 // Tags
-.card-footer .hstack {
+.pills .hstack {
   flex-wrap: wrap;
 }
 
@@ -144,6 +149,30 @@ button.changelog {
 
 .status-not-available > .badge {
   background-color: var(--bs-red) !important;
+}
+
+.tag-pills {
+  padding-right: 78px;
+}
+
+// Sizes
+.size-icons {
+  align-items: end;
+  justify-content: flex-end;
+  margin-top: -1rem;
+}
+
+.size-icon {
+  border: 1px solid $gray-500;
+  border-radius: 4px;
+
+  &.found {
+    background-color: $white;
+  }
+
+  &.not-found {
+    background-color: transparent;
+  }
 }
 
 // Download modal
