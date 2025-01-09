@@ -34,6 +34,16 @@ interface ProjectCardSizesProps {
   project: WebsiteProjects.Info
 }
 
+export const ProjectPills = ({ project }: ProjectCardSizesProps) => {
+  return (
+    <div className = 'pills'>
+      <ProjectLangs lang={project.lang} />
+      <ProjectStatuses statuses={project.statuses} />
+      <ProjectTags tags={project.tags} />
+    </div>
+  )
+}
+
 const listSizeIcons = (project: WebsiteProjects.Info): [string, number, number, boolean][] => {
   const sizes = project.options
     .flatMap((e) => e.parts)
@@ -48,20 +58,15 @@ const listSizeIcons = (project: WebsiteProjects.Info): [string, number, number, 
 
 const ProjectCardSizes = ({ project }: ProjectCardSizesProps) => {
   return (
-    <div style={{ display: 'flex', flexDirection: 'row', gap: 4, alignItems: 'end' }}>
+    <div className = 'size-icons hstack gap-1'>
       {listSizeIcons(project).map(([name, width, height, found], index) => (
         <OverlayTrigger
           key={index}
           overlay={<Tooltip id={name}>{name}</Tooltip>}
         >
-          <div style={{
+          <div className = {found ? 'size-icon found' : 'size-icon not-found'} style={{
             width: width / 3,
             height: height / 3,
-            border: 1,
-            borderColor: 'grey',
-            borderStyle: 'solid',
-            backgroundColor: found ? 'white' : 'transparent',
-            borderRadius: 4,
           }} />
         </OverlayTrigger>
       ))}
@@ -212,9 +217,7 @@ export const ProjectCard = ({ project }: ProjectCardProps) => {
           </Card.Link>}
         </Card.Body>
         <Card.Footer>
-          <ProjectLangs lang={project.lang} />
-          <ProjectStatuses statuses={project.statuses} />
-          <ProjectTags tags={project.tags} />
+          <ProjectPills project={project} />
           <ProjectCardSizes project={project} />
         </Card.Footer>
       </Card>
