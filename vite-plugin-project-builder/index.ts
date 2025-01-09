@@ -5,6 +5,9 @@ import path from 'node:path'
 import { PluginOption, ResolvedConfig } from 'vite'
 import { ExtensionProjects, WebsiteProjects } from './types'
 import { hashJson, isProjectFile, readJson, writeJson } from './util'
+import data from 'mpc_api/data'
+
+const getSize = (code: string) => data.units['mpc'].find(e => e.code == code)?.name ?? 'Unknown'
 
 interface ProjectWithFilename extends WebsiteProjects.Latest.Project {
   filename: string
@@ -35,10 +38,11 @@ const mapProjectInfo = (project: ProjectWithFilename): WebsiteProjects.Info => (
   updated: project.updated,
   options: project.options.map(({ name, parts }) => ({
     name,
-    parts: parts.map(({ name, enabled, cards }) => ({
+    parts: parts.map(({ code, name, enabled, cards }) => ({
       name,
       count: cards.reduce((count, cards) => count + cards.count, 0),
       enabled: enabled ?? true,
+      size: getSize(code),
     }))
   })),
 })
@@ -83,6 +87,7 @@ const convertWebsiteProject = (project: WebsiteProjects.ProjectUnion): WebsitePr
         parts: parts.map(part => ({
           ...part,
           code,
+          size: data.units['mpc'].find(e => e.code == code)?.name ?? 'Unknown',
         })),
       }],
     }
@@ -98,16 +103,24 @@ const convertWebsiteProject = (project: WebsiteProjects.ProjectUnion): WebsitePr
         parts: option.parts.map(part => ({
           ...part,
           code,
+          size: getSize(code),
         }))
       })),
     }
   } else if (project.version == 4) {
-    const { projectId, name, ...rest } = project
+    const { projectId, name, options, ...rest } = project
     return {
       ...rest,
       version: 5,
       projectIds: Object.fromEntries(projectId.map(projectId => [projectId, name])),
       name,
+      options: options.map(option => ({
+        ...option,
+        parts: option.parts.map(part => ({
+          ...part,
+          size: getSize(part.code),
+        }))
+      })),
     }
   } else if (project.version == 5) {
     return project
@@ -169,6 +182,7 @@ const convertExtensionProject = (filename: string, project: ExtensionProjects.Pr
         parts: parts.map(part => ({
           code,
           ...part,
+          size: getSize(code),
         })),
       }],
     }
@@ -193,7 +207,10 @@ const convertExtensionProject = (filename: string, project: ExtensionProjects.Pr
       hash: '',
       options: [{
         name,
-        parts,
+        parts: parts.map(part => ({
+          ...part,
+          size: getSize(part.code),
+        })),
       }],
     }
   }

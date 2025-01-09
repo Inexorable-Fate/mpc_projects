@@ -4,14 +4,75 @@ import Button from 'react-bootstrap/esm/Button'
 import Card from 'react-bootstrap/esm/Card'
 import OverlayTrigger from 'react-bootstrap/esm/OverlayTrigger'
 import Tooltip from 'react-bootstrap/esm/Tooltip'
+import { useSizes } from '../projects'
 import { WebsiteProjects } from '../types'
+import { ChangelogIcon } from './Icons'
 import { ProjectAuthors } from './ProjectAuthors'
 import { ProjectChangelogModal } from './ProjectChangelogModal'
 import { ProjectDownloadModal } from './ProjectDownloadModal'
 import { ProjectLangs } from './ProjectLangs'
 import { ProjectStatuses } from './ProjectStatuses'
 import { ProjectTags } from './ProjectTags'
-import { ChangelogIcon } from './Icons'
+
+const sizeIcons: {
+  [key: string]: [number, number]
+} = {
+  'Blank Micro Cards (32 x 45mm)': [32, 45],
+  'Blank Mini American Cards (41 x 63mm)': [41, 63],
+  'Blank Mini European Cards (44 x 67mm)': [44, 67],
+  'Blank Square Cards (70 x 70mm)': [70, 70],
+  'Blank Game Cards (63 x 88mm)': [63, 88],
+  'Blank Poker Cards (63.5 x 88.9mm)': [63.5, 88.9],
+  'Blank Bridge Cards (57 x 89mm)': [57, 89],
+  'Blank Square Cards (89 x 89mm)': [89, 89],
+  'Blank Tarot Cards (70 x 121mm)': [70, 121],
+  'Blank Jumbo Cards (89 x 127mm)': [89, 127],
+}
+
+
+interface ProjectCardSizesProps {
+  project: WebsiteProjects.Info
+}
+
+export const ProjectPills = ({ project }: ProjectCardSizesProps) => {
+  return (
+    <div className = 'pills'>
+      <ProjectLangs lang={project.lang} />
+      <ProjectStatuses statuses={project.statuses} />
+      <ProjectTags tags={project.tags} />
+    </div>
+  )
+}
+
+const listSizeIcons = (project: WebsiteProjects.Info): [string, number, number, boolean][] => {
+  const sizes = project.options
+    .flatMap((e) => e.parts)
+    .flatMap((e) => e.size)
+
+  const showSizes = useSizes()
+  return Object.entries(sizeIcons)
+    .filter(([key]) => showSizes.includes(key))
+    .map(([key, [width, height]]) => [key, width, height, sizes.includes(key)])
+}
+
+
+const ProjectCardSizes = ({ project }: ProjectCardSizesProps) => {
+  return (
+    <div className = 'size-icons hstack gap-1'>
+      {listSizeIcons(project).map(([name, width, height, found], index) => (
+        <OverlayTrigger
+          key={index}
+          overlay={<Tooltip id={name}>{name}</Tooltip>}
+        >
+          <div className = {found ? 'size-icon found' : 'size-icon not-found'} style={{
+            width: width / 3,
+            height: height / 3,
+          }} />
+        </OverlayTrigger>
+      ))}
+    </div>
+  )
+}
 
 
 interface ProjectTooltipProps {
@@ -96,11 +157,11 @@ export const ProjectCard = ({ project }: ProjectCardProps) => {
               {project.name}
             </Card.Title>
             {project.changelog && <Button
-                className='changelog'
-                variant='outline-primary'
-                size='sm'
-                aria-label={`${project.name} changelog`}
-                onClick={onShowChangelog}
+              className='changelog'
+              variant='outline-primary'
+              size='sm'
+              aria-label={`${project.name} changelog`}
+              onClick={onShowChangelog}
             >
               <ChangelogIcon />
             </Button>}
@@ -156,9 +217,8 @@ export const ProjectCard = ({ project }: ProjectCardProps) => {
           </Card.Link>}
         </Card.Body>
         <Card.Footer>
-          <ProjectLangs lang={project.lang} />
-          <ProjectStatuses statuses={project.statuses} />
-          <ProjectTags tags={project.tags} />
+          <ProjectPills project={project} />
+          <ProjectCardSizes project={project} />
         </Card.Footer>
       </Card>
       {show == ProjectShow.download && <ProjectDownloadModal
