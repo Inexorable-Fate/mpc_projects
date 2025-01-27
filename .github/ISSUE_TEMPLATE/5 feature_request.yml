@@ -1,6 +1,6 @@
 name: Feature request
 description: Suggest a way we can improve Inexorable Fate
-title: "[FR]: "
+title: ""
 labels: ["enhancement"]
 body:
   - type: textarea
