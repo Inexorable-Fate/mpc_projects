@@ -1,0 +1,447 @@
+{
+  "version": 5,
+  "projectIds": {
+    "F283FF085217E44EE1A60536AE5C1772406030B85DC4DFC33EA7147CF8AB873DF7F7C864AE053213": "Arkham's Finest Investigators",
+    "DE5A7A625D0081D6FEB1C61C5A457507B31D6C8D4E81B15C3D910F352D6FAEEC406EAE721095BD1A": "Arkham's Finest Minicards"
+  },
+  "name": "Arkham’s Finest",
+  "description": "A set of five investigators with simple 5/2 mainclass/subclass deckbuilding that are meant to cover for the situations where the official investigators in that class combination can not use their card pool as much as we’d want.",
+  "artist": "",
+  "info": "",
+  "website": "https://derbk.com/ancientevils/arkhams-finest-five-custom-investigators/",
+  "cardsLink": "",
+  "scenarioCount": 0,
+  "investigatorCount": 5,
+  "authors": [
+    "DerBK"
+  ],
+  "statuses": [
+    "Finished",
+    "Project Available"
+  ],
+  "tags": [
+    "Investigator(s)"
+  ],
+  "options": [
+    {
+      "name": "",
+      "parts": [
+        {
+          "name": "Arkham’s Finest Investigators",
+          "cards": [
+            {
+              "id": "edd4327c-5762-459e-a8c1-7af46c0f05b6",
+              "count": 1,
+              "front": {
+                "Name": "001-Benedict Hawthorne-1.png",
+                "ID": "9D513CEC6294922CE8B34C24FD60E92E",
+                "SourceID": "9C20393A788882C3816EC1D70DF5014FCD1A76DC",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "001-Benedict Hawthorne-2.png",
+                "ID": "61B05114E42B27E8C0CCED7371F59B84",
+                "SourceID": "6F924D7C25B84B58C25361CAC59F08A0B086784B",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "9502e76d-e90d-4155-bc8b-d0ccab4cdce6",
+              "count": 1,
+              "front": {
+                "Name": "002-Charitable Spirit-1.png",
+                "ID": "7AE58A818A936D73E83DC68EB37626E1",
+                "SourceID": "89C0505B8459E8839707DD1A586E29A6D2301296",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "887fb56d-46e5-4068-b1f7-5504e177c817",
+              "count": 1,
+              "front": {
+                "Name": "003-Social Obligations-1.png",
+                "ID": "5BBCBF97E91C0E1B6F0F5C3B3BB7A4D1",
+                "SourceID": "1E181A57494528EB4EB08FB8546E408823249BB1",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "65867ef8-d408-4352-8144-d0c3852f3337",
+              "count": 1,
+              "front": {
+                "Name": "004-Evie Jordan-1.png",
+                "ID": "41A29BD957C669C1A5D94E828C3BE180",
+                "SourceID": "38FE388E77E37BD7DB44AB3E9DD1B6F6A5EE157E",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "004-Evie Jordan-2.png",
+                "ID": "BCA74AA8E462923EEFE937DD0BB2B0B8",
+                "SourceID": "5E5F0548C7EB7940FB96DE2BE7A069B0A8E2CD2D",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "3bf95c8a-5a15-4e46-bafd-22c09dd0f036",
+              "count": 1,
+              "front": {
+                "Name": "005-Follow My Lead-1.png",
+                "ID": "F608D998E036AF81901230481E0C7DBE",
+                "SourceID": "7CD032AAB8469BDDF89D513B5FFE77C22DBEA3D7",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "267f7e5c-c952-4bc6-b88b-70bebec8ec8f",
+              "count": 1,
+              "front": {
+                "Name": "006-Weight on Your Shoulder-1.png",
+                "ID": "ABCD4755D12DC1BCBA87D53AE470F569",
+                "SourceID": "E27D0AADFC9CB0536D333D4DA7DF00D6CD53D8E7",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "aea9cc81-47f2-460b-a92b-41d182db9ac8",
+              "count": 1,
+              "front": {
+                "Name": "007-Vivian De Ley-1.png",
+                "ID": "C98E802D30F81ECD27A86E0CEBDC523C",
+                "SourceID": "0B439C2A9110B22EF2017F92C3D669DE9850942E",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "007-Vivian De Ley-2.png",
+                "ID": "C21F857C985CBF81C7CD89896B7AD67C",
+                "SourceID": "89A0DC361AB14549F916DE1B1414CE05A6950E11",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "b3eae712-61fe-4d29-98ce-6f7db9fdb37c",
+              "count": 1,
+              "front": {
+                "Name": "008-Negotiator-1.png",
+                "ID": "4BA01BB8C775E25836161215D92E5AEA",
+                "SourceID": "04D9298B5D60A9C31C924C6FB733E4C4C6C14242",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "e0d9a048-3a57-4a6f-b158-ef85182e0cd3",
+              "count": 1,
+              "front": {
+                "Name": "009-Ostracized-1.png",
+                "ID": "A526F3F2720D3B6A79B416954BFDB0A8",
+                "SourceID": "1AF91C818211FF6E7CD509BFE9CE1C1F91BA93AB",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "ef89ea57-7346-4be7-8e9f-87686fc8f8bf",
+              "count": 1,
+              "front": {
+                "Name": "010-Gideon Lau Chi-Wai-1.png",
+                "ID": "0DD11A2E82D19F686B83A16B374F8A82",
+                "SourceID": "6445E7F1E9DFD674161094861601908F872D6D37",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "010-Gideon Lau Chi-Wai-2.png",
+                "ID": "92FF270DB87FBF19B4A72D45365BC1DD",
+                "SourceID": "0129136F51F66FF16B4BCBAA98B88791DD074176",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "589f1060-bbbc-40a6-b495-c63f73e51c9a",
+              "count": 1,
+              "front": {
+                "Name": "011-Utmost Diligence-1.png",
+                "ID": "595500790A0ADFFA0900F9D7241FC172",
+                "SourceID": "C1FD207796FC816C78BED07EAF75C53BDB548920",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "9ba29a88-3e35-42d2-a433-78e846b7be3c",
+              "count": 1,
+              "front": {
+                "Name": "012-Enemy of Good-1.png",
+                "ID": "A7989F117DE6295CDD57C14B4962DC18",
+                "SourceID": "D30C28F7F4528DABE88825383886040405AEE618",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "7751973c-d282-4905-a96b-1c5d7d2662b2",
+              "count": 1,
+              "front": {
+                "Name": "013-Mara-1.png",
+                "ID": "3ED2D3A4BA1D10E9CBF34245043D8706",
+                "SourceID": "436447397050E6296A0B9E3CBD53D43146585D07",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "013-Mara-2.png",
+                "ID": "0149D86F66080502BCC8EA7F82973B65",
+                "SourceID": "C094D8021454A75A516907A8BE88B5F2409253F2",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "2203a105-64f5-4b62-9520-e36ce2287144",
+              "count": 1,
+              "front": {
+                "Name": "014-The Circle Of Life-1.png",
+                "ID": "92F1AB2AF5BB697A12D5E8096928AB4C",
+                "SourceID": "EF2987A609D11DAAFDDB33FD71E4A90AA710F078",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "dc40a152-6e8e-4e50-9858-8d2b9bd6564f",
+              "count": 1,
+              "front": {
+                "Name": "015-Upset Spirits-1.png",
+                "ID": "DB7EF518215127397F6FB8866D36D4BF",
+                "SourceID": "555017BDA9ED69D5DEB41FE4CC73B093AEADCF54",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Arkham’s Finest mini-sized minicards",
+          "cards": [
+            {
+              "id": "a0db59da-0103-4c71-960d-fe37e6c03e54",
+              "count": 1,
+              "front": {
+                "Name": "001-Benedict-1.png",
+                "ID": "FB82C347C25151834593C26C70FE52ED",
+                "SourceID": "9C12AE9C7DA28081E6228CA4AF991AC0FAE84937",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              },
+              "back": {
+                "Name": "001-Benedict-2.png",
+                "ID": "2770BBA7B8B8C08B2059763F368243F8",
+                "SourceID": "01422A434078EAC24B7B7661AF8290D7B1B0FFB9",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              }
+            },
+            {
+              "id": "57c4e3c8-d95d-475e-9d98-9d3be4f16182",
+              "count": 1,
+              "front": {
+                "Name": "002-Evie-1.png",
+                "ID": "30252DE6224E42BDEA4AD22DCF52F0F7",
+                "SourceID": "0E2022A20003A11DE0389949EB218FB1078311B5",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              },
+              "back": {
+                "Name": "002-Evie-2.png",
+                "ID": "F5583917A0AAF9493F254101659137F3",
+                "SourceID": "2CEA8AF605B25ECA04677EACD982358CEF5293BC",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              }
+            },
+            {
+              "id": "d1985a1c-2b11-4382-9b54-affe888fa79c",
+              "count": 1,
+              "front": {
+                "Name": "003-Vivian-1.png",
+                "ID": "189C7C78994ADB4ECCC036817C8719BC",
+                "SourceID": "44B97EFBA0435C7BE8BC597C0803E00BECB0AFF3",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              },
+              "back": {
+                "Name": "003-Vivian-2.png",
+                "ID": "BA99D7804AD70063AF8A1679ED6DA58D",
+                "SourceID": "6A5A75327D21AD822A3BF29C369321EC5EFCC3C3",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              }
+            },
+            {
+              "id": "e2f18c44-a149-46cc-9e09-cdff9823f58c",
+              "count": 1,
+              "front": {
+                "Name": "004-Gideon-1.png",
+                "ID": "BD20A1E25EF12B5717F704EDE5619DD1",
+                "SourceID": "153715F3595F1C3CAF8BF26418B14768E3397F4B",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              },
+              "back": {
+                "Name": "004-Gideon-2.png",
+                "ID": "3CAF2B34EB3074C18F346E23E28B126A",
+                "SourceID": "99F77BE5DD30045E3C60FA9C416EEE953D063DE4",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              }
+            },
+            {
+              "id": "0fb87eac-0c66-4793-be05-262d4efdc085",
+              "count": 1,
+              "front": {
+                "Name": "005-Mara_mini-1.png",
+                "ID": "0F9DAC90FD1DFC84DB70E219FF528EAF",
+                "SourceID": "EC1773A0DCD6FA5D0201B9999C820B27D9E5C5AE",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              },
+              "back": {
+                "Name": "005-Mara_mini-2.png",
+                "ID": "C0EDDFC6AF8DC8E960C705147EC019D9",
+                "SourceID": "DE1F4E8B6541E2196979DC198F04B8C4F2BC6188",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              }
+            }
+          ],
+          "code": "CA7C88A094DDABB0"
+        }
+      ]
+    }
+  ],
+  "created": "2025-01-26T00:00:00.000Z",
+  "updated": "2025-01-26T00:00:00.000Z",
+  "hash": "5a127db604c96480b353a6cde7a0ebd8ffd34935347ca3ed522ba052e72a0a49"
+}
