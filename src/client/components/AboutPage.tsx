@@ -9,7 +9,7 @@ export const AboutPage = () => (
       <h2 id='why'>History</h2>
       <p>It started with the purchase of a single Arkham Horror core set. Before long it had ballooned into owning all the official content and the desperate need to experience all the custom content as well. And like most of you, we just wanted an easier way to get professionally printed copies of the the fabulous homebrew content created by the Arkham Horror community.</p>
       <p>North101 created the MPC Project Helper Chrome extension both to streamline the project creation process and to make projects sharable without the potential to accidentally break the original project.</p>
-      <p>Coldtoes volunteered to test the extension; loved it; appointed herself its evangelist; and began maintaining a repository of projects on a Google Drive. North saw the potential in making the projects searchable and filterable, and Inexorable Fate (a.k.a. &ldquo;The North and Coldtoes Next Gen Bling Generator&rsquo;) was born.</p>
+      <p>Coldtoes volunteered to test the extension; loved it; appointed herself its evangelist; and began maintaining a repository of projects on a Google Drive. North saw the potential in making the projects searchable and filterable, and Inexorable Fate (originally known as &ldquo;The North and Coldtoes Next Gen Bling Generator&rsquo;) was born.</p>
 
       <h2>Credits</h2>
       <p>Inexorable Fate is brought to you by:</p>
@@ -22,6 +22,14 @@ export const AboutPage = () => (
           <h4>Coldtoes</h4>
           <p>Site design and additional development, evangelism, project file maintenance, and support</p>
         </li>
+        <li>
+          <h4>The Inexorable Fate Team</h4>
+          <ul className='list-unstyled'>
+            <li><strong>Content:</strong> Ebola Monkey & Bonzman</li>
+            <li><strong>Project QA:</strong> Ektheleon & Antimarkovnikov</li>
+          </ul>
+        </li>
+
       </ul>
 
       <h3>Special Thanks</h3>
