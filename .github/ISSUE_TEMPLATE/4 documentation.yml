@@ -1,0 +1,40 @@
+name: Documentation Update
+description: Improve the documentation on Inexorable Fate
+title: ""
+labels: ["documentation"]
+body:
+  - type: dropdown
+    id: doc-type
+    attributes:
+      label: What type of change are you suggesting?
+      options:
+        - Change to text currently on the Help page
+        - Change to text currently on the FAQ page
+        - Change to text currently on the About page
+        - Change to text currently on the Projects page
+        - Adding something completely new
+  - type: textarea
+    id: doc-solution
+    attributes:
+      label: What improvement are you suggesting?
+      description: Describe what you'd like to see or suggest specific alternate text.
+  - type: textarea
+    id: doc-problem
+    attributes:
+      label: What happened when you followed the existing instructions? What in the current text is incorrect or confusing?
+      description: Ex. When I got to step 3 in the <whatever> section, it said <thing> but...
+  - type: textarea
+    id: addl
+    attributes:
+      label: Additional context
+      description: |
+        Add any other useful information about the feature request here.
+        Tip: You can attach screenshots or mockups by clicking this area to highlight it and then dragging files in.
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. discord username, email@example.com, etc.
+    validations:
+      required: false
