@@ -26,6 +26,7 @@ export const AboutPage = () => (
           <h4>The Inexorable Fate Team</h4>
           <ul className='list-unstyled'>
             <li><strong>Content:</strong> Ebola Monkey & Bonzman</li>
+            <li><strong>German Projects:</strong> Founi</li>
             <li><strong>Project QA:</strong> Ektheleon & Antimarkovnikov</li>
           </ul>
         </li>
