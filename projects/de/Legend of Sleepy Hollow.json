@@ -2,7 +2,8 @@
   "version": 5,
   "projectIds": {
     "E722269A5F9ABCF7004DFE598A13A6415A603BCEC8F2A51402366191A4DEF8B71BEC90D2049E6268": "Die Legende von Sleepy Hollow",
-    "3AB0BC9319BDC0CF0E37EC4BB40DF815BF6581157468BEAA3E8B3997AD50813D8773586DE1D55F07": "Die Legende von Sleepy Hollow"
+    "3AB0BC9319BDC0CF0E37EC4BB40DF815BF6581157468BEAA3E8B3997AD50813D8773586DE1D55F07": "Die Legende von Sleepy Hollow",
+    "931C787FB103C6E647166C15F9F43C167504F5E5C38AA8602A6AFF5AF57B934EC2A154B41224763D": "Revised scenario card"
   },
   "name": "Die Legende von Sleepy Hollow",
   "description": "Something wicked stirs within the haunted New York glen of Sleepy Hollow in this standalone based on the Washington Irving story.",
@@ -52,8 +53,8 @@
               "count": 1,
               "front": {
                 "Name": "002-Guide 2-1.png",
-                "ID": "9DA9895ADDF35AA5BCEED0866EB7D50C",
-                "SourceID": "2261F951F6B5E6532A06CDD77B383BACA7247103",
+                "ID": "0554DDD76AF24D53B5983554236EF0AB",
+                "SourceID": "8AD078AA3B7BED770F02A1247707D4224597AD29",
                 "Exp": "png",
                 "Width": 1650,
                 "Height": 2250
@@ -663,6 +664,6 @@
     }
   ],
   "created": "2021-03-21T04:45:26.684Z",
-  "updated": "2023-12-20T12:10:51.466Z",
+  "updated": "2025-02-16T19:10:51.466Z",
   "hash": "ecb6456ad1c61f711dbc32676191b2e87dd698a7bad3156f5a4b50116983e74d"
 }
