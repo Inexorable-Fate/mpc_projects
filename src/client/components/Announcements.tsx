@@ -22,7 +22,7 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
             </div>
             <div className={'alert-item'}>
               <h3>Recently added: </h3>
-              <p>Jenny’s Choice • The Blood of Drakul • Code Red at Bleeding Heart •  Sands of Memphis</p>
+              <p>Souls of Darkness • Arkham’s Finest • Jenny’s Choice • The Blood of Drakul • Code Red at Bleeding Heart •  Sands of Memphis</p>
             </div>
             <div className={'alert-item'}>
               <h3>Tip: </h3>

@@ -1,7 +1,8 @@
 {
   "version": 5,
   "projectIds": {
-    "3498690583724757E0A5C22F0BB92511368A377FCC9E473FDBD72D095E2F4B079CB6EBF1B2106601": "Der Untergang des Hauses Usher"
+    "3498690583724757E0A5C22F0BB92511368A377FCC9E473FDBD72D095E2F4B079CB6EBF1B2106601": "Der Untergang des Hauses Usher",
+    "931C787FB103C6E647166C15F9F43C167504F5E5C38AA8602A6AFF5AF57B934EC2A154B41224763D": "revised scenario card"
   },
   "name": "Der Untergang des Hauses Usher",
   "description": "Uncover and destroy an ancient evil from a crumbling house in this standalone based on the Edgar Allen Poe short story.",
@@ -53,8 +54,8 @@
               "count": 1,
               "front": {
                 "Name": "002-Guide 2-1.png",
-                "ID": "04FD455F431ECDCEFAC1550DA1267B67",
-                "SourceID": "16F3B8F0AB18AC17CBFCE57382F81C45594A6408",
+            "ID": "4CBD4494CB9D4FB622B1257E57863DED",
+            "SourceID": "719322C4246377A2F61D8F147E3D8D88DE1A75B2",
                 "Exp": "png",
                 "Width": 1650,
                 "Height": 2250
@@ -815,6 +816,6 @@
     }
   ],
   "created": "2022-01-25T04:45:26.686Z",
-  "updated": "2024-03-19T20:43:40.202Z",
+  "updated": "2025-02-16T19:43:40.202Z",
   "hash": "a1fd96ced42d6c3a8158a714bc44784b2282dd0ec39ebb50472e53a7f19bdf7e"
 }
