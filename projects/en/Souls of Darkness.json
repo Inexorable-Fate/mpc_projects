@@ -9,7 +9,7 @@
   "info": null,
   "website": null,
   "cardsLink": null,
-  "scenarioCount": 7,
+  "scenarioCount": 8,
   "investigatorCount": 0,
   "authors": [
     "JackOfHearts"
@@ -673,19 +673,20 @@
               "count": 1,
               "front": {
                 "Name": "033-Albert Hennig-1.png",
-                "ID": "ACF5C21B79E31C80E298F513A752A3EE",
-                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
-                "Exp": "png",
-                "Width": 822,
-                "Height": 1122
-              },
-              "back": {
-                "Name": "033-Albert Hennig-2.png",
                 "ID": "F7E63AD6F06D3B7D94B3948714837529",
                 "SourceID": "7B64F8B28A90B315F7A347AFBD64847586AAA920",
                 "Exp": "png",
                 "Width": 1650,
                 "Height": 2250
+
+              },
+              "back": {
+                "Name": "033-Albert Hennig-2.png",
+                "ID": "ACF5C21B79E31C80E298F513A752A3EE",
+                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
               }
             },
             {
@@ -693,28 +694,28 @@
               "count": 1,
               "front": {
                 "Name": "034-Alice Wolcott-1.png",
-                "ID": "ACF5C21B79E31C80E298F513A752A3EE",
-                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
-                "Exp": "png",
-                "Width": 822,
-                "Height": 1122
-              },
-              "back": {
-                "Name": "034-Alice Wolcott-2.png",
                 "ID": "E5C152CBF1289BCD2349203E4657AB89",
                 "SourceID": "F9AAE06968DFF7E0737B15E32A94AABAB2405649",
                 "Exp": "png",
                 "Width": 1650,
                 "Height": 2250
+              },
+              "back": {
+                "Name": "034-Alice Wolcott-2.png",
+                "ID": "ACF5C21B79E31C80E298F513A752A3EE",
+                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
               }
             },
             {
-              "id": "0d2fd42b-b5bf-4926-a8f7-b9f4a502d72a",
+              "id": "22cca1fe-61e7-4066-94f1-994ab4143c1c",
               "count": 1,
               "front": {
                 "Name": "035-Albert Hennig-1.png",
-                "ID": "55ACEE2A013DEF4F77C2F38A7A4013C8",
-                "SourceID": "22D9F3C17F5344057CC3291CD9F442B01FC23F3E",
+                "ID": "AC742F3E769B2C29FDF07ACC77468670",
+                "SourceID": "225F8998527B43AE9909379F747E8AC269C2D3C7",
                 "Exp": "png",
                 "Width": 1650,
                 "Height": 2250
@@ -1229,12 +1230,12 @@
               }
             },
             {
-              "id": "331ee7f3-d92c-4d3d-87b7-82321007bc7a",
+              "id": "4094db60-9c6b-4d08-90d1-0f594662d113",
               "count": 1,
               "front": {
                 "Name": "061-Haunting Presence-1.png",
-                "ID": "61C121BC1D330346AFCEECB20E182785",
-                "SourceID": "75AE1BE3F9D41C1A2696B88EDDB89E73CBD5D7DA",
+                "ID": "6CD1CFFDB8D8767C9FD791844BB58FB4",
+                "SourceID": "ACA51BD214B65F3EFE920A91A7C851253E96917D",
                 "Exp": "png",
                 "Width": 1650,
                 "Height": 2250
@@ -1249,12 +1250,12 @@
               }
             },
             {
-              "id": "6603a980-3c41-4dd6-82ef-d2c3e8c858f4",
+              "id": "5a509222-f580-4b36-bebc-cb39915bace0",
               "count": 1,
               "front": {
                 "Name": "062-Haunting Presence-1.png",
-                "ID": "3A4FF2565D9548E15F538340B0BE941C",
-                "SourceID": "3843A92C702B8E85EBE371DD7588E25527CEF200",
+                "ID": "F9086685F4ED95DACA63633461462881",
+                "SourceID": "D44F6EC4DB30275B18C9CA3D897ACE5F174842B7",
                 "Exp": "png",
                 "Width": 1650,
                 "Height": 2250
@@ -4269,12 +4270,12 @@
               }
             },
             {
-              "id": "973da4c6-c5cd-4e28-a37c-39801e5e2ffd",
+              "id": "8fc1fd6a-b9bc-49e0-b47a-9348aece82a0",
               "count": 1,
               "front": {
                 "Name": "213-Curse of Paladia-1.png",
-                "ID": "70D8D17EB8ECA5FD862DC9DA65C6B95D",
-                "SourceID": "58347E15982EFF1CFC79095F9B3C45784C6384AD",
+                "ID": "5231207AB5489F2288148F928BC92ACB",
+                "SourceID": "FCBC82F6B15A04603C8BBAAD5E08BBE7D3CC9018",
                 "Exp": "png",
                 "Width": 1650,
                 "Height": 2250
@@ -4289,12 +4290,12 @@
               }
             },
             {
-              "id": "0bada7fe-7a1e-4231-ac1d-db4a4d6f47bd",
+              "id": "aea185c9-3699-4da8-a478-2b5a10a08bdc",
               "count": 1,
               "front": {
                 "Name": "214-Curse of Paladia-1.png",
-                "ID": "4CE96BBD60D60C8FD5CBF7520698DFD6",
-                "SourceID": "B0C87FA3408B17C7FE3C2BB431B8664C38EF7761",
+                "ID": "FE45E52D94CFE7D12843D59359A20401",
+                "SourceID": "88BFEAB87D186E59A000B38A9E8A6D091EFDF421",
                 "Exp": "png",
                 "Width": 1650,
                 "Height": 2250
@@ -5781,8 +5782,8 @@
               },
               "back": {
                 "Name": "288-Alin Costescu-2.png",
-                "ID": "23796E8C4790008F9DA8D1737EB75834",
-                "SourceID": "030C12F331F3FF4BA7A8F39EE18A9C2923E5A05D",
+                "ID": "A95212E028C49074C8DE864A77DE54C3",
+                "SourceID": "B060AF3F0E3F0B6A4923799ECA40C793DFC3C433",
                 "Exp": "png",
                 "Width": 1650,
                 "Height": 2250
@@ -5801,8 +5802,8 @@
               },
               "back": {
                 "Name": "289-Claudiu Bacal-2.png",
-                "ID": "AFDB878DBBB8D6328F5DFAB5C1AB6250",
-                "SourceID": "AE641CA11E5D3A9AF8215A9F2F12BED5487A645C",
+                "ID": "5DA97652FE191AB003FC903D79AAC103",
+                "SourceID": "E389F1D2BD11812A34AF1006B530E4C21B38B1CA",
                 "Exp": "png",
                 "Width": 1650,
                 "Height": 2250
@@ -5821,8 +5822,8 @@
               },
               "back": {
                 "Name": "290-Daciana Aspru-2.png",
-                "ID": "421CED0B1241A015E3D3F7B46856BA64",
-                "SourceID": "70C0B801D7CBFFC6DBD6427D414CEB6815969122",
+                "ID": "7760020D5A081DA3924325CA9FDB1940",
+                "SourceID": "BAED4D5A20B005C14D36D15F9A9C344D18A52E71",
                 "Exp": "png",
                 "Width": 1650,
                 "Height": 2250
@@ -5841,8 +5842,8 @@
               },
               "back": {
                 "Name": "291-Valeriu Drulea-2.png",
-                "ID": "8618B2DE2C8C976C2F92F53CCC4D208C",
-                "SourceID": "357F93A492619E5E1E1F94E2992C20178CE6A192",
+                "ID": "FAAB847D0C12DB3AD15A3BB1DA0C2485",
+                "SourceID": "2F855867CF796486DD2159C9213C9B53CE1517C4",
                 "Exp": "png",
                 "Width": 1650,
                 "Height": 2250
@@ -9293,16 +9294,16 @@
               "count": 1,
               "front": {
                 "Name": "464-Temple of Blood-1.png",
-                "ID": "7254FD792FADD3CC5719132DB914B693",
-                "SourceID": "D1EEAEAB7F2B917D836D3FD1B60EFD0B4F76A125",
+                "ID": "528C3AC87ABD3A30A2CC112AACB10064",
+                "SourceID": "C7542085DDB58C7139D6C46262B8D584F12C0704",
                 "Exp": "png",
                 "Width": 1650,
                 "Height": 2250
               },
               "back": {
                 "Name": "464-Temple of Blood-2.png",
-                "ID": "51F1A09F56E75090024EDD47DFB5ADD9",
-                "SourceID": "60276A11FE13824A00620E8D864C2E5411F0C139",
+                "ID": "A876F0768D3D5654E244E1D7213F67D7",
+                "SourceID": "DAD250617136B29E4F29CAC2A85D0E0C828089F5",
                 "Exp": "png",
                 "Width": 1650,
                 "Height": 2250
@@ -10093,16 +10094,16 @@
               "count": 1,
               "front": {
                 "Name": "504-Thirst Eternal-1.png",
-                "ID": "8DA10CFF47303AD54B9D0051A8C338FE",
-                "SourceID": "247E68DFAAC37737BFE868E7107A51D7C76FED96",
+                "ID": "EEAFEF8139851FB9B773953666DC2058",
+                "SourceID": "C905522179CA1B7CB17AA87AD070309DC563802F",
                 "Exp": "png",
                 "Width": 1650,
                 "Height": 2250
               },
               "back": {
                 "Name": "504-Thirst Eternal-2.png",
-                "ID": "7EBEE8F1B132F34E01AF32ECE6F84A0B",
-                "SourceID": "BCF015E3B51AB08D1E9097464D8E19F341B091D8",
+                "ID": "F41496EC7E408C3D263E1224F5D97FEB",
+                "SourceID": "BFEF2C5B010CCE5826344295C368328411247DCB",
                 "Exp": "png",
                 "Width": 1650,
                 "Height": 2250
@@ -10413,8 +10414,8 @@
               "count": 1,
               "front": {
                 "Name": "520-Ward of Cthugha-1.png",
-                "ID": "3DF86A6A3DB025E1636EAE6138A9E32E",
-                "SourceID": "AD2DA4BFB34F6F17F2EA2800244C4C2A36C3E00B",
+                "ID": "8ADEDBB27A5016F3EECAB794A395BFEB",
+                "SourceID": "DCCFF97720CB9E8C55AE34D0FF8A6F1B61E7E455",
                 "Exp": "png",
                 "Width": 1650,
                 "Height": 2250
@@ -10641,8 +10642,8 @@
               },
               "back": {
                 "Name": "531-Yithian Translation-2.png",
-                "ID": "1A55C2A8F96B0D782E026BA38A800848",
-                "SourceID": "74A6388EAA337A92559749D0FC1F9567936AE76D",
+                "ID": "0446230768738A4AE8761C8DDF4611BC",
+                "SourceID": "423424318C45D9B439F3E18357D91115ACFEAE76",
                 "Exp": "png",
                 "Width": 1650,
                 "Height": 2250
@@ -11035,6 +11036,6 @@
     }
   ],
   "created": "2025-02-16T00:00:28.754Z",
-  "updated": "2025-02-16T00:00:28.754Z",
+  "updated": "2025-02-19T11:01:58.754Z",
   "hash": "8cb7b0256babe05c30438878a9bb6b7b449d8c30dfab687831f95486b1c06cad"
 }
