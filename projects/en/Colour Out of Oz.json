@@ -430,26 +430,6 @@
               }
             },
             {
-              "id": "625c4d67-8aec-4e5d-a5c1-b69ebdbdcda9",
-              "count": 1,
-              "front": {
-                "Name": "021-Gargoyles-1.png",
-                "ID": "B13548AB7AC1E7CC21DF433150AEBAC1",
-                "SourceID": "0A56FE029304B8E463650F356F3CB9748EC75BD8",
-                "Exp": "png",
-                "Width": 826,
-                "Height": 1126
-              },
-              "back": {
-                "Name": "back.png",
-                "ID": "B94D5857DFE52875842F398D978ADCE0",
-                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
-                "Exp": "png",
-                "Width": 822,
-                "Height": 1122
-              }
-            },
-            {
               "id": "cfa897b2-d3db-4603-b4bc-f3076d678537",
               "count": 1,
               "front": {
@@ -476,26 +456,6 @@
                 "Name": "022-Invisible Bears-1.png",
                 "ID": "033F089B8A46D086CA47D2633F82DB67",
                 "SourceID": "F2B83C4862BB6CEF685A7526EF6CDF4F0D6F94EC",
-                "Exp": "png",
-                "Width": 826,
-                "Height": 1126
-              },
-              "back": {
-                "Name": "back.png",
-                "ID": "B94D5857DFE52875842F398D978ADCE0",
-                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
-                "Exp": "png",
-                "Width": 822,
-                "Height": 1122
-              }
-            },
-            {
-              "id": "cef2f9d3-ebb0-423a-bf27-ce3637c28c9f",
-              "count": 2,
-              "front": {
-                "Name": "023-Building Fatigue-x2-1.png",
-                "ID": "BB09805B179E468F6AF03B81919752E7",
-                "SourceID": "FAA766CDA5C7CC960687FDE666AFD9A0FBCFB3B2",
                 "Exp": "png",
                 "Width": 826,
                 "Height": 1126
@@ -550,52 +510,12 @@
               }
             },
             {
-              "id": "5f534e94-1e72-48a8-9c4a-7a0839e2af3f",
-              "count": 3,
-              "front": {
-                "Name": "024-Dragonette-x3-1.png",
-                "ID": "0A4F8831D19A125E4F65AD279501889E",
-                "SourceID": "7EC3B2D494957AB3E93E436B894A0C6AA58DBC14",
-                "Exp": "png",
-                "Width": 826,
-                "Height": 1126
-              },
-              "back": {
-                "Name": "back.png",
-                "ID": "B94D5857DFE52875842F398D978ADCE0",
-                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
-                "Exp": "png",
-                "Width": 822,
-                "Height": 1122
-              }
-            },
-            {
               "id": "7f2b33fb-0d65-4b81-83fb-844ad076f2c5",
               "count": 3,
               "front": {
                 "Name": "025-Dragonette-x3-1.png",
                 "ID": "DB32832639E55A886148C42F045430C8",
                 "SourceID": "BF5CD1E0CF1FE53254FE979CF34CD3120EA15DCB",
-                "Exp": "png",
-                "Width": 826,
-                "Height": 1126
-              },
-              "back": {
-                "Name": "back.png",
-                "ID": "B94D5857DFE52875842F398D978ADCE0",
-                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
-                "Exp": "png",
-                "Width": 822,
-                "Height": 1122
-              }
-            },
-            {
-              "id": "c3858599-d8dc-4b2e-b378-8fb81e8676a5",
-              "count": 1,
-              "front": {
-                "Name": "025-Green Dragon-1.png",
-                "ID": "8479D805237DE0F80727B938DAD98095",
-                "SourceID": "A4BA8B930C9E68FF178A89B45BABA3C173CFB6F4",
                 "Exp": "png",
                 "Width": 826,
                 "Height": 1126
@@ -630,52 +550,12 @@
               }
             },
             {
-              "id": "036e8ef4-247f-425d-ad5c-94da60d736d7",
-              "count": 2,
-              "front": {
-                "Name": "026-Long Trek-x2-1.png",
-                "ID": "A6CC7CAE73B8CAF23ECFE3FC598583E6",
-                "SourceID": "362DC352FA2002CF29B301A384AA3A507BB8C63A",
-                "Exp": "png",
-                "Width": 826,
-                "Height": 1126
-              },
-              "back": {
-                "Name": "back.png",
-                "ID": "B94D5857DFE52875842F398D978ADCE0",
-                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
-                "Exp": "png",
-                "Width": 822,
-                "Height": 1122
-              }
-            },
-            {
               "id": "44eed992-893b-498f-b841-b2c516a25f33",
               "count": 2,
               "front": {
                 "Name": "027-Long Trek-x2-1.png",
                 "ID": "89B72C699783A776B957376625883570",
                 "SourceID": "D5B4F0AF4F731FAC4488677222BFF28C8A2BDFFB",
-                "Exp": "png",
-                "Width": 826,
-                "Height": 1126
-              },
-              "back": {
-                "Name": "back.png",
-                "ID": "B94D5857DFE52875842F398D978ADCE0",
-                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
-                "Exp": "png",
-                "Width": 822,
-                "Height": 1122
-              }
-            },
-            {
-              "id": "d6b80497-a198-4665-894a-717475d05057",
-              "count": 1,
-              "front": {
-                "Name": "027-Mangaboos-1.png",
-                "ID": "C6AF09FC0CFFA6349B40BF7E3E3146F5",
-                "SourceID": "E42D09CEB2D550928A8C7CAE1EF15C22DBAC2CC2",
                 "Exp": "png",
                 "Width": 826,
                 "Height": 1126
@@ -5136,6 +5016,6 @@
     }
   ],
   "created": "2024-11-28T11:25:28.754Z",
-  "updated": "2024-11-28T11:25:28.754Z",
+  "updated": "2025-02-24T21:02:00.754Z",
   "hash": "abcdef1d46354b70a27079a6e91200eea54217bc2e21a31998de349262123456"
 }
