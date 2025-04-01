@@ -7414,6 +7414,7 @@
         },
         {
           "name": "Black Knight minicard",
+          "enabled": false,
           "cards": [
             {
               "id": "50a0bff7-6bf4-4f60-99b7-62e8a3d59ed5",
