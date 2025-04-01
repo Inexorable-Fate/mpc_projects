@@ -1,6 +1,5 @@
 name: Documentation Update
 description: Improve the documentation on Inexorable Fate
-title: ""
 labels: ["documentation"]
 body:
   - type: dropdown
