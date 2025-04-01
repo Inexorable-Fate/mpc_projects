@@ -17,12 +17,8 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
           <h2>What’s New</h2>
           <div className={'alert-content'}>
             <div className={'alert-item'}>
-              <h3>New Feature! </h3>
-              <p>See which card sizes are included in a project with new card size icons. Need a few more minicards to meet the MPC project size? Use the Sizes filter to show only projects with minicards.</p>
-            </div>
-            <div className={'alert-item'}>
               <h3>Recently added: </h3>
-              <p>Souls of Darkness • Arkham’s Finest • Jenny’s Choice • The Blood of Drakul • Code Red at Bleeding Heart •  Sands of Memphis</p>
+              <p>Snakes and Ladders • The Matter of Britain • Souls of Darkness</p>
             </div>
             <div className={'alert-item'}>
               <h3>Tip: </h3>
