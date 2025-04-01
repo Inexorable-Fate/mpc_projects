@@ -51,17 +51,28 @@ body:
         - label: Player Cards
         - label: Add-Ons (utility cards and other extras that don’t fall into one of the above categories)
   - type: textarea
+    id: blurb
+    attributes:
+      label: Short teaser for the project
+      description: Roughly 250 characters, definitely no more than 400.
+  - type: textarea
+    id: artwork
+    attributes:
+      label: Cover Art
+      description: |
+        Please upload the cover image for this project (art only, no card or box frame).
+        We will crop it to 1180px by 500px, so please make sure you choose an image that will work in this horizontal format.
+        Attach it by clicking this area to highlight it and then dragging the image in.
+  - type: textarea
     id: details
     attributes:
       label: Additional details
-      description: |
-        What else should we know about this project?
-        If you have a cover image for the project, you can attach it by clicking this area to highlight it and then dragging the image in.
+      description: What else should we know about this project?
   - type: input
     id: contact
     attributes:
       label: Contact Details
-      description: How can we get in touch with you if we need more info?
+      description: How can we get in touch with you or the author if we need more info?
       placeholder: ex. discord username, email@example.com, etc.
     validations:
       required: false

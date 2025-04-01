@@ -1,10 +1,11 @@
 {
   "version": 5,
   "projectIds": {
-    "FACAEB98A66B246425266C17552B7BC508C14C780F32D0712C3B46C7D261F1A2D51FE7FD0294F5AB1": "Matter of Britain"
+     "FACAEB98A66B246425266C17552B7BC508C14C780F32D0712C3B46C7D261F1A2D51FE7FD0294F5AB1": "Matter of Britain",
+     "CA57413DDD0FEA690E40281DCA0E7E014645B22B82A5BFCD88E589D42E484A01199D3E1A6115E897": "Black Knight minicard"
   },
   "name": "The Matter of Britain",
-  "description": "Delve into Arthurian legend to find the truth of King Arthur’s final fate, and possibly yours as well.",
+  "description": "Journey to the British Isle and get embroiled with figures of myth as you attempt to reach the fabled Avalon. A mission to find a friend gone missing during an archaeological dig of King Arthur’s final resting place will evolve into a quest in pursuit of the king himself. Will you be able to forge your own legend, or become just another bit character?",
   "artist": "James Archer",
   "info": null,
   "website": null,
@@ -7410,6 +7411,33 @@
             }
           ],
           "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Black Knight minicard",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "50a0bff7-6bf4-4f60-99b7-62e8a3d59ed5",
+              "count": 1,
+              "front": {
+                "Name": "XXX-Minicard for Investigator The Black Knight -1.png",
+                "ID": "AB06DC4DCFAEA54989DBA3B0CF5198C0",
+                "SourceID": "57571AE86790AF300BD091E9D4B490D068499EE4",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              },
+              "back": {
+                "Name": "XXX-Minicard for Investigator The Black Knight -2.png",
+                "ID": "A08727513A098D213C35E70D1D83FF3E",
+                "SourceID": "5EF527BA0FC42F064FA179808E350E85423D1204",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              }
+            }
+          ],
+          "code": "CA7C88A094DDABB0"
         }
       ]
     }
