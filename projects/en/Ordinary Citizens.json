@@ -1,0 +1,607 @@
+{
+  "version": 5,
+  "projectIds": {
+    "ECC54D1D4EEE14C26410BDF9E69CCA0854A991BD74BBDD32D49C328A237D9AA78A977C287563D499": "Ordinary Citizens Investigators",
+    "0921583CBEA70AABAB157FDF9F5820C3919D9293F748C67C75E3AC101006FAB7D79BBBD603304EE6": "Ordinary Citizens Mini Cards"
+  },
+  "name": "Ordinary Citizens",
+  "description": "A small pack of 6 investigators, a thematic gaggle of guys & gals who are just ordinary citizens getting stuck in some pretty extraordinary circumstances!",
+  "artist": "",
+  "info": "",
+  "website": "https://hatfulhomebrew.wordpress.com/2023/12/04/ordinary-citizens/",
+  "cardsLink": "https://drive.google.com/open?id=11C9I1TP_gUjZWI6WMwtlE5HoWlF-roE6&usp=drive_fs",
+  "scenarioCount": 0,
+  "investigatorCount": 6,
+  "authors": [
+    "HatfulBob"
+  ],
+  "statuses": [
+    "Finished",
+    "Project Available"
+  ],
+  "tags": [
+    "Investigator(s)"
+  ],
+  "options": [
+    {
+      "name": "",
+      "parts": [
+        {
+          "name": "Ordinary Citizens Investigators",
+          "cards": [
+            {
+              "id": "d9e317dd-df5c-4a3d-b140-a0d38f4cda29",
+              "count": 1,
+              "front": {
+                "Name": "001-Sampson Welch-1.png",
+                "ID": "C86F74D4AE1CA7A51E5619D63CC9CA53",
+                "SourceID": "20DA7E00C09E237B67AA2FF921275DB040443E3F",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "001-Sampson Welch-2.png",
+                "ID": "835CAC09CB256AED1AF148B59E987396",
+                "SourceID": "11BB5C89BE48C3413078BAAA51EFB195B119C05D",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "c8991080-1154-4faa-86cd-88dce335ce83",
+              "count": 1,
+              "front": {
+                "Name": "002-Brock-1.png",
+                "ID": "16C88563C3E7B8EC7EF14315E17882FE",
+                "SourceID": "17680511927578F533EA443FD7DFA1F0AF551F2F",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "324d7e4b-6ec3-4f98-ac1b-f414fe58cfda",
+              "count": 1,
+              "front": {
+                "Name": "003-Targeted for The Chase-1.png",
+                "ID": "27601A0EF73DFF47A0D182BDD357DAC0",
+                "SourceID": "663CE31AC30F1F2532C7CC29BFCA221659D6EC8B",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "53c6a549-00fa-472b-a0cf-4ac8310de45e",
+              "count": 1,
+              "front": {
+                "Name": "004-Rodney Dorman-1.png",
+                "ID": "1B7A61DE73DF01740A4C28E31685F1D7",
+                "SourceID": "A1B4215229F748E54CE0EF245E45CB26C1232340",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "004-Rodney Dorman-2.png",
+                "ID": "4A7F9C737DF2D5665044815208DCF071",
+                "SourceID": "B4E57CADD03D499F4DC8965008DD7B58BDEC378F",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "6c48210f-9852-4667-ac83-e2d732ab6780",
+              "count": 1,
+              "front": {
+                "Name": "005-Case #17-1.png",
+                "ID": "CD0B5178827982D3F6A0BBFAF5456AA0",
+                "SourceID": "0FACA72AA3EB67A4A20C9E849C3200FA78D81655",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "702a6247-c37f-40b6-ae77-1813bc932b05",
+              "count": 1,
+              "front": {
+                "Name": "006-Case #75-1.png",
+                "ID": "303996EFD6176737EAB71C9C698270E8",
+                "SourceID": "81BF9B9B66D9B35A208FCA89C2253D1DC5C0C02B",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "7f3657a0-173c-4af5-8189-ef663d709c28",
+              "count": 1,
+              "front": {
+                "Name": "007-Case #257-1.png",
+                "ID": "6887F8EAD98059DE82F4D271638C1D0D",
+                "SourceID": "D555040BBC95E876D58DAFC7A06325E6582280F0",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "c25cff4f-55fa-4094-9bfd-40e824ffe2f7",
+              "count": 1,
+              "front": {
+                "Name": "008-Case #1910-1.png",
+                "ID": "D1F817BCDB435295F0E4E676E1C76A23",
+                "SourceID": "6AA3B6A2D464457CE209A14493CC4BE19779FE0D",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "916f20d6-aec5-4d4e-b648-f4ed8657431c",
+              "count": 1,
+              "front": {
+                "Name": "009-Unhappy Client-1.png",
+                "ID": "B42E66C95E49FB86F34B5D1D2D27A049",
+                "SourceID": "A39FFE4B0483FB9D79741E628BD9736D7BB42573",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "7b0b251c-2d26-4840-9d6e-20e5c0ed6368",
+              "count": 1,
+              "front": {
+                "Name": "010-Lucia Deveraux-1.png",
+                "ID": "338F6F916C7BE0C7DE202F0A448683C0",
+                "SourceID": "D3FDAF3BCB595B0FAF4084CAE9D8862096832B9B",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "010-Lucia Deveraux-2.png",
+                "ID": "098127CBCEE009F0E58545B8BF4CED19",
+                "SourceID": "A4D5158686CA4458F314BB2B2482CD3E72563CF5",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "c16b7aa1-1122-4412-9db5-b33e264c24bb",
+              "count": 1,
+              "front": {
+                "Name": "011-Lucias Medicines-1.png",
+                "ID": "535ACAB48B83C8D8EAF2FE89E33737A2",
+                "SourceID": "E54840D78C42352FC85B19EF95BF7B5055F6C544",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "595bcc80-958c-42de-9bcc-35135fb026ad",
+              "count": 1,
+              "front": {
+                "Name": "012-Nurses Bag-1.png",
+                "ID": "9BC034A4B4F0A4CAB7D31826E908EDFD",
+                "SourceID": "F8EE05D392A30411C76F747111C36A9231314CC4",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "ffd4287a-2cf7-4b17-8a15-eaae740afa85",
+              "count": 1,
+              "front": {
+                "Name": "013-Ones We Lost-1.png",
+                "ID": "94B6F0687071CBDC4E822F4D38872B05",
+                "SourceID": "1B8FA4B8758A773B5427AB78436604EB8EE5DA33",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "10cea90c-2e41-4a97-8b5e-6d94fe73a762",
+              "count": 1,
+              "front": {
+                "Name": "014-Richard Carlisle-1.png",
+                "ID": "B976B6EBF7C348856E878D057A87C079",
+                "SourceID": "191A6B8C37B18759F0863495E4B471EC8B3533D2",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "014-Richard Carlisle-2.png",
+                "ID": "25B6489D2FAF80986954D2658F843C61",
+                "SourceID": "265BDCF7EC1F327B8561DDC55B766B08610E2B90",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "f831fc42-07b5-4416-be64-b1e6f5ba6127",
+              "count": 1,
+              "front": {
+                "Name": "015-“Smirk-1.png",
+                "ID": "790D34FE82F49BCFEC0F0F9015F11C5C",
+                "SourceID": "9262AACB774750261F02A6FA757C59B9B90C68D3",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "cb72d8aa-cb32-47b0-8d42-a811b6ed9c4f",
+              "count": 1,
+              "front": {
+                "Name": "016-Toll of Magic-1.png",
+                "ID": "88400E4D3D5566EE8286E5CA119BE67A",
+                "SourceID": "43119A539A69D7A0374B36B985F2DD0514E502F0",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "848c7ee7-1053-478d-b79a-58ae242ebdb8",
+              "count": 1,
+              "front": {
+                "Name": "017-Melissa Swanson-1.png",
+                "ID": "A7C2565D677797EF16196C5487C63E27",
+                "SourceID": "208E29CBAE4D17678547458BBEBB54E23963D022",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "017-Melissa Swanson-2.png",
+                "ID": "17045332480C4562AA80E735FCD50555",
+                "SourceID": "AE5C984AE8389CB2410CF3D3EB0E008B12FDAC8A",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "7e1cedf9-e369-4ba7-b9e7-3ceccc383bf3",
+              "count": 1,
+              "front": {
+                "Name": "018-Unstoppable Power-1.png",
+                "ID": "32D83FD49786CD6049210E155089AC6A",
+                "SourceID": "7AB754C559934164248065E00E7B106843209845",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "79765ca4-e500-4907-b139-510e5b334e0b",
+              "count": 1,
+              "front": {
+                "Name": "019-Price of Power-1.png",
+                "ID": "C2048897085DFC4943E885DB80BBD607",
+                "SourceID": "456A419C322A7D87BCAF2B53DA0E5C9B00956F7E",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "d22da033-7792-42c9-9aff-061a2655bd54",
+              "count": 1,
+              "front": {
+                "Name": "020-Walter Crankovitch-1.png",
+                "ID": "DEC49E6DC7848EC7EFA258872A238293",
+                "SourceID": "53116FF836F74AE83BE6D93A880D38149C610ECA",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "020-Walter Crankovitch-2.png",
+                "ID": "2AD6A83CF2AB9D821A25F5825B375610",
+                "SourceID": "CD813D58C988C29A5D15322D45019DEFD0EAA133",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "ae2168b7-1306-4f77-9742-6197a50685f6",
+              "count": 1,
+              "front": {
+                "Name": "021-Pocket Bible-1.png",
+                "ID": "4AE219CC4A6644602AB8A7B20E122DEE",
+                "SourceID": "5A2D930FF7B2AC8144A4B3DAE689480C651CC635",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "c74801de-fea7-4085-bc80-c6499ff57955",
+              "count": 1,
+              "front": {
+                "Name": "022-Bad Luck-1.png",
+                "ID": "5C9A9D71E00EA265B8F298D169E7A931",
+                "SourceID": "8460C82B2D9CA240D26106DEA4E9A237F735C385",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "F2C892495D430CF932D00FCC1CD986B8",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Ordinary Citizens mini-sized minicards",
+          "cards": [
+            {
+              "id": "d834ce62-06d3-4b54-b3ea-d0038477c3a0",
+              "count": 1,
+              "front": {
+                "Name": "001-Minicard for Investigator Sampson Welch-1.png",
+                "ID": "E4B58BB2F464A071B31CD9A48A22A45D",
+                "SourceID": "C8BA203EC8EED036A81D28BDC6E560C685C4FE3A",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              },
+              "back": {
+                "Name": "001-Minicard for Investigator Sampson Welch-2.png",
+                "ID": "5BFB7FAF95A6C687F6E824A2C11BBDC3",
+                "SourceID": "BED598CEAD1FFEE093E23A7BAEB51F370D92D694",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              }
+            },
+            {
+              "id": "44a9e427-7f09-46dd-b22e-76a0f7c8f762",
+              "count": 1,
+              "front": {
+                "Name": "002-Minicard for Investigator Rodney Dorman-1.png",
+                "ID": "8878D7D77813611305B126003E1A4430",
+                "SourceID": "576401A5481491031FD51C1AF4D91DA15D14B48F",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              },
+              "back": {
+                "Name": "002-Minicard for Investigator Rodney Dorman-2.png",
+                "ID": "C00C1D3BAD769927A7A03EC3028FDB3A",
+                "SourceID": "E448B95D4AE4FF206626C69390B8C94476E1F006",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              }
+            },
+            {
+              "id": "7942fb4f-b67a-40c8-89c3-f2483b66a907",
+              "count": 1,
+              "front": {
+                "Name": "003-Minicard for Investigator Lucia Deveraux-1.png",
+                "ID": "B69D9649E592E257E2320F9C9E3A57E9",
+                "SourceID": "6C14BCFFE90FD92EB35BFAE3D49B5F32B5FDFCC3",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              },
+              "back": {
+                "Name": "003-Minicard for Investigator Lucia Deveraux-2.png",
+                "ID": "A8A1F823DF18EA5EBDE4801424857CE0",
+                "SourceID": "C03F8B08BD709C4525A925F718FB08EF6933323D",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              }
+            },
+            {
+              "id": "e4c668a3-ed21-4f4e-9060-ef9e98a9b7af",
+              "count": 1,
+              "front": {
+                "Name": "005-Minicard for Investigator Melissa Swanson-1.png",
+                "ID": "7A5E1F87F43928FE3D24F113FB6CE938",
+                "SourceID": "BC804AA2D06C8D7699382DFDC4B3A02483F7172D",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              },
+              "back": {
+                "Name": "005-Minicard for Investigator Melissa Swanson-2.png",
+                "ID": "98602F4E054C4E35D465305953B6F729",
+                "SourceID": "3004F6465E5B91144E96FEF4C0EA0408E5DD06EA",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              }
+            },
+            {
+              "id": "cb2c262e-2889-49a9-b15a-034b36e4911e",
+              "count": 1,
+              "front": {
+                "Name": "006-Minicard for Investigator Richard Carlisle-1.png",
+                "ID": "95AD763F2C7B1F21E793FD590D3EC3D0",
+                "SourceID": "D3677F441E7B3CAB4CE19F4E098E582DA7AEC5D3",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              },
+              "back": {
+                "Name": "006-Minicard for Investigator Richard Carlisle-2.png",
+                "ID": "B3BC328BBC5B1CC2FE51E78CD6B19971",
+                "SourceID": "6EBB2A65F5574FC3446715E04FF06EBF5AAEAD3C",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              }
+            },
+            {
+              "id": "2baa5101-1a90-48a9-a685-cbebe7701fdf",
+              "count": 1,
+              "front": {
+                "Name": "007-Minicard for Investigator Walter Crankovitch-1.png",
+                "ID": "8B0A739E7A596D3C77ACBC360986F78A",
+                "SourceID": "5DD889FEF2F7DB9BDA53A4E05D7507953CD07160",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              },
+              "back": {
+                "Name": "007-Minicard for Investigator Walter Crankovitch-2.png",
+                "ID": "AC0C734EB1345986009F2BD05F92FA4E",
+                "SourceID": "722DCE37F796F23B94E8F9467B3BD9EA53194511",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              }
+            }
+          ],
+          "code": "CA7C88A094DDABB0"
+        }
+      ]
+    }
+  ],
+  "created": "2025-04-26T00:00:00.000Z",
+  "updated": "2025-05-10T00:00:00.000Z",
+  "hash": "5a127db604c96480b353a6cde7a0ebd8ffd34935347ca3ed522ba052e72a0a49"
+}
