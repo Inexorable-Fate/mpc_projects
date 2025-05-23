@@ -1,0 +1,23 @@
+name: SE Cleanup
+description: Track cleanup of a Strange Eons project file
+title: "<project name>"
+labels: ["SE Cleanup"]
+projects: ["Inexorable-Fate/projects/2"]
+body: 
+  - type: checkboxes
+    id: steps
+    attributes:
+      label: Cleanup steps
+      description: check off when completed. Leave notes about partially completed tasks in the comments.
+      options:
+        - label: SE files obtained
+        - label: Original compressed file saved as backup
+        - label: Unnecessary files (exported images, etc.) deleted
+        - label: Recreate any older cards where templates didn't exist with correct templates
+        - label: Run Zoop Populate Investigator on investigators
+        - label: Delete identical duplicates of any card and add quantity to SE instead
+        - label: Compare cards to originals and fix any issues where the SE files were outdated
+        - label: Fix any line breaks/hanging indents/text area overflow caused by the switch to Arno Pro
+        - label: Replace full empty lines with <vs>
+        - label: Look for broken image links in cards (red X) and replace path
+        - label: Confirm collection icons are white on black or black on parchment
