@@ -18,15 +18,15 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
           <div className={'alert-content'}>
             <div className={'alert-item'}>
               <h3>Recently added: </h3>
-              <p>Snakes and Ladders • The Matter of Britain • Souls of Darkness</p>
+              <p>Night of Vespers Investigator Expansion • Ordinary Citizens • Parallel Jenny Mix & Match with all original art (h/t Flint Maverick) or all Aconyte art.</p>
             </div>
             <div className={'alert-item'}>
               <h3>Tip: </h3>
-              <p>Want to always see the most recent additions at the top? Choose “Newest” from the Sort dropdown.</p>
+              <p>Did you know Inexorable Fate is open source? Want to get involved? Hit us up on the <a href='https://discord.com/channels/225349059689447425/1192620482168635523'>MythosBusters Discord</a> or in the <a href='https://github.com/Inexorable-Fate/mpc_projects/issues'>issue queue</a>.</p>
             </div>
             <div className={'alert-item'}>
-              <h3>Project changes: </h3>
-              <p>Click the changelog icon <ChangelogIcon/> to see if you need to reprint any cards from the following: Bloodborne • The Beard’s standalones • Taboo</p>
+              <h3>Project errata: </h3>
+              <p>Click the changelog icon <ChangelogIcon/> on the Taboo project to see if you need to reprint the Dark Prophecy Taboo or Campsite from Darkham Horror.</p>
             </div>
           </div>
         </Alert>
