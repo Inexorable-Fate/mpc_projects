@@ -11,7 +11,7 @@
     "A9824BCE8A225BE9FB30A93AB37F25F30350D4F2D9AAF6A0E4030BB8EE7B4C0B68A98A5A52F5DAA8": "Dunwich errata backs",
     "FDBBE6C4C82D4EF26B43C71CFC64D1FA68BA5B6BA8359E902614DAC9D772A6EF9E790A8F7CB9CA06": "Dunwich errata with ‘other’",
     "538AB1B81E3E32FF12C022D809FCB7B0607F760993A84FBFE7B6C15233CDEB7F59CB53513A398584": "Mix & Match footer fixes",
-    "chk_A4791C56809494E7C58376280CB0C2FCDB86E1605AEE7149EE21053FBE52456745F1AF82D58E8945": "Mix & Match Mateo"
+    "A4791C56809494E7C58376280CB0C2FCDB86E1605AEE7149EE21053FBE52456745F1AF82D58E8945": "Mix & Match Mateo"
   },
   "name": "Parallel Mix & Match",
   "description": "Every completionist’s PnP dream! Pair each parallel investigator front with the original back, and each original front with its parallel back. Because we wouldn’t want you to have to slide two different cards into a single sleeve.",
@@ -395,8 +395,8 @@
               "count": 1,
               "front": {
                 "Name": "081 Father Mateo || front std back-1.png",
-                "ID": "A7B6695DB5E22E952D51FF276A03A0F1",
-                "SourceID": "F400C31C225A141B99EB5BBCAACBBDBBBE2BF537",
+                "ID": "ACB16305F5F1687469EC1477CC05D962",
+                "SourceID": "5B3F1F313C3D2E0AAFCEF18188CBBF1B20A11164",
                 "Exp": "png",
                 "Width": 822,
                 "Height": 1122
