@@ -1,5 +1,8 @@
+**2025-05-18:**
+  - Removed erroneous book icon from Dark Prophecy that was introduced by Inexorable Fate in the 2024-08-03 update, in all variations of Taboo 2.1, 2.2, and 2.3.
+
 **2024-11-18:**
-- Restored missing "are" on Pathfinder, which was omitted by FFG, in all variations of Taboo 2.1, 2.2, and 2.3.
+  - Restored missing "are" on Pathfinder, which was omitted by FFG, in all variations of Taboo 2.1, 2.2, and 2.3.
 
 **2024-08-03:**
   - Fixed wonky typography on Dark Prophecy in all variations of Taboo 2.0, 2.1, and 2.2.

@@ -1,6 +1,7 @@
 {
   "version": 5,
   "projectIds": {
+    "0046F8F67562CE8660840B98EEB337FCDFCBF5E0FC94CF18A89BF25CDB384B36B87B0404F86840AA": "Darkham card 197 errata",
     "2C77CE95D7F194816E1D2B17FF4EB7A78357BE78382C63F09A9FF38E46CA67EC7C6E70701A22A51A": "Darkham Investigators v2",
     "BC8DC0DC7FEA9691938443BD6B6B6249793BA0C7DF3047FF05CF05A10790E306889BA25DD200DBA6": "Darkham Minicards",
     "3568CC72BB874AB613B44F041DD70FEBC9ECADEF2AD89866E6DEADC34711F7FFA305A39EF061E3FE": "Darkham card 138",
@@ -3268,10 +3269,10 @@
             {
               "count": 1,
               "front": {
-                "Name": "197 Campsite-1.jpg",
-                "ID": "B7D130418B968ADD52DB2A15A1C7F321",
-                "SourceID": "7B71DE4432D4C914C53178A14935425EBF5E8FB9",
-                "Exp": "jpg",
+                "Name": "197 Campsite-1.png",
+                "ID": "53E42B5BB7A98E89A2A54AAD1A2A2F37",
+                "SourceID": "A1DE9870A7BD21DA774457905420B93298351BB9",
+                "Exp": "png",
                 "Width": 826,
                 "Height": 1126
               },
@@ -8649,6 +8650,6 @@
     }
   ],
   "created": "2021-09-11T15:18:15.650Z",
-  "updated": "2024-08-03T01:58:37.840Z",
+  "updated": "2025-05-23T10:12:37.840Z",
   "hash": "00d890ba98538bee5fb5a9b8df18e3fee98fc3620e0fcbae7c82d5c21febab63"
 }
