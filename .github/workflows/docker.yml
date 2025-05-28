@@ -61,6 +61,7 @@ jobs:
           passphrase: ${{ env.SSH_PASSPHRASE }}
           script: |
             # Login to registry
-            docker login -u ${{ env.DOCKER_USERNAME }} -p ${{ env.DOCKER_PASSWORD }} ${{ env.DOCKER_REGISTRY }}
+            echo "${{ env.DOCKER_PASSWORD }}" | docker login -u ${{ env.DOCKER_USERNAME }} --password-stdin ${{ env.DOCKER_REGISTRY }}
             docker compose pull ${{ env.DOCKER_NAME }}
             docker compose up -d
+            docker logout
