@@ -4,21 +4,55 @@ title: "<project name>"
 labels: ["SE Cleanup"]
 projects: ["Inexorable-Fate/projects/2"]
 body: 
-  - type: checkboxes
-    id: steps
+  - type: markdown
     attributes:
-      label: Cleanup steps
-      description: check off when completed. Leave notes about partially completed tasks in the comments.
+      value: |
+        Assign this ticket to yourself while you’re working on the file. Check off completed or unnecessary items. Leave notes about partially completed tasks in the comments. When you have done what you’re planning to do, upload your changed version back to the drive and unassign yourself from the issue. See [SE Project Cleanup Instructions](https://docs.google.com/document/d/1xXjkeELAmaF9nUoO4UcMHxi3qmfkG-mMQVQgC_1O_5I/edit?tab=t.0) for more details.
+  - type: checkboxes
+    id: org
+    attributes:
+      label: Initial Organization
+      description: Clean up the structure
       options:
-        - label: SE files obtained
-        - label: Original compressed file saved as backup
-        - label: Unnecessary files (exported images, etc.) deleted
-        - label: Recreate any older cards where templates didn't exist with correct templates
+        - label: Obtain SE project files
+        - label: Save original compressed file as backup
+        - label: Remove unnecessary files (exported images, etc.)
+        - label: Organize files into folders
+  - type: checkboxes
+    id: fix
+    attributes:
+      label: Linked & Customized Eons Files
+      description: Use Zoop instructions to link cards; modernize any outdated SE usage to take advantage of newer functionality
+      options:
+        - label: Compare cards to originals and fix any issues where the SE files were outdated
         - label: Run Zoop Populate Investigator on investigators (if any)
         - label: Delete identical duplicate cards (if any) and add quantity to SE instead
-        - label: Compare cards to originals and fix any issues where the SE files were outdated
+        - label: Link faces of cards spilit into two .eons files
+        - label: Recreate older cards with incorrect templates or use template replacement
+  - type: checkboxes
+    id: format
+    attributes:
+      label: Formatting & Appearance
+      description: Review card appearance and fix any issues due to switching to Arno, changing SE versions, changing image paths, etc.
+      options:
+        - label: Look for broken image links in cards (red X) and replace path
         - label: Fix any line breaks/hanging indents/text area overflow caused by the switch to Arno Pro
         - label: Replace full empty lines with `<vs>`
-        - label: Look for broken image links in cards (red X) and replace path
         - label: Confirm collection icons are white on black or black on parchment
-        - label: Number cards if needed
+        - label: Add any non-standard fonts to project files
+  - type: checkboxes
+    id: number
+    attributes:
+      label: Numbering
+      description: Use Zoops autonumbering 
+      options:
+        - label: Review collection and encounter set numbers for gaps, duplicates, incorrect totals.
+        - label: Use Zoop autonumbering to fix any issues
+  - type: checkboxes
+    id: finalize
+    attributes:
+      label: Finalizing
+      description: Finishing touches
+      options:
+        - label: Restore any hand-edited (Photoshop/Gimp) cards
+        - label: Confirm new export of cards matches author’s intent
