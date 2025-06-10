@@ -1,0 +1,33 @@
+{
+  "version": 5,
+  "projectIds": {
+  },
+  "name": "The Sunnydale Distortion",
+  "description": "Travel through time from 1937 to 1997 and fight vampires, demons, and Lovecraftian beasties in this crossover of the Buffyverse and the Arkham Files world.",
+  "artist": "Jo Chen",
+  "info": null,
+  "website": null,
+  "cardsLink": null,
+  "scenarioCount": 7,
+  "investigatorCount": 0,
+  "authors": [
+    "AtomicZ"
+  ],
+  "statuses": [
+    "Playtesting",
+    "Not Yet Available"
+  ],
+  "tags": [
+    "Campaign"
+  ],
+  "options": [
+    {
+      "name": "The Sunnydale Distortion",
+      "parts": [
+      ]
+    }
+  ],
+  "created": "2025-06-10T15:11:28.754Z",
+  "updated": "2025-06-10T19:14:40.655Z",
+  "hash": "48bd31d521c3af341ecbcabc2b323cfecf8d1c2523fea7928efbd3b198184373"
+}

@@ -1,0 +1,33 @@
+{
+  "version": 5,
+  "projectIds": {
+  },
+  "name": "Angel Investigations",
+  "description": "A followup to the Buffy the Vampire Slayer set focusing mostly on the Angel spinoff series with some additional support for the Buffy investigators. In early Alpha so incomplete and subject to change.",
+  "artist": "Paul Lee and Brian Horton",
+  "info": null,
+  "website": null,
+  "cardsLink": null,
+  "scenarioCount": 0,
+  "investigatorCount": 9,
+  "authors": [
+    "AtomicZ"
+  ],
+  "statuses": [
+    "Alpha",
+    "Not Yet Available"
+  ],
+  "tags": [
+    "Investigator(s)"
+  ],
+  "options": [
+    {
+      "name": "Angel Investigations",
+      "parts": [
+      ]
+    }
+  ],
+  "created": "2025-06-10T15:11:28.754Z",
+  "updated": "2025-06-10T19:14:40.655Z",
+  "hash": "a37348bd31dbca002b323c18521c8d1c2523fefecc998a7928efbd3b3af341ec"
+}
