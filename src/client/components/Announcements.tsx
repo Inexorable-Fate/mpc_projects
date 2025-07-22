@@ -18,7 +18,7 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
           <div className={'alert-content'}>
             <div className={'alert-item'}>
               <h3>Recently added: </h3>
-              <p>Night of Vespers Investigator Expansion • Ordinary Citizens • Parallel Jenny Mix & Match with all original art (h/t Flint Maverick) or all Aconyte art.</p>
+              <p>Taboo 2.4 • Forget Me Not • Investigator Minicards with Arkham Files alt art.</p>
             </div>
             <div className={'alert-item'}>
               <h3>Tip: </h3>
@@ -26,7 +26,7 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
             </div>
             <div className={'alert-item'}>
               <h3>Project errata: </h3>
-              <p>Click the changelog icon <ChangelogIcon/> on the Taboo project to see if you need to reprint the Dark Prophecy Taboo or Campsite from Darkham Horror.</p>
+              <p>Click the changelog icons <ChangelogIcon/> to see if you need to reprint errata for The Colour Out of Oz or any other projects.</p>
             </div>
           </div>
         </Alert>
