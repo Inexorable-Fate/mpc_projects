@@ -1,3 +1,9 @@
+**2025-07-22:**
+ - Fixed the following errors in FFG’s Taboo 2.4 PDF before uploading any cards (so you do not need to reprint to get these fixes):
+    - Incorrect icon on Hand-Eye Coordination.
+    - Rogue skill borders on Hold Up and Hand-Eye Coordination.
+    - Incorrect copyright date on Swift Reflexes.
+
 **2025-05-18:**
   - Removed erroneous book icon from Dark Prophecy that was introduced by Inexorable Fate in the 2024-08-03 update, in all variations of Taboo 2.1, 2.2, and 2.3.
 
