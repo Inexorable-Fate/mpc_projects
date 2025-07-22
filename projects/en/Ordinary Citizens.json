@@ -2,7 +2,8 @@
   "version": 5,
   "projectIds": {
     "EE8B71B8CF11E2A16FADAAD43759F6E5D1F09EB093050AECCC29847E024BC7D0E7F90A2EC9DCB9DB": "Ordinary Citizens Investigators",
-    "0921583CBEA70AABAB157FDF9F5820C3919D9293F748C67C75E3AC101006FAB7D79BBBD603304EE6": "Ordinary Citizens Mini Cards"
+    "0921583CBEA70AABAB157FDF9F5820C3919D9293F748C67C75E3AC101006FAB7D79BBBD603304EE6": "Ordinary Citizens Mini Cards",
+    "8DDF8B21326E5151C73D08AB154D356917F2AF99A07D2CB967A16337E7E1CA0A8F8884C0D6C8D9DC": "Ordinary Citizens Lucia update"
   },
   "name": "Ordinary Citizens",
   "description": "A small pack of 6 investigators, a thematic gaggle of guys & gals who are just ordinary citizens getting stuck in some pretty extraordinary circumstances!",
@@ -210,12 +211,12 @@
               }
             },
             {
-              "id": "46eabf8b-7e88-4f1e-920f-61038bce6912",
+              "id": "9fed69c1-c258-4cde-b075-33a5055d9517",
               "count": 1,
               "front": {
                 "Name": "010-Lucia Deveraux-1.png",
-                "ID": "338F6F916C7BE0C7DE202F0A448683C0",
-                "SourceID": "D3FDAF3BCB595B0FAF4084CAE9D8862096832B9B",
+                "ID": "490A47FEDA0E9F995034017422D4717F",
+                "SourceID": "106CB12C6A75323D1B74D12A1ED23EA857B4BDB3",
                 "Exp": "png",
                 "Width": 826,
                 "Height": 1126
