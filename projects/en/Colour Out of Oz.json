@@ -1174,8 +1174,8 @@
               "count": 3,
               "front": {
                 "Name": "058-Colourful Thrall-x3-1.png",
-                "ID": "EE5014B3F29627C21DF7ADE64EF13631",
-                "SourceID": "96EC16DFDDA8BFC14892969E8AF46A721E1E036E",
+                "ID": "8949214F3D953BAD3E9C49CB9D724C21",
+                "SourceID": "149FEFB612E96C71DB78F0F0F39D7444D90D6C7F",
                 "Exp": "png",
                 "Width": 826,
                 "Height": 1126
@@ -4674,8 +4674,8 @@
               "count": 2,
               "front": {
                 "Name": "233-Contaminated Citizen-x2-1.png",
-                "ID": "8CCB24523DEE4B5EE5BA68BB8912148A",
-                "SourceID": "4A88D4B31329CFFE7A12820BB695BCD92E7DAB4C",
+                "ID": "E4A5692E5797485B06A481AE68A2423C",
+                "SourceID": "20F6B0A07125AD8F3514B11133ED1C1C8BB9439F",
                 "Exp": "png",
                 "Width": 826,
                 "Height": 1126
@@ -5013,9 +5013,61 @@
           "code": "C380050185D1C1AF"
         }
       ]
+    },
+    {
+      "name": "Fixes if printed before 22 Jul 2025 (see changelog)",
+      "parts": [
+        {
+          "name": "Patrol errata for Colourful Thrall and Contaminated Citizen",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "61a7271b-3390-45fa-b0e4-206e142ac4ff",
+              "count": 3,
+              "front": {
+                "Name": "058-Colourful Thrall-x3-1.png",
+                "ID": "8949214F3D953BAD3E9C49CB9D724C21",
+                "SourceID": "149FEFB612E96C71DB78F0F0F39D7444D90D6C7F",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "B94D5857DFE52875842F398D978ADCE0",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "e270a35a-8249-412d-9b7d-514ebda4d2f4",
+              "count": 2,
+              "front": {
+                "Name": "233-Contaminated Citizen-x2-1.png",
+                "ID": "E4A5692E5797485B06A481AE68A2423C",
+                "SourceID": "20F6B0A07125AD8F3514B11133ED1C1C8BB9439F",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "B94D5857DFE52875842F398D978ADCE0",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        }
+      ]
     }
   ],
   "created": "2024-11-28T11:25:28.754Z",
-  "updated": "2025-02-24T21:02:00.754Z",
+  "updated": "2025-07-22T02:02:00.754Z",
   "hash": "abcdef1d46354b70a27079a6e91200eea54217bc2e21a31998de349262123456"
 }
