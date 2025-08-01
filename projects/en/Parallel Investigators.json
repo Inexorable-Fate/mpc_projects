@@ -468,16 +468,16 @@
               "count": 1,
               "front": {
                 "Name": "071 Inner Chamber-1.png",
-                "ID": "F705D56B8B678C4742FD442F219304DE",
-                "SourceID": "0C6E6B4B4428E2F3E6B0CF79806B0D4F3F584DBA",
+                "ID": "F42FD581DE4F777AD9C02BABD64C33E2",
+                "SourceID": "19E54A7D9D4219B6C26B948E1F94FD43542D7BE2",
                 "Exp": "png",
                 "Width": 822,
                 "Height": 1122
               },
               "back": {
                 "Name": "071 Inner Chamber-2.png",
-                "ID": "DFE2AB163BABD283B89227C4B7BA291D",
-                "SourceID": "C02A0B6CE29D365192A5D4C2ABA24BCC7F412812",
+                "ID": "8F9D559E1F7C7453F18C863BA1B826C9",
+                "SourceID": "5CDCADC9D413C763651309161CB00C91AD036C5A",
                 "Exp": "png",
                 "Width": 822,
                 "Height": 1122
@@ -592,6 +592,33 @@
                 "Name": "077 Vengeant Past-2.png",
                 "ID": "E370CAC7FB710BCF2739D04C7085AF32",
                 "SourceID": "DC73A09881B7D2B909204F8615C8154FED46FCB4",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Errata if printed before 01 Aug 2025 (see changelog)",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "8e3e2463-f5a0-4ede-936f-5599d97de560",
+              "count": 1,
+              "front": {
+                "Name": "071 Inner Chamber-1.png",
+                "ID": "F42FD581DE4F777AD9C02BABD64C33E2",
+                "SourceID": "19E54A7D9D4219B6C26B948E1F94FD43542D7BE2",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "071 Inner Chamber-2.png",
+                "ID": "8F9D559E1F7C7453F18C863BA1B826C9",
+                "SourceID": "5CDCADC9D413C763651309161CB00C91AD036C5A",
                 "Exp": "png",
                 "Width": 822,
                 "Height": 1122
@@ -2491,6 +2518,6 @@
     }
   ],
   "created": "2020-05-05T04:45:26.681Z",
-  "updated": "2025-01-02T22:36:30.334Z",
+  "updated": "2025-07-31T22:36:30.334Z",
   "hash": "a14159abbdb5d5c098bdb878d5597ae5d0ca0da8162b6d7850f7d4634cc78436"
 }
