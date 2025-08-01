@@ -2,7 +2,10 @@
   "version": 5,
   "projectIds": {
     "10BBA356C8E063B9C82BF9B03DE2531652BBEF963C3550E28E4A08CCF7A5FEEB13257B6A016736D4": "Errata Patch Cards",
-    "DC416C6D1F9DCA47F10A5947B080D0FF0E0E5A3EF17588862A1F399BAAE781FDDF5C5B92CE9EEDAE": "Errata 2.2 Patch Card"
+    "DC416C6D1F9DCA47F10A5947B080D0FF0E0E5A3EF17588862A1F399BAAE781FDDF5C5B92CE9EEDAE": "Errata 2.2 Patch Cards",
+    "D0E1C737CD0A11E3BF634943F9974DE6E19F1473291CF19C6E8E9776B5A033862561302E39024853": "Errata 2.3 Patch Cards",
+    "77A876CBBC8B2D48E7DC8CE040D27BC09AEBA180179409970621824A2EA04A5AAFFB6ADFEB10BAF7": "Errata 2.4 Patch Cards",
+    "600EA9983CAE4A471DCC5A38CAE037E826AB2D24A6C68ECFE5C9323D35FB3208578E120670653916": "Campaign Guide Errata 2.2–2.4"
   },
   "name": "Errata Patch Cards",
   "description": "These cards, with errata from the official FFG FAQs, slide underneath the original cards in play for easy reference. The back sides give a spoiler-free listing of the card(s) the errata applies to.",
@@ -25,25 +28,166 @@
   ],
   "options": [
     {
-      "name": "s",
+      "name": "Scenario Card Errata",
       "parts": [
         {
-          "name": "Errata 2.2, 2024-02",
+          "name": "Card Errata 2.4, 2025-07",
           "cards": [
             {
+              "id": "303cd314-2fe0-4331-8bf8-f1863c348e84",
               "count": 1,
               "front": {
-                "Name": "ahc70-2.2-TSK-The Risen Dead-1.png",
-                "ID": "E74752F62F4E84DC54CAF1BA789DA2C4",
-                "SourceID": "77411E67B9F71167B1DBE7C7E001C87D5D61D68F",
+                "Name": "ahc19-2.4-TFA-In Shadowed Talons-1.png",
+                "ID": "B3B80AF92C79647B96ED431014D9623E",
+                "SourceID": "B4898B374D87F930CC5DB3B99DF95B2B799A34A6",
                 "Exp": "png",
                 "Width": 824,
                 "Height": 1124
               },
               "back": {
-                "Name": "ahc70-2.2-TSK-The Risen Dead-2.png",
-                "ID": "DBA449735ECB8A28578AFCA1EAE1E0E7",
-                "SourceID": "1F90857F1118D2D54CC3AFE8EA76968FA2387F7F",
+                "Name": "ahc19-2.4-TFA-In Shadowed Talons-2.png",
+                "ID": "CDF0FA88A3009B760BF7FC2F3A39E89C",
+                "SourceID": "D6A960AE0A3850D7BAC95E57DE58263862218E05",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              }
+            },
+            {
+              "id": "40d8fce0-3ea3-4cd6-8ce7-8f84ee605309",
+              "count": 1,
+              "front": {
+                "Name": "ahc29-2.4-TCU-In Azathoths Domain-1.png",
+                "ID": "0A83D698FCC82CC2A15C551E1F12534F",
+                "SourceID": "37BCEEF9CF4D451CF74D3F4F1A9F815D343E5270",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              },
+              "back": {
+                "Name": "ahc29-2.4-TCU-In Azathoths Domain-2.png",
+                "ID": "B09BC63D5A307739FB4FE46A21D0AC06",
+                "SourceID": "39CE6E02312C326E2CDDC99D4562B36F2E3812BC",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              }
+            },
+            {
+              "id": "df0e691e-6f28-4d1c-9545-ca7e1b1ff95b",
+              "count": 1,
+              "front": {
+                "Name": "ahc77-2.4-FHV-Barn-1.png",
+                "ID": "CAF6F5FE0FE9705208E9D7B852561230",
+                "SourceID": "D30D4B8E9B2AC1DC361875DF44EE11F91F83D1E0",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              },
+              "back": {
+                "Name": "ahc77-2.4-FHV-Barn-2.png",
+                "ID": "DFFC572B87FCFAB63F5F2747E0585C07",
+                "SourceID": "BF54BCEDD69E88A564429BD7FD76047342DC4763",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              }
+            },
+            {
+              "id": "7f34bca9-9d45-4d11-a0f0-1d18defcd081",
+              "count": 1,
+              "front": {
+                "Name": "ahc84-2.4-TDC-Ascend the Wall-1.png",
+                "ID": "3C65FA8E27E4C7932C08A6DBFFF5452F",
+                "SourceID": "BC2C8A31441C6EBDEABA05FD1049EAA03BD2E134",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              },
+              "back": {
+                "Name": "ahc84-2.4-TDC-Ascend the Wall-2.png",
+                "ID": "653CAE8ACA55DFD9D555477FE6F5C29A",
+                "SourceID": "FE4B9E056F0713C0831B3574BD2A849CB6625D7F",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              }
+            },
+            {
+              "id": "870ca0c9-32da-45d6-8a33-66a68f12d1cb",
+              "count": 1,
+              "front": {
+                "Name": "ahc84-2.4-TDC-Core of the Vault-1.png",
+                "ID": "98695DFE558EFAFBA05F3530DDCA0E2D",
+                "SourceID": "772A336FDCD05DB097EC7BF186776740ADF700DD",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              },
+              "back": {
+                "Name": "ahc84-2.4-TDC-Core of the Vault-2.png",
+                "ID": "4BC4EC5B6356BC2C4167F5ED67793514",
+                "SourceID": "96109D3C6806F095EB455FE7F90150FB50F693EE",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              }
+            },
+            {
+              "id": "67290b6a-742e-4fb4-bdb3-309a281137ce",
+              "count": 1,
+              "front": {
+                "Name": "ahc84-2.4-TDC-Descend into the Abyss-1.png",
+                "ID": "3F1BDA7FF7BF8C9CB6C07AD1DDE42900",
+                "SourceID": "9861E897FDDA56646347878E9AFE685041AD275B",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              },
+              "back": {
+                "Name": "ahc84-2.4-TDC-Descend into the Abyss-2.png",
+                "ID": "5CFB398702A9F695BA2C86899804A3ED",
+                "SourceID": "D0BAB9FC0028A431C7CC0F694E6004D192D74B67",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              }
+            },
+            {
+              "id": "157065b9-a95b-4a15-bb05-272fa531182e",
+              "count": 1,
+              "front": {
+                "Name": "ahc84-2.4-TDC-No Place Like Home-1.png",
+                "ID": "7DDD6778716C21FF20DD177A54ACAACD",
+                "SourceID": "830C46D011DED9140786F24CD4D1C0FBA06A26D0",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              },
+              "back": {
+                "Name": "ahc84-2.4-TDC-No Place Like Home-2.png",
+                "ID": "26F3F0E7909DE257B21C6BE5A654E5EF",
+                "SourceID": "D6B4E4307571D40FD8ABC3AEA6557EAB276DDC38",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              }
+            },
+            {
+              "id": "fcbfd307-4e59-4a5c-84e4-15048c207576",
+              "count": 1,
+              "front": {
+                "Name": "ahc84-2.4-TDC-The Final Seal-1.png",
+                "ID": "A6B9137DBF5F383CB7247236E451908A",
+                "SourceID": "82E8AD5E515E2292CD7AEED1D0B669454B8D1E95",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              },
+              "back": {
+                "Name": "ahc84-2.4-TDC-The Final Seal-2.png",
+                "ID": "B4DDE1460C8AD15A6A4E59095CC0BE4C",
+                "SourceID": "9982723D0BE050C6B0B941B40E4384B160B7D272",
                 "Exp": "png",
                 "Width": 824,
                 "Height": 1124
@@ -53,7 +197,79 @@
           "code": "C380050185D1C1AF"
         },
         {
-          "name": "Errata 2.1, 2023-08",
+          "name": "Card Errata 2.3, 2024-10",
+          "cards": [
+            {
+              "id": "cea83778-edd3-4a68-9414-2a384d225d92",
+              "count": 1,
+              "front": {
+                "Name": "ahc70-2.3-TSK-Coterie Envoy-1.png",
+                "ID": "FE10A15BB162E9E2FEA86B7C1B913EC6",
+                "SourceID": "06E25189B363D13CB0A85B724C7690256BB3CB22",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              },
+              "back": {
+                "Name": "ahc70-2.3-TSK-Coterie Envoy-2.png",
+                "ID": "111FA2DF6B823DC43983459B4ABF8509",
+                "SourceID": "A57B4B8448FBAB5F8453083F4F6D3A276F0F1C68",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              }
+            },
+            {
+              "id": "7540b6d5-2b11-41cc-8301-b93c61874f7e",
+              "count": 1,
+              "front": {
+                "Name": "ahc77-2.3-FHV-Weed Choked Beach-1.png",
+                "ID": "4BF28B87FC6BAF139ACD7666D4075712",
+                "SourceID": "B612BE00873000D154ACC7AC241CF4BC92545EB9",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              },
+              "back": {
+                "Name": "ahc77-2.3-FHV-Weed Choked Beach-2.png",
+                "ID": "56787AE1FA44FA8F98B0998EED790B46",
+                "SourceID": "8B44E4D6B284DF23FAE84252F1B78F35EB868B89",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Card Errata 2.2, 2024-02",
+          "cards": [
+            {
+              "id": "8bbfab0d-4b80-4ef0-a6b7-1a15fa122224",
+              "count": 1,
+              "front": {
+                "Name": "ahc70-2.2-TSK-The Risen Dead-1.png",
+                "ID": "CC9F1125484CC0C20063709672384690",
+                "SourceID": "EC87257D388F9ED6B69036054D1784A6862F32D5",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              },
+              "back": {
+                "Name": "ahc70-2.2-TSK-The Risen Dead-2.png",
+                "ID": "41170CC4567FA5C2D2CFF2F81550282D",
+                "SourceID": "718B438A337170AFA72B601B0B59B72468AAEC84",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Card Errata 2.1, 2023-08",
           "cards": [
             {
               "count": 1,
@@ -268,7 +484,7 @@
           "code": "C380050185D1C1AF"
         },
         {
-          "name": "Errata 2.0, 2022-08",
+          "name": "Card Errata 2.0, 2022-08",
           "cards": [
             {
               "count": 1,
@@ -350,7 +566,7 @@
           "code": "C380050185D1C1AF"
         },
         {
-          "name": "Errata 1.9, 2021-06",
+          "name": "Card Errata 1.9, 2021-06",
           "cards": [
             {
               "count": 1,
@@ -394,7 +610,7 @@
           "code": "C380050185D1C1AF"
         },
         {
-          "name": "Errata 1.7, 2020-03",
+          "name": "Card Errata 1.7, 2020-03",
           "cards": [
             {
               "count": 1,
@@ -457,9 +673,10 @@
           "code": "C380050185D1C1AF"
         },
         {
-          "name": "Errata 1.6, 2019-09",
+          "name": "Card Errata 1.6, 2019-09",
           "cards": [
             {
+              "id": "3949cc4e-f069-4216-98e3-8276134075d9",
               "count": 1,
               "front": {
                 "Name": "ahc02-1.6-DWL-A Sacrifice Made-1.png",
@@ -471,8 +688,8 @@
               },
               "back": {
                 "Name": "ahc02-1.6-DWL-A Sacrifice Made-2.png",
-                "ID": "AF4D144E979A4FF4445169BEEE2A939B",
-                "SourceID": "746FADE973D0D0B0BC6169043DC6F4213E8D2001",
+                "ID": "A9F53343B4C6F8CA898221A17ADF3E16",
+                "SourceID": "D688A41ABA93977DAA97BCDE752532B4603DAF76",
                 "Exp": "png",
                 "Width": 824,
                 "Height": 1124
@@ -558,7 +775,7 @@
           "code": "C380050185D1C1AF"
         },
         {
-          "name": "Errata 1.4, 2018-09",
+          "name": "Card Errata 1.4, 2018-09",
           "cards": [
             {
               "count": 1,
@@ -583,9 +800,10 @@
           "code": "C380050185D1C1AF"
         },
         {
-          "name": "Errata 1.3, 2018-06",
+          "name": "Card Errata 1.3, 2018-06",
           "cards": [
             {
+              "id": "0ed2d1e2-bfda-4f06-b520-cb64f9034bdf",
               "count": 1,
               "front": {
                 "Name": "ahc02-1.3-DWL-Henry Armitage-1.png",
@@ -597,8 +815,8 @@
               },
               "back": {
                 "Name": "ahc02-1.3-DWL-Henry Armitage-2.png",
-                "ID": "478CC3D80511A2FF5A06D3681B72B441",
-                "SourceID": "182B117B22662FE62BE9F8286FB80348206B7EE0",
+                "ID": "AE77CF17E6E900DFB21493BDF8D90D84",
+                "SourceID": "DC68E62391BBAB68FFCAAA8A18A58549A4676FCF",
                 "Exp": "png",
                 "Width": 824,
                 "Height": 1124
@@ -665,9 +883,10 @@
           "code": "C380050185D1C1AF"
         },
         {
-          "name": "Errata 1.2, 2017-12",
+          "name": "Card Errata 1.2, 2017-12",
           "cards": [
             {
+              "id": "cf774c56-3dfa-42a0-a81e-e8a3e3882bf0",
               "count": 1,
               "front": {
                 "Name": "ahc02-1.2-DWL-Clover Club Pit Boss-1.png",
@@ -679,14 +898,15 @@
               },
               "back": {
                 "Name": "ahc02-1.2-DWL-Clover Club Pit Boss-2.png",
-                "ID": "7FC25517497D9EEA3B757E0AEA3AA9BE",
-                "SourceID": "65F2147E355BCC289C63EAD6EE6958138D508BBC",
+                "ID": "BDF6CEBD75D1530DD09C82D700960AAA",
+                "SourceID": "C05E0119D1736EA7776456588ECA32397D289A20",
                 "Exp": "png",
                 "Width": 824,
                 "Height": 1124
               }
             },
             {
+              "id": "54593a41-d979-4f9b-b9c6-31f394e0b186",
               "count": 1,
               "front": {
                 "Name": "ahc02-1.2-DWL-Peter Clover-1.png",
@@ -698,8 +918,8 @@
               },
               "back": {
                 "Name": "ahc02-1.2-DWL-Peter Clover-2.png",
-                "ID": "D770A9F089DC1ACA2E2850B09FCF27B4",
-                "SourceID": "F9B366C3FB5B3AC0AFABDAAFECFA1D815C7FD740",
+                "ID": "7314AEBF4EBFB0F827B9E14756901AA8",
+                "SourceID": "5246A8CBA526DEEB1AB6D86C13CD72B172865E76",
                 "Exp": "png",
                 "Width": 824,
                 "Height": 1124
@@ -785,9 +1005,10 @@
           "code": "C380050185D1C1AF"
         },
         {
-          "name": "Errata 1.1, 2017-06",
+          "name": "Card Errata 1.1, 2017-06",
           "cards": [
             {
+              "id": "0fdb2d8a-6f40-4372-bb39-8c337f2bf6be",
               "count": 1,
               "front": {
                 "Name": "ahc02-1.1-DWL-Burned Ruins (revealed)-1.png",
@@ -799,8 +1020,91 @@
               },
               "back": {
                 "Name": "ahc02-1.1-DWL-Burned Ruins (revealed)-2.png",
-                "ID": "72BD46152D1F929DD34EF204D6E92EF5",
-                "SourceID": "5A74FFE94FFA428A6917F05BA989DDCD5C7D2A96",
+                "ID": "328B499D98DB8A28D27A93D051F5876F",
+                "SourceID": "66E54244C2E84DD9665F96648896C358A35D4419",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        }
+      ]
+    },
+    {
+      "name": "Campaign Guide Errata",
+      "parts": [
+        {
+          "name": "Guide Errata 2.4, 2025-07",
+          "cards": [
+            {
+              "id": "48a84bc4-a737-4f61-b7ea-a7733efd0a4d",
+              "count": 1,
+              "front": {
+                "Name": "ahc84-2.4-TDC-Campaign Guide Errata-1.png",
+                "ID": "60E7663ED44A4B591A58F9819C738923",
+                "SourceID": "70F14F91F63B27D616D8681BC805DA060A0942BC",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              },
+              "back": {
+                "Name": "ahc84-2.4-TDC-Campaign Guide Errata-2.png",
+                "ID": "60E7663ED44A4B591A58F9819C738923",
+                "SourceID": "70F14F91F63B27D616D8681BC805DA060A0942BC",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Guide Errata 2.3, 2024-10",
+          "cards": [
+            {
+              "id": "c43254c7-1669-438d-b23b-3dc59c9b856e",
+              "count": 1,
+              "front": {
+                "Name": "ahc77-2.3-FHV-Campaign Guide Errata-1.png",
+                "ID": "2545200627FE4C2A0281856CDBCD0A1C",
+                "SourceID": "567AFAFBFF16F3E7BBB7EA41293200EB61C67A96",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              },
+              "back": {
+                "Name": "ahc77-2.3-FHV-Campaign Guide Errata-2.png",
+                "ID": "5323C2FD7071C2D64BBBED3E2126AAF7",
+                "SourceID": "E4E3A1F643882067D3A1C7069BD64D16572A0F70",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Guide Errata 2.2, 2024-02",
+          "cards": [
+            {
+              "id": "b001eb77-9c6e-4dfa-95f0-ca7e6aa9b6e5",
+              "count": 1,
+              "front": {
+                "Name": "ahc70-2.2-TSK-Campaign Guide Errata-1.png",
+                "ID": "83FBA1B7EEA37F1F59B48A749F43A0C8",
+                "SourceID": "71D6718E71CC6EFC934B5B67C1C0B0B90AF9EFC2",
+                "Exp": "png",
+                "Width": 824,
+                "Height": 1124
+              },
+              "back": {
+                "Name": "ahc70-2.2-TSK-Campaign Guide Errata-2.png",
+                "ID": "84ECDC44A8D5157717BB985471A13CE5",
+                "SourceID": "8D66B4162ABF70C3F7D49F06F13B188ED0CED349",
                 "Exp": "png",
                 "Width": 824,
                 "Height": 1124
@@ -813,6 +1117,6 @@
     }
   ],
   "created": "2023-10-01T14:39:00.687Z",
-  "updated": "2024-10-07T15:59:51.464Z",
+  "updated": "2025-08-01T15:40:51.464Z",
   "hash": "c3128c4374f26028379029787169991483b210a5f6c265693be733071460a775"
 }

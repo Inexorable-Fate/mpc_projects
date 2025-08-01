@@ -1,3 +1,6 @@
+**2025-08-01:**
+  - Replaced Inner Chamber in the Monterey Jack scenario Relics of the Past with the errata version from FAQ 2.4.
+
 **2025-01-02:**
   - Added minicard for Parallel Jenny with Aconyte art. (Note that this is the first Parallel to use different art from the standard version of the investigator so is the only one with a minicard.)
 
