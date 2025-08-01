@@ -1,7 +1,8 @@
 {
   "version": 5,
   "projectIds": {
-    "E6F11A6B4F315111738788609ACB02524E1AF1F11C40CB3B419730720B6A1772E380D0F6898E0B3F": "Ultimatums, Boons, Refractions FAQ 2.3"
+    "E6F11A6B4F315111738788609ACB02524E1AF1F11C40CB3B419730720B6A1772E380D0F6898E0B3F": "Ultimatums, Boons, Refractions FAQ 2.3",
+    "46E3F5997C60C3E490D32C9C8EB300D841B7E49AA2C238AFFA9DE73FD9C30ED3AC2FED61F8420400": "Refractions 2.4"
   },
   "name": "Ultimatums, Boons & Refractions",
   "description": "FFG’s Ultimatums, Boons & Refractions, introduced in FAQ 2.3, offer optional variants to adjust the difficulty of your game. These cards provide a convenient way to apply the official buffs and nerfs without constantly having to check the FAQ, and serve as printed reminders throughout a campaign or scenario of which changes need to be applied.",
@@ -22,6 +23,83 @@
     "Add-On"
   ],
   "options": [
+    {
+      "name": "FAQ 2.4, Jul 2025",
+      "parts": [
+        {
+          "name": "Ultimatums",
+          "cards": [
+            {
+              "id": "17084852-cc0d-4a54-a947-5e8b7a3d2581",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of Exile-A.png",
+                "ID": "CF6E4FB6FD84A7C988757181C9DFDC13",
+                "SourceID": "3E39184A6D284149163D2254CAB870FFBB41D1B7",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of Exile-B.png",
+                "ID": "B816D78CE5790385E379E1260308CCAF",
+                "SourceID": "136C679519968580235A318B1F19BEBC40FFC2F9",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Refractions",
+          "cards": [
+            {
+              "id": "50b2f651-b88a-41e3-8e6e-b36c80a7b22d",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Ultimatum of the Faulty Carburetor-A.png",
+                "ID": "6AF9D6CFB8EF1F3E26D3E2A9116932AC",
+                "SourceID": "EEF87D40B502FE1D4C39184824287CEBCFA4222F",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Ultimatum of the Faulty Carburetor-B.png",
+                "ID": "BD4574957B776A5320642D1651205270",
+                "SourceID": "58B5E2E4001A7882C0A3EFF8764D3BECB9BDAD19",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "e14594dc-9e38-471a-be6c-8ae670caad94",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Ultimatum of the Sleeper-A.png",
+                "ID": "07DCA49D413E5D6D068D33739363D18E",
+                "SourceID": "4BEB188BEBC754F28337CAC233C6D191EB18E580",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Ultimatum of the Sleeper-B.png",
+                "ID": "AA785F97AA4E4F55F08930C9F3E3E9FA",
+                "SourceID": "811B9082FF6AD9585C25C8BDE8F5DA0066EFB56F",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        }
+      ]
+    },
     {
       "name": "FAQ 2.3, Oct 2024",
       "parts": [
@@ -767,6 +845,6 @@
     }
   ],
   "created": "2024-11-28T10:28:33.074Z",
-  "updated": "2024-11-28T10:28:33.074Z",
+  "updated": "2025-08-01T15:45:33.074Z",
   "hash": "8e613aebe2eb30b0d99ccd251b965ab390a20b7a895763b222b6840b73d2ff3e"
 }
