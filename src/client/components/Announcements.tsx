@@ -18,7 +18,7 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
           <div className={'alert-content'}>
             <div className={'alert-item'}>
               <h3>Recently added: </h3>
-              <p>Taboo 2.4 • Forget Me Not • Investigator Minicards with Arkham Files alt art.</p>
+              <p>Taboo 2.4 • Ultimatiums, Boons & Refractions from Taboo 2.4 • Errata Patch Cards from Taboo 2.3 & 2.4 • Forget Me Not • Investigator Minicards with Arkham Files alt art.</p>
             </div>
             <div className={'alert-item'}>
               <h3>Tip: </h3>
@@ -26,7 +26,7 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
             </div>
             <div className={'alert-item'}>
               <h3>Project errata: </h3>
-              <p>Click the changelog icons <ChangelogIcon/> to see if you need to reprint errata for The Colour Out of Oz or any other projects.</p>
+              <p>Click the changelog icons <ChangelogIcon/> to see if you need to reprint errata for Parallel Monterey Jack’s scenario, The Colour Out of Oz, or any other projects.</p>
             </div>
           </div>
         </Alert>
