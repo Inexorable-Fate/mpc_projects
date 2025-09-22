@@ -18,7 +18,7 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
           <div className={'alert-content'}>
             <div className={'alert-item'}>
               <h3>Recently added: </h3>
-              <p>Taboo 2.4 • Ultimatiums, Boons & Refractions from Taboo 2.4 • Errata Patch Cards from Taboo 2.3 & 2.4 • Forget Me Not • Investigator Minicards with Arkham Files alt art.</p>
+              <p>When the World Screamed, a new epic multiplayer and single group scenario from The Beard, world premiered at Arkham Con ’25.</p>
             </div>
             <div className={'alert-item'}>
               <h3>Tip: </h3>
