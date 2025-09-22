@@ -1,0 +1,940 @@
+{
+  "version": 5,
+  "projectIds": {
+    "4F00172FA78C5B3A256E17BE40A09C6D1F385C25742A83017085DA038F2186C53F2954169B08A1BE": "When the World Screamed"
+  },
+  "name": "When the World Screamed",
+  "description": "Inspired by the Arthur Conan Doyle short story of the same name, When the World Screamed is a scenario with both epic multiplayer and single group modes that will find you embarking on an expedition to drill to the center of the Earth! But what will you discover, and will you prove the wild assertions of the expedition lead that something is alive down there? Enter the elevator, ride it down to the machinery, and find out what happens when the world screams!",
+  "artist": "Makk Hariel",
+  "info": "",
+  "website": "https://mysteriouschanting.wordpress.com/2025/07/23/when-the-world-screamed/",
+  "cardsLink": "https://drive.google.com/drive/folders/1LcZaZUJdOM4EjSovMMt02m_-1IbaYZfi?usp=drive_link",
+  "scenarioCount": 1,
+  "investigatorCount": 0,
+  "authors": [  
+    "The Beard"
+  ],
+  "statuses": [
+    "Finished",
+    "Project Available" 
+  ],
+  "tags": [
+    "Standalone"
+  ],
+  "options": [
+    {
+      "name": "",
+      "parts": [
+        {
+          "name": "When the World Screamed",
+          "cards": [
+            {
+              "id": "bc68c15b-f23e-4e9e-928a-7ad8633b94e1",
+              "count": 1,
+              "front": {
+                "Name": "001-When the World Screamed-1.png",
+                "ID": "832C36E7ED970129E277022361553CAF",
+                "SourceID": "1C937AF9B03C8738484AEA11EBAF4688D972DFC6",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "001-When the World Screamed-2.png",
+                "ID": "A25A72CD7A89F8778F837A224898F4C1",
+                "SourceID": "C5AB6585C28D59C5B93FC6B76B55A02369D247C9",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "0ac09a4e-6690-4ac9-a0e7-8328f48d2c44",
+              "count": 1,
+              "front": {
+                "Name": "002-Agenda 1a The Experiment Begins-1.png",
+                "ID": "DCD02C3F77B0C532DE22A996C2DE9D03",
+                "SourceID": "C359A1061FEDEEC0FFDC1AB890081E09932FFE3E",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "002-Agenda 1a The Experiment Begins-2.png",
+                "ID": "F06FA4E360227C1FF2E583513E46A6B0",
+                "SourceID": "D46B32D0B11DFA74BB8A96021A30FC27D1C44747",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "713ed113-d358-4b76-81a2-2a4c0edca335",
+              "count": 1,
+              "front": {
+                "Name": "003-Agenda 2a Tremors All Around-1.png",
+                "ID": "D66B3770F3E458A84ABC9B223B0D60B6",
+                "SourceID": "808848FF6274F44DC1FD8DBB2B98DC7F51EC5FF6",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "003-Agenda 2a Tremors All Around-2.png",
+                "ID": "3609D70D2C2C33573365861DF792DB77",
+                "SourceID": "F388BA97F59AF55CBE356391AA8AFDFD067106FB",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "a666fcf1-0ec8-4403-9de3-3d4f4a9e0a51",
+              "count": 1,
+              "front": {
+                "Name": "004-Agenda 3a Breaking Point-1.png",
+                "ID": "D50A52B403EBE4A174B9FFCD27B4E863",
+                "SourceID": "B0122A33C56C3FE3DD8BC1732BA7FB635CA2FFD7",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "004-Agenda 3a Breaking Point-2.png",
+                "ID": "E6A0FC1E53D0698150B3981CB2A2FC18",
+                "SourceID": "5E0B441AE6E1ED81B52C10886DFA811DA78484FA",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "c7236c80-2e77-452d-82f7-e96acb30ceac",
+              "count": 1,
+              "front": {
+                "Name": "005-Act 1a Downward Spiral (v I)-1.png",
+                "ID": "5196E2AA0CBF5A1C2DD0595F32BD3F9E",
+                "SourceID": "1D6A5C74C69AD8962D3D9C68C2758110E517CA8D",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "005-Act 1a Downward Spiral (v I)-2.png",
+                "ID": "B3EE455AD9539FB21C26E6881B7C491F",
+                "SourceID": "0DF7BFFBE1C2007C539FA6B46396CBD4AF3076C3",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "3c93298c-6145-4467-aeea-ea123f938adc",
+              "count": 1,
+              "front": {
+                "Name": "006-Act 1a Downward Spiral (v II)-1.png",
+                "ID": "955A84C08214EB687BD6275A48C374D1",
+                "SourceID": "49FE5D615420A6C750C105988BF1AF241137711C",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "006-Act 1a Downward Spiral (v II)-2.png",
+                "ID": "CC5A37BF1C86DE34EFB10B0DF69CA3ED",
+                "SourceID": "35456C0B1F18D0BF31EE5B226A4213779836128F",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "dfa94252-7815-4718-838f-4c129a0111eb",
+              "count": 1,
+              "front": {
+                "Name": "007-Act 2a Strike the Earth-1.png",
+                "ID": "C6C8F12FE787F3B1D9DCE74D7BA29193",
+                "SourceID": "508E6DA4B207B819876E6E6CE43B42E1F9E9B44C",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "007-Act 2a Strike the Earth-2.png",
+                "ID": "02167296EE3F9FDC677A959769D42017",
+                "SourceID": "09519EBF1493910E295678DC44F772C9E613DF44",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "2a2781a1-6048-4f5c-86ad-0756bd9040e8",
+              "count": 1,
+              "front": {
+                "Name": "008-Complications Arise-1.png",
+                "ID": "AD0C3D15D840A4C4B039079ED510A04D",
+                "SourceID": "6B0717350C84EA4E121DA1A1949270C56B4D54E7",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "a3794d2b-7843-4149-98f9-379ede009c21",
+              "count": 1,
+              "front": {
+                "Name": "009-Miasmatic Vent-1.png",
+                "ID": "39DC3989EB264921BA9B37BC5C80B6FF",
+                "SourceID": "74F09DBC86B1A4752BF57470F473263E9F356A0E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "42a6d38c-32d4-4386-bc71-01bf4f23ad37",
+              "count": 1,
+              "front": {
+                "Name": "010-Mutable Protoplasm-1.png",
+                "ID": "B8C0628FF487A16361651A1A2610E2E6",
+                "SourceID": "7F5A0C097DD786D0252A9C9AE997B7A6DCE51BBE",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "05a5b945-4dc6-4599-a63e-223a998e8b27",
+              "count": 1,
+              "front": {
+                "Name": "011-Mounting Exhaustion-1.png",
+                "ID": "2F66BFBBB752C87791D66ACA90A2ACF0",
+                "SourceID": "466802C8CE77668DAA3AE3ED208DF467318C18D4",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "1a9cc572-6fb0-4caa-b0da-d46b1f46dfe6",
+              "count": 1,
+              "front": {
+                "Name": "012-Strained Equipment-1.png",
+                "ID": "0AE81A40292217BB4935475C1B29C435",
+                "SourceID": "A3D937BE07015C4682FD180E273132692B938226",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "7b2e8214-9bdc-49c2-bbc6-d249c895cd79",
+              "count": 1,
+              "front": {
+                "Name": "013-Control Platform-1.png",
+                "ID": "4DE2B3D992B3BCCEA0C11AF05518A9EC",
+                "SourceID": "0B0319D8731B28B7AB50B8438F0AD62F2CC924CB",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "7659008f-ebbd-4ec0-be98-b0651a260837",
+              "count": 1,
+              "front": {
+                "Name": "014-Auxiliary Grinders-1.png",
+                "ID": "21A4218107C52DE515FEB257BB1A00C3",
+                "SourceID": "DDB98BCD0F6F66EA55578D6BE806A7EA24FCBED4",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "d4ff2444-cb6e-4010-8842-23c995886df7",
+              "count": 1,
+              "front": {
+                "Name": "015-Fuel Intake-1.png",
+                "ID": "404CFAD77676E7D7DD0C9930055A06EB",
+                "SourceID": "A28470C6E75FE4EE1BA3A0FD8170FF163B0E6C46",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "a47752a0-3c2d-4639-a56f-61ee19ba216a",
+              "count": 1,
+              "front": {
+                "Name": "016-Main Gearing-1.png",
+                "ID": "9E69DD3A4092EF963B376857E154334D",
+                "SourceID": "ED520CD14F1AC65F18CC3CDC000AFC9D9BD2D115",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "2129b20e-fc7a-4b5a-9998-114b94b5c9d3",
+              "count": 1,
+              "front": {
+                "Name": "017-Overflow Protectors-1.png",
+                "ID": "F9BE491D00FF49F5FA5874053CAF7CD2",
+                "SourceID": "C4400DDAD3619482ADE596F35BA9A3A86E7BEC9F",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "dce102f7-ff78-4536-9dcd-80175d6fe329",
+              "count": 1,
+              "front": {
+                "Name": "018-Power Gauges-1.png",
+                "ID": "83A82044DC0262F8EAB17ACC8944ED38",
+                "SourceID": "7C8946DA6EBBDFEDEEBCC3EEE76E3AF648DBF501",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "8fa44e9f-12e0-449e-b633-67d1203bcce0",
+              "count": 1,
+              "front": {
+                "Name": "019-Upper Supports-1.png",
+                "ID": "AD8246926B555AE677E40BAD821B77A9",
+                "SourceID": "B35817E2A929C0C40AC546C4F373EE25531A6EBD",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "d0f56a0b-4edf-4c12-bff5-23f096714ccc",
+              "count": 1,
+              "front": {
+                "Name": "020-Mantle Border-1.png",
+                "ID": "0CFDCC213E5A4F1D3D491541D68320EF",
+                "SourceID": "9BE0C9368566BF4FCD153D2D6FB1FAD18890A7EF",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "b9c361b0-fea4-4148-80aa-d5d670ac07ff",
+              "count": 1,
+              "front": {
+                "Name": "021-Ground Zero-1.png",
+                "ID": "801D4412852A86B50C813D774997AF7A",
+                "SourceID": "02E8F5051AF30FA9A3B8F265F3E25204725E75C1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "44dcbc1d-11d1-4be9-bbcf-958906a97a67",
+              "count": 1,
+              "front": {
+                "Name": "022-Compacted Chitin-1.png",
+                "ID": "AF65392234A48D6D19D433A76DC2A613",
+                "SourceID": "5D8C2043125CCC4C34DC41CE88E662C838505344",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "b538a5f1-6ebe-4795-96ff-a9a3efe1416e",
+              "count": 1,
+              "front": {
+                "Name": "023-Fossilized Remains-1.png",
+                "ID": "EC8758F6D45F40FFA6B2274E8CD9722B",
+                "SourceID": "B562E7F69E7888D112AD332F42BE189A8F2EE59A",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "235e62e3-8b5e-45ae-a511-95440faaeed2",
+              "count": 1,
+              "front": {
+                "Name": "024-Interwoven Veins-1.png",
+                "ID": "001B876A669337BDC21ABD49D4938C8B",
+                "SourceID": "CA40B963A28DBE616EA6D5DE016A99DF69132DB9",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "63493b6d-90bd-4b14-86c7-76a6dfb83efb",
+              "count": 1,
+              "front": {
+                "Name": "025-Pulsing Geode-1.png",
+                "ID": "0B792C2BAA49FFC0F73826F3BD19F287",
+                "SourceID": "646A8BDFBA1231D4444D9BF993344016798E3B85",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "cf66f826-305b-48c0-bddd-ca996ebc3f5a",
+              "count": 1,
+              "front": {
+                "Name": "026-Seeping Bedrock-1.png",
+                "ID": "74664D0AFB9E0F56B7396559406EAD80",
+                "SourceID": "AEC5D7B2971513875C07A6376BF710ABB721DC46",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "d23c0311-6af4-40e1-8cf1-6f4c4b0ade0b",
+              "count": 1,
+              "front": {
+                "Name": "027-Professor William Dyer-1.png",
+                "ID": "CF116F60A4C82D6782D2E9A05AD01749",
+                "SourceID": "BA9D1F0632C2D641CD7846E8D36833C56BE7AE0F",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "027-Professor William Dyer-2.png",
+                "ID": "22197981B631A691A69F61906DABD021",
+                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "0fdc8aa4-7fef-49fa-a02b-be9fab8ada4b",
+              "count": 1,
+              "front": {
+                "Name": "028-Professor George Challenger-1.png",
+                "ID": "3E94A8692A9DABC2ACDCB8DDF864959D",
+                "SourceID": "392D599BEB1F21AFD110654D1B64DEBE9C83EFE9",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "028-Professor George Challenger-2.png",
+                "ID": "22197981B631A691A69F61906DABD021",
+                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "96ddd3b3-e2cd-452c-9c16-7e1f2d4bcb88",
+              "count": 1,
+              "front": {
+                "Name": "029-Planetary Tissue Sample-1.png",
+                "ID": "B05F05902A51D976952D042778370C9F",
+                "SourceID": "B59BAC34E1BC41129AFE53BAAFA6CB0A341185CD",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "029-Planetary Tissue Sample-2.png",
+                "ID": "22197981B631A691A69F61906DABD021",
+                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "915fa8d1-46df-43eb-aa96-3fd37e9455fa",
+              "count": 1,
+              "front": {
+                "Name": "030-Chthonian Breacher-1.png",
+                "ID": "A5171BD08580412E8F118A18DC50CCC6",
+                "SourceID": "A9F8E06E9291AC342E1590F0159F246BECFE1CEE",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "d7fd7012-1ada-4af7-92ed-4007a7ebe14e",
+              "count": 1,
+              "front": {
+                "Name": "031-Chthonian Coiler-1.png",
+                "ID": "FE184A8A2BE122B0DE3C2B927B14B597",
+                "SourceID": "F31BC442D4800835A6B8FB944E236A93F92AAD80",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "9bec9858-a2ff-4ec6-a478-2383882fd48b",
+              "count": 1,
+              "front": {
+                "Name": "032-Chthonian Tunneler-1.png",
+                "ID": "C56A9B76626AA5640E8AE69E2323A8B6",
+                "SourceID": "2B4EB420CEB7B0D18603B0FDB61EC1549CF1DB9F",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "b222767d-8138-4160-9846-46991ba08d61",
+              "count": 1,
+              "front": {
+                "Name": "033-The Final Layer-1.png",
+                "ID": "F2B2562D21ADA6C2CF70BCCE90C217BF",
+                "SourceID": "22943101B22DE0FC8128C6BF409D0DE0D12C29B1",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "033-The Final Layer-2.png",
+                "ID": "8C3D08ED2E7B6D823BE9032985DCA145",
+                "SourceID": "957C70DC72FD23277AA5E2165D24D0A7A14BF986",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "4bf9406b-a125-4aa9-8276-c73336074fc9",
+              "count": 2,
+              "front": {
+                "Name": "034-Acidic Burrower-x2-1.png",
+                "ID": "DA26AE8CE918C9A538115C22122EE14C",
+                "SourceID": "D0A28D97D781F7145BA26EC8AFEEC66511DD447F",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "aec03653-430c-4be4-b417-03abfd812622",
+              "count": 2,
+              "front": {
+                "Name": "035-Hungry Lithovore-x2-1.png",
+                "ID": "39631A2E2019DA59282DB49F4B92BAF4",
+                "SourceID": "0A2CBC4FCE4BAD465FDB8A9F2B8CF38B68412658",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "fda643c0-745b-430c-9b8e-9ad921eebfea",
+              "count": 2,
+              "front": {
+                "Name": "036-Industrial Saboteur-x2-1.png",
+                "ID": "BFB263F52FC0B3AEDFB587115C9A92DD",
+                "SourceID": "D3C7D26F5A883F6E0BF8B2287040FED0AAFD4025",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "2e46df67-f05d-4cf4-adb6-d249eda69d3b",
+              "count": 2,
+              "front": {
+                "Name": "037-Subterranean Parasite-x2-1.png",
+                "ID": "DC06AA3A0CBEF36EF8FA91586A24CF1C",
+                "SourceID": "F0844E8B5EC46A7DB83BF7A9F1D6423E6A364FB7",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "8816e398-06a0-449c-8540-f77ed3795576",
+              "count": 2,
+              "front": {
+                "Name": "038-Destabilization-x2-1.png",
+                "ID": "5B0DD199B63127BA5F5A403AF4B2F972",
+                "SourceID": "C21404B0418BB0288FA33045B97935A4ED7C89D3",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "46b61e46-15cc-4433-b9bb-a76565c3e2b2",
+              "count": 2,
+              "front": {
+                "Name": "039-Dimming Lights-x2-1.png",
+                "ID": "30E479734F6892D8B1B27F497CEEF5A2",
+                "SourceID": "588EC4D7B7E27948ABBB19B32B7A5A16A29BD7AD",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "1e6023b4-e4c1-4654-8b72-27d49fce18cb",
+              "count": 2,
+              "front": {
+                "Name": "040-Falling Debris-x2-1.png",
+                "ID": "4FF9FCDE6CFBA8C7BFC8C9509DB3E26D",
+                "SourceID": "FCF01B7AB7F139BAA2011B324AF9E8DCA02145EC",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "e3d41333-7b15-43a9-8d36-62b7b66b22c0",
+              "count": 3,
+              "front": {
+                "Name": "041-Heat and Pressure-x3-1.png",
+                "ID": "D56BE7D9390865D1935D0F565FAAB456",
+                "SourceID": "4396ECA853A2D5FD89D445F552FE5DC8763F6337",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "4c7e6512-fa36-45c4-8db3-1649a594a371",
+              "count": 2,
+              "front": {
+                "Name": "042-Heavy Air-x2-1.png",
+                "ID": "3B733694377C9985DC4D3F3B76C6650A",
+                "SourceID": "0BB68E676EB53A7AC126432226EBEB1CAF5C68EF",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "cb8c3998-83ef-4f55-9a8f-8b48e9cc1e61",
+              "count": 2,
+              "front": {
+                "Name": "043-Jammed Machinery-x2-1.png",
+                "ID": "9F49E6F26D99C16166869BD0E5D56CF7",
+                "SourceID": "90B1C4E4DE8D6741CDCDEF9586588A63E3FFE34A",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "5f1c8255-1a71-43df-83fe-887ac0966e94",
+              "count": 3,
+              "front": {
+                "Name": "044-Something Stirs-x3-1.png",
+                "ID": "9842013D586741310468EEF5A3811E76",
+                "SourceID": "92B44FD57DC6F29F4B2C13B63552EE46D118AE58",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "f5dfda78-db44-4084-92ea-318056a316c6",
+              "count": 3,
+              "front": {
+                "Name": "045-Violent Tremor-x3-1.png",
+                "ID": "C5EBDB794327179D5A74BD28FF861B93",
+                "SourceID": "5F59FA1A9D1D0093A7284A9F5FD71A77033A5F84",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+         }
+      ]
+    }
+  ],
+  "created": "2025-09-20T00:00:00.000Z",
+  "updated": "2025-09-20T00:00:00.000Z",
+  "hash": "5a127db604c96480b353a6cde7a0ebd8ffd34935347ca3ed522ba052e72a0a49"
+}	
