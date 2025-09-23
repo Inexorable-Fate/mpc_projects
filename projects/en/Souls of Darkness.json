@@ -1,7 +1,8 @@
 {
   "version": 5,
   "projectIds": {
-    "3048A5A2673B078943CD0B20DE1E428F843C1397C2CD16A64E56302619149F13E05798B5B6F485C2": "Souls of Darkness"
+    "3048A5A2673B078943CD0B20DE1E428F843C1397C2CD16A64E56302619149F13E05798B5B6F485C2": "Souls of Darkness",
+    "4C96B735030E0C98AC609FD6EAE97830A6C830D14003047F8917030B38F8BF5557029B449EDD3720": "Souls of Darkness Errata 2025-02-19"
   },
   "name": "Souls of Darkness",
   "description": "The death of a mysterious collector and the relics of his estate have brought an ancient mystery to Arkham. Travel across the world and the cosmos to discover the truth, and so doing, decide the fate of humanity.",
