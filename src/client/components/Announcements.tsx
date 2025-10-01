@@ -18,7 +18,7 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
           <div className={'alert-content'}>
             <div className={'alert-item'}>
               <h3>Recently added: </h3>
-              <p>When the World Screamed, a new epic multiplayer and single group scenario from The Beard, world premiered at Arkham Con ’25.</p>
+              <p>And Then There Were None, The Beard’s annual October standalone • When the World Screamed, a new epic multiplayer and single group scenario from The Beard, world premiered at Arkham Con ’25.</p>
             </div>
             <div className={'alert-item'}>
               <h3>Tip: </h3>

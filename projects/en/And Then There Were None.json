@@ -1,0 +1,1181 @@
+{
+  "version": 5,
+  "projectIds": {
+    "58F566C911EEE6051FF8150A499A8713B33406C0D58DADBAC6D27EEB0F7C8043510950419525C845": "And Then There Were None"
+  },
+  "name": "And Then There Were None",
+  "description": "Based on the Agatha Christie novel, And Then There Were None brings you to the doorstep of Soldier Island, where ten corpses and a mystery await! Discover the truth of the murders and bring an end to the supernatural events on the island.",
+  "artist": "The Adventure Company",
+  "info": "",
+  "website": "https://mysteriouschanting.wordpress.com/2025/10/01/and-then-there-were-none/",
+  "cardsLink": "https://drive.google.com/drive/folders/1a3umAjZkQy7zNFjAs1Q5IklrMqw_-OYR?usp=drive_link",
+  "scenarioCount": 1,
+  "investigatorCount": 0,
+  "authors": [
+    "The Beard"
+  ],
+  "statuses": [
+    "Finished",
+    "Project Available"
+  ],
+  "tags": [
+    "Standalone"
+  ],
+  "options": [
+    {
+      "name": "",
+      "parts": [
+        {
+          "name": "And Then There Were None",
+          "enabled": true,
+          "cards": [
+            {
+              "id": "87ec654a-01c8-45a7-9f83-1bf6eca13b83",
+              "count": 1,
+              "front": {
+                "Name": "000-Rules Page 0-1-a.png",
+                "ID": "E39A89B60CDED7792BA4E7725654303A",
+                "SourceID": "2D646FA87AFA649213DAF9EBB53C9C849AD93199",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "000-Rules Page 0-1-b.png",
+                "ID": "8092B91E3B1467FEDB0F388E46A99A46",
+                "SourceID": "DD4D547EC5FFA4FABC208F2828ACEFFC30481612",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "3ddf6159-41be-40fb-83ef-7c953b356443",
+              "count": 1,
+              "front": {
+                "Name": "000-Rules Page 2-3-a.png",
+                "ID": "65A24FC3882EE8518CB4787CC512FF94",
+                "SourceID": "7A303123E332D05EF3928457A69953976C0A41C9",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "000-Rules Page 2-3-b.png",
+                "ID": "F6E7A3D0D95C8C882D2E2BDD8D96C207",
+                "SourceID": "E227B8052957863B5AA56389A1378093B8021956",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "054c2ca7-4783-41bd-9faf-0cd383890c98",
+              "count": 1,
+              "front": {
+                "Name": "000-Rules Page 4-5-a.png",
+                "ID": "6389BD80ECD20E9E8404C51FA72E3303",
+                "SourceID": "67709DDA7EAE9DAB3BDEFFDA30344CAFD4CA060D",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "000-Rules Page 4-5-b.png",
+                "ID": "BF02DE17921392C75C0EA79BC8BB5213",
+                "SourceID": "EBEAE340D7205FD8A986C57BB034FBF63E81D9C9",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "f2cddb6e-04d9-4e9c-a63e-4be427af5b14",
+              "count": 1,
+              "front": {
+                "Name": "000-Rules Page 6-7-a.png",
+                "ID": "4921AFDD8C12E58838C50D14557F939A",
+                "SourceID": "EFF21B826CAD3BEF7E501AD45147E909065753E9",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "000-Rules Page 6-7-b.png",
+                "ID": "3735AF3ADB45246E647060DFDBBE33C3",
+                "SourceID": "2685DE5644C6A4937128CF1D14D1BF55561D0B1F",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "c0a10f7e-56ea-450b-a9fb-19b1a1b883eb",
+              "count": 1,
+              "front": {
+                "Name": "000-Rules Page 8-9-a.png",
+                "ID": "E875A43E281844F26106A67A9785CB85",
+                "SourceID": "30129850B4DC2FCE0F1462E5372D14C75653C4A4",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "000-Rules Page 8-9-b.png",
+                "ID": "80E51DD28D704BAC59612683E2FEA639",
+                "SourceID": "A43DF6AA685DB94384AEF7700CA58085F1465AD8",
+                "Exp": "png",
+                "Width": 1651,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "e9459464-2e98-4a27-9ab5-6e5be90537bc",
+              "count": 1,
+              "front": {
+                "Name": "001-And Then There Were None-1.png",
+                "ID": "93325AF4C320F6AF62A0F98BAFD5E42E",
+                "SourceID": "C22EDB1993E7BD4056528928C866A1FA892262B0",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "001-And Then There Were None-2.png",
+                "ID": "39CBFEB08C1168E40E8A2F0D3B5639FA",
+                "SourceID": "A67AE385AB34A9E333C013B1669EBFB7F92D4630",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "b8833b35-573c-4782-b156-58aaf78648e8",
+              "count": 1,
+              "front": {
+                "Name": "002-Agenda 1a Soldiering On-1.png",
+                "ID": "2D96382556AC0DD775B94BC728828471",
+                "SourceID": "150502B4DB0BE211C43674A8A058F07B6AEED710",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "002-Agenda 1a Soldiering On-2.png",
+                "ID": "69F1A9B6956E14433126719011861306",
+                "SourceID": "110320DD87A4975978F47805A2E34C8C0A14CB63",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "05932fd4-b412-475b-9b8d-6d29371940fa",
+              "count": 1,
+              "front": {
+                "Name": "003-Act 1a Cause U N Owen-1.png",
+                "ID": "F16FA833E62CE0DEF02E73C59F914A0E",
+                "SourceID": "1B4589E18D6F76817DF5DCCAB97FF2DA73985A58",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "003-Act 1a Cause U N Owen-2.png",
+                "ID": "C411C962B21E09236C3A6A2CC1BD0156",
+                "SourceID": "7A2C4EEA0FE015697E023FA4BE4499F5687430DA",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "92b7f83a-5858-4238-9137-24f4d238d386",
+              "count": 1,
+              "front": {
+                "Name": "004-Act 2a Best Laid Plans-1.png",
+                "ID": "CFBDE193FD570104C6CBAD310109952A",
+                "SourceID": "C40164A0A19468BF97510742536A3E2EAE463D7F",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "004-Act 2a Best Laid Plans-2.png",
+                "ID": "5FBC224E81FA24BC778C3F08EDB3E0A9",
+                "SourceID": "507B9005CB72DA3808CB5A314DFEC0E48F15C075",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "9d238e2a-2d26-4db8-affc-7a3fe0bf9baf",
+              "count": 1,
+              "front": {
+                "Name": "005-Terrace-1.png",
+                "ID": "CF26439F61954B049A580EDAD38D73EA",
+                "SourceID": "5B960F77713EC25622D3032A501C92D69EE38592",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "005-Terrace-2.png",
+                "ID": "FBA99DFEB9D29557A9232BC3CA4DE21E",
+                "SourceID": "5B3AB6D4EF62A5402F67BD8E2F5FE187DAA2135F",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "20d17fe2-422f-462e-9b38-30200470be09",
+              "count": 1,
+              "front": {
+                "Name": "006-Beach-1.png",
+                "ID": "62CEE2C306AED0FED794F82824AB0A3A",
+                "SourceID": "D28CFC49BB745B81DA985E1501E4FC7884C0386C",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "006-Beach-2.png",
+                "ID": "5E23258C894BD190FF94A0FF729E11FE",
+                "SourceID": "F97FD76B0D23E54C473033E0E11B4F7615E077EB",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "00e0eaf2-0af3-4e84-a17f-70e34bdeb248",
+              "count": 1,
+              "front": {
+                "Name": "007-Bedrooms-1.png",
+                "ID": "777300802EA064B1769F2442A11F6A51",
+                "SourceID": "990DF9ED9E85785D6A884AFAF3040496504A5E9A",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "007-Bedrooms-2.png",
+                "ID": "0151E3F3727CE89101923CC217FD45F3",
+                "SourceID": "C273EA6976F4EE878D71EC2FD703A743F7AE6ED0",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "c31a7ce0-36f8-440f-af0b-331a1c81f7d4",
+              "count": 1,
+              "front": {
+                "Name": "008-Dining Room-1.png",
+                "ID": "A0C8916AED96C29CA6621AD8150FD3CF",
+                "SourceID": "3F5F5A0BE8AA403564E8DE0BFFAA2390FE774520",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "008-Dining Room-2.png",
+                "ID": "FD5BE0BD9496648C1CFA2E858CACB347",
+                "SourceID": "9FF87B5C451D82BBA833958D17E96C4E38BAB0F5",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "ecba31d4-6ce5-4c13-8ebf-30a8ddb4950e",
+              "count": 1,
+              "front": {
+                "Name": "009-Sunroom-1.png",
+                "ID": "82885C56CF7BCD495060B3B563A4940B",
+                "SourceID": "F151A49FD95CD3D5A9BA999C89F019A1A7365513",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "009-Sunroom-2.png",
+                "ID": "5E65EA3CDE85A511EE86371E9431883A",
+                "SourceID": "2225A710335DFE0F44B5F26833D9E4FADBFDDB80",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "d1962ce3-10ce-4a63-ac73-ae1f5810f89e",
+              "count": 1,
+              "front": {
+                "Name": "010-Wood Shed-1.png",
+                "ID": "ED6ADE909D5F71253F67A3E93991EA53",
+                "SourceID": "4FD39F2C8F13D7E25EB5F6983EB7CBC78BDC5197",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "010-Wood Shed-2.png",
+                "ID": "708E74355C6B1D3F262DB0AE49AD8E7C",
+                "SourceID": "BF889982DDA9BA5AE0000519018B4EF6213B4CCC",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "f6f06021-63f9-4ce0-b5b5-f6b24b4b2e9b",
+              "count": 1,
+              "front": {
+                "Name": "011-Anthony Marston-1.png",
+                "ID": "C0A7FDB2D8B2545FD0FEB65F82BD2B70",
+                "SourceID": "E83D86F50BB29BDB9FFDA04A4285C772DCB6C622",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "011-Anthony Marston-2.png",
+                "ID": "D0F0AAC2B84E50DE923889A4489A6C56",
+                "SourceID": "FE414CDFDDF36D138440DAB84283A09BF431AF96",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "e9ff7faa-e2cf-4d4b-88a3-e30fc5f39f25",
+              "count": 1,
+              "front": {
+                "Name": "012-Edward Armstrong-1.png",
+                "ID": "2EDE3345F857BB7AEF74F1C9A8AE6BB5",
+                "SourceID": "9F24550CEEA6AA0B7D8F1567CB8365FF3B6430B0",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "012-Edward Armstrong-2.png",
+                "ID": "F9A4CB8C7DD367293224E5B9C0DBADF9",
+                "SourceID": "1F32748E4D5FA307DCE631566877B9AEE7EE6BA3",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "4568744e-f543-44ea-82ff-d20d390c9a01",
+              "count": 1,
+              "front": {
+                "Name": "013-Emily Brent-1.png",
+                "ID": "4793469C49717505EA1543F824F4530A",
+                "SourceID": "A48AF9130C1DD19DB2AA3A13BD4A01F75097CA53",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "013-Emily Brent-2.png",
+                "ID": "F945F8EEF81503064E3C692B8A3FEF32",
+                "SourceID": "0C6194FB6AEE020C356BB19A75DB52E0D4AF84A1",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "1b9674c4-b56e-4637-9004-d763d04d0f1a",
+              "count": 1,
+              "front": {
+                "Name": "014-Ethel Rogers-1.png",
+                "ID": "E1A5ECDA34F9388F6770621393312792",
+                "SourceID": "58929A38C68E8EB656241EBED6B73DF73D7994B4",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "014-Ethel Rogers-2.png",
+                "ID": "FE6B7D02E81A70BD69A9C0D138D8F2B8",
+                "SourceID": "2F8C53FFAAED325B047341F94E8DFCDDA26E7A1C",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "3fc84efd-86cd-448e-b85f-7214ec11eaa7",
+              "count": 1,
+              "front": {
+                "Name": "015-John MacArthur-1.png",
+                "ID": "CB200EC58E813DA575A3F096C19C68E0",
+                "SourceID": "C5FD38C60C4F6E4DFBA637645009E6F85ADD571F",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "015-John MacArthur-2.png",
+                "ID": "9507E1AA941DFBA11A3CF5A178E26226",
+                "SourceID": "ECF595FE8407433A4C24AC6B3BD8CC946F2A5E20",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "b0904b7e-bd7e-4ece-833e-61c39f1801ca",
+              "count": 1,
+              "front": {
+                "Name": "016-Lawrence Wargrave-1.png",
+                "ID": "A643C6CEB9C55E9A9902E27E64618BCC",
+                "SourceID": "F66AE35731489008EB215A16DC449AA43DA31BC7",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "016-Lawrence Wargrave-2.png",
+                "ID": "069448A6A56252ADC1CAA3FFC991E0A3",
+                "SourceID": "79719A00FA06EE7EA918AF630B51D29478F0288A",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "891d70ed-23ee-4763-bf97-3f34a38029fa",
+              "count": 1,
+              "front": {
+                "Name": "017-Philip Lombard-1.png",
+                "ID": "13EABF1257A4ADE9F1E1C3684D805EED",
+                "SourceID": "AB593CE8B7D19C1386A676B73A60664459EF0694",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "017-Philip Lombard-2.png",
+                "ID": "DA31C17D2FBB19DC73AE60D6F66A0E7D",
+                "SourceID": "3C9A1C56B6A698FD3E2138C48077590079A47A99",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "eb8b1396-efb4-4d97-9984-01204cdcb089",
+              "count": 1,
+              "front": {
+                "Name": "018-Thomas Rogers-1.png",
+                "ID": "BE80AD696529EC0087C4B8BA7087B49B",
+                "SourceID": "39590865E46AC20FEC3B0E963990F3F648B8B68F",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "018-Thomas Rogers-2.png",
+                "ID": "46B8204AD2719246F67F05A20E5C52C5",
+                "SourceID": "0E24AAB4D83A02986BDD002EBC646041AE7C07D2",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "341e4220-4239-4ab3-9b98-e05244f4843b",
+              "count": 1,
+              "front": {
+                "Name": "019-Vera Claythorne-1.png",
+                "ID": "24E0EF3A45101B9BDD7BB1A638DAB1E1",
+                "SourceID": "975AADCF9D95CA79B287D1E13E16FECD0F343A1A",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "019-Vera Claythorne-2.png",
+                "ID": "2D492BACFB076FBC81F96C2258FBA96A",
+                "SourceID": "A9E75289F16C3B073925C42634574609BFAAAD29",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "1d16ac2f-4046-42d7-b8b1-53a10f135e8e",
+              "count": 1,
+              "front": {
+                "Name": "020-William Blore-1.png",
+                "ID": "6C1AC9654EF36A69E6940335CFC6CAEE",
+                "SourceID": "81F418F1111DEB3563FE00B241A98505027568CD",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "020-William Blore-2.png",
+                "ID": "C16540FE6E65DF9877702263D138D284",
+                "SourceID": "B03907A5EC359B3AC2665AB881E3120C9425AD46",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              }
+            },
+            {
+              "id": "c3ac1673-9eb4-434f-8d12-b12883e10319",
+              "count": 1,
+              "front": {
+                "Name": "021-Blowpipe-1.png",
+                "ID": "EA16E855AD75FBD24A13E3A3C7CF79CF",
+                "SourceID": "3C2ABC6F5DACAE81D2A7E7C822B10233FF97F107",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "75ed99ce-bdcc-4287-be9c-22b7d0e587c3",
+              "count": 1,
+              "front": {
+                "Name": "022-Chloral Hydrate Overdose-1.png",
+                "ID": "7FB8B2874D1BDD5F32BEA95223F05663",
+                "SourceID": "5AC9D9DA15024151A4EF6AEA49554FC509A90067",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "7391429b-5b84-4789-bfc8-593f16463653",
+              "count": 1,
+              "front": {
+                "Name": "023-Crushed by Debris-1.png",
+                "ID": "50474E7293A4CBDD709F8856B35ECE73",
+                "SourceID": "9D42301045BB28B02F5F06682C53098A60D50B01",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "f59c97a6-5b98-4350-8b98-5fd4eb304229",
+              "count": 1,
+              "front": {
+                "Name": "024-Cyanide Injection-1.png",
+                "ID": "C321459EB72AF880BB3E23D3DB2272A6",
+                "SourceID": "FC4FDC60D9F7DE6A95439C8BCCC1FD94695C581B",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "e4f69c83-53e2-4ab3-9982-ff7eeb3ba93a",
+              "count": 1,
+              "front": {
+                "Name": "025-Drowned in the Sea-1.png",
+                "ID": "EAC6B062848EA4B81AB9A731856690A7",
+                "SourceID": "6A8D005FCE31CA75393565796BE7B70210D40809",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "ddde74e6-95ee-4ee9-80ed-7f06094dd009",
+              "count": 1,
+              "front": {
+                "Name": "026-Electrocution-1.png",
+                "ID": "726B22D37F02EAE8DEDE0217E8C88E0F",
+                "SourceID": "B82F3C62F9654F0F6379D2BB38B5B353FFB4A181",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "b6fce05c-8506-45c9-a83c-eb738b87758b",
+              "count": 1,
+              "front": {
+                "Name": "027-Fell From a Height-1.png",
+                "ID": "4B64A7066B1D96AD0A5804ED796926E8",
+                "SourceID": "127EEA321D0EF432BF60C29300953D5BC90A3535",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "c6f057ed-70c8-420e-9aeb-4136bc105a48",
+              "count": 1,
+              "front": {
+                "Name": "028-Hatchet-1.png",
+                "ID": "1B944BE22CF2292BA739E9211C944452",
+                "SourceID": "C086FE5876A1597FBE5B29755FFB5F930B398AB2",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "ad2ca0e8-cf10-44ab-9270-fb8776baebce",
+              "count": 1,
+              "front": {
+                "Name": "029-Improvised Item-1.png",
+                "ID": "05BB2A580A0263D309BE6EAC510AD4EA",
+                "SourceID": "0DC7AAF6457686C54B38A4DEC0011864B8DCBACD",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "e43b7649-94ea-498b-a62d-422248d0db85",
+              "count": 1,
+              "front": {
+                "Name": "030-Knife-1.png",
+                "ID": "4DE2040713BEA482D1ED76F27ACD8C8B",
+                "SourceID": "6C176607CA2089C247A6B8B8E16B0CBBE4005ECA",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "d1e224d3-e579-4be0-8993-ba1fa21af5c8",
+              "count": 1,
+              "front": {
+                "Name": "031-Poisoned Drink-1.png",
+                "ID": "2A040ABF0E19073340E004F8B573E74B",
+                "SourceID": "95C8792E8325212C66E2A3762EC3E8AC82C918AC",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "c162856b-05e4-45ec-975f-19f81ce26a44",
+              "count": 1,
+              "front": {
+                "Name": "032-Rope Noose-1.png",
+                "ID": "375E04DE271B6C3DD21725187B1C5A15",
+                "SourceID": "2A71AAABAA3EE54C1F1D8B09B800701A5555917D",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "4db100fe-825d-4253-9209-fcc28be66ca4",
+              "count": 1,
+              "front": {
+                "Name": "033-Service Revolver-1.png",
+                "ID": "A49FCF1DA865E161200E5B39FB2735A5",
+                "SourceID": "9D764314663A1C0C2C6D05800D563E5A5EE1B75F",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "704b3884-9f4d-4abf-8e09-38027a6f9b78",
+              "count": 1,
+              "front": {
+                "Name": "034-Smothered in Sleep-1.png",
+                "ID": "2F8C8D401C4D64B2FFA2B7EC8C230D2A",
+                "SourceID": "C1BB00F47458B083A772C82A68A6954A9C805667",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "0a45abcc-7874-41c8-862c-7699f5dd0bf1",
+              "count": 1,
+              "front": {
+                "Name": "035-Straight Razor-1.png",
+                "ID": "C5C231C4436370FDC73BD13A967A8917",
+                "SourceID": "754D229339A9954BCEA92E2D208A6904CE5CBC04",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "17211d89-43e8-4b03-85bf-bd2ddba7ca62",
+              "count": 4,
+              "front": {
+                "Name": "036-Antediluvian Sigils-x4-1.png",
+                "ID": "B8189D214CD10BF31B0D6DFA773007E0",
+                "SourceID": "66618F5C06797A7A5A279F2B36408B575AB26A1C",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "3189af2b-7a4b-455c-a44d-384ceb643fb7",
+              "count": 1,
+              "front": {
+                "Name": "037-Spectral Conduit-1.png",
+                "ID": "BA5F620A6D7D4D6339FC46D446AD139C",
+                "SourceID": "672FFDB31867AA5CCE18707476740A422C71EA5D",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "037-Spectral Conduit-2.png",
+                "ID": "22197981B631A691A69F61906DABD021",
+                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "4fbb0e04-6415-4808-a507-5cf1ea48d397",
+              "count": 1,
+              "front": {
+                "Name": "038-Restless Spirit-1.png",
+                "ID": "0E074FB7A535BFF476120ECF0A442708",
+                "SourceID": "CD20ADF05339BC585CD1537EED4DABFE3ADF7AC3",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "3d16fa13-cf16-4aeb-8f57-1707b45049ae",
+              "count": 1,
+              "front": {
+                "Name": "039-Restless Spirit-1.png",
+                "ID": "5AB43DA0CE68691949F66D504239A2E0",
+                "SourceID": "EF26DFF6F1E6D6BD50B5DCFC3DE6890D7839D88E",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "19e1bc64-1da9-43a9-af2f-1ae52403307a",
+              "count": 1,
+              "front": {
+                "Name": "040-Restless Spirit-1.png",
+                "ID": "541D5549171E49D6E36CCCD34C964E30",
+                "SourceID": "A96423700C0D514A4BFF12C153A066ECF246DD03",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "f24739da-3ed5-48d2-b7c9-6a531abac806",
+              "count": 1,
+              "front": {
+                "Name": "041-Restless Spirit-1.png",
+                "ID": "6741BD3487ABF088EE3A04E4A4D61134",
+                "SourceID": "9572CA542DE10913E21E81CFD5615F33486162BE",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "1815f0d4-28a2-4296-b63b-c7a27821c934",
+              "count": 1,
+              "front": {
+                "Name": "042-Restless Spirit-1.png",
+                "ID": "BAC77FD3048B0802691E979F83FB0814",
+                "SourceID": "8EA0A2F9A8F5DA0662660175209D8CA2D4E19842",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "660dd815-f598-43e2-9e5d-7ba27bada15c",
+              "count": 1,
+              "front": {
+                "Name": "043-Cryptic Message-1.png",
+                "ID": "DDBA8C403B271E63103B278505C53421",
+                "SourceID": "3092AE4B650578D3F31079351B3863338F559B8C",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "42efb3e7-7306-4da7-9820-5308f96008f4",
+              "count": 1,
+              "front": {
+                "Name": "044-Dark Presence-1.png",
+                "ID": "CDEFF2C32D05AD3E7D495CF2F20C740B",
+                "SourceID": "8488FE323EB480C4A6D811441E3D7D56F511D061",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "0d46a59a-4b4f-4074-b9f9-cc67db667419",
+              "count": 1,
+              "front": {
+                "Name": "045-Grim Implications-1.png",
+                "ID": "5B8140CD48061324282AFBE8ADF0E09A",
+                "SourceID": "6CF69EC3CE113F51D7398AF775E68FB9C1397437",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "2376a7a9-aba8-44c3-8e27-2678066ec6d4",
+              "count": 1,
+              "front": {
+                "Name": "046-Haunting Noises-1.png",
+                "ID": "01E193A37F4440B9584B2EC791EEDA42",
+                "SourceID": "4A52508524B0224E25D4A32A0433D903DD3086FD",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "6c099095-eca6-4af9-841f-ac12a02c6b3c",
+              "count": 1,
+              "front": {
+                "Name": "047-Lingering Hatred-1.png",
+                "ID": "FB8CF78F84FE8643C672E22FD7153B9B",
+                "SourceID": "92DEABA7CBD3D21E4F57E92D5327457A9B06DE39",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "6800a0e0-89e5-4811-b15c-573dd9648f04",
+              "count": 1,
+              "front": {
+                "Name": "048-Phantom Hands-1.png",
+                "ID": "B3E3836D25E75BC3C4F0D2016C9FBC19",
+                "SourceID": "3E1089904645E85D677292CD9866ACF2AEDF1242",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "3170349b-2465-454b-ae0b-bf931758a1c5",
+              "count": 1,
+              "front": {
+                "Name": "049-Reenactment-1.png",
+                "ID": "574EA4B08C70A2F0C5FA5857AF4CB9D7",
+                "SourceID": "9AA3531B1241AE3A332D9ED36D325A9D5ACB936C",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "b61205a7-60fb-409b-b2f2-e663a1378aa6",
+              "count": 1,
+              "front": {
+                "Name": "050-Thanatophobia-1.png",
+                "ID": "5561C8C9B9D3BBD31B718267B749B4D5",
+                "SourceID": "AB711A7AFB1AC6BA97A9936C03F3B431DBA18D8B",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "f29477ea-d5f6-4889-8980-50a353a025bc",
+              "count": 1,
+              "front": {
+                "Name": "051-The Looming Dead-1.png",
+                "ID": "7F00772899715BF403E731D99558E300",
+                "SourceID": "B8B09D0FC53B52331E8420061C9B39FD57E4CBB6",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "22892b17-1a29-4d9a-9cf2-b18cdc8a333e",
+              "count": 1,
+              "front": {
+                "Name": "052-Treacherous Darkness-1.png",
+                "ID": "69C5BB7FD965CE8ABB7CE7E903723006",
+                "SourceID": "4F226D8B2EDE55E3F3B6BC4A556D77E578C3BEF1",
+                "Exp": "png",
+                "Width": 1650,
+                "Height": 2250
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        }
+      ]
+    }
+  ],
+  "created": "2025-09-30T12:00:00.000Z",
+  "updated": "2025-09-30T12:00:00.000Z",
+  "hash": "c0b353a052e72a0604c96486de7a0ebd8ffd34935a127db5347ca3ed522baa49"
+}
