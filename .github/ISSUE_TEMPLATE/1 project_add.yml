@@ -64,6 +64,18 @@ body:
         We will crop it to 1180px by 500px, so please make sure you choose an image that will work in this horizontal format.
         Attach it by clicking this area to highlight it and then dragging the image in.
   - type: textarea
+    id: eons
+    attributes:
+      label: Strange Eons Project
+      description: |
+        Will you contribute your Strange Eons project files to the repository used by Inexorable Fate, arkham.build, and TTS?
+        This repository allows us to ensure that project files are cleaned up and standardized to meet the needs of all three platforms.
+        For our part, Inexorable Fate will work to ensure prints of your project are of the highest quality.
+        Note that if you want to make future changes to your project (including uploading to TTS), we request that you retrieve our copy of the SE files and provide us with an updated copy when you are finished.
+        To share, please compress copy of your entire project, including art (but not cards that ended up being cut from the project).
+        [Upload the file to our drive](https://drive.google.com/drive/folders/1U7eooy6b_n8DTA3KqbgzSkOZLky7FZTI?usp=sharing) or provide a link where we can download it.
+        Please let us know if you have questions.
+  - type: textarea
     id: details
     attributes:
       label: Additional details
