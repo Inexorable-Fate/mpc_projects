@@ -2,6 +2,7 @@ name: Add a Project
 description: Request to have a new project added to Inexorable Fate
 title: "Add <project name>"
 labels: ["project add"]
+projects: "inexorable-fate"
 body:
   - type: input
     id: project-name
