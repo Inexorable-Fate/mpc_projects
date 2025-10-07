@@ -1,0 +1,18 @@
+name: Adds all issues that aren’t labeled 'SE Cleanup' to InexF project board
+
+on:
+  issues:
+    types:
+      - opened
+
+jobs:
+  add-to-project:
+    name: Add issue to project
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/add-to-project@RELEASE_VERSION
+        with:
+          project-url: https://github.com/orgs/Inexorable-Fate/projects/1
+          github-token: ${{ secrets.INEXF_PROJECT_PAT }}
+          labeled: 'SE Cleanup'
+          label-operator: NOT
