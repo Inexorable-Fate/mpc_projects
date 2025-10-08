@@ -7,10 +7,10 @@ on:
 
 jobs:
   add-to-project:
-    name: Add issue to project
+    name: Add To GitHub projects
     runs-on: ubuntu-latest
     steps:
-      - uses: .github/workflows/add-to-project.yml
+      - uses: actions/add-to-project@v1.0.2
         with:
           project-url: https://github.com/orgs/Inexorable-Fate/projects/1
           github-token: ${{ secrets.INEXF_PROJECT_PAT }}
