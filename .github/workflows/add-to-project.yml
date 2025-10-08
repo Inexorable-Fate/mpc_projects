@@ -10,7 +10,7 @@ jobs:
     name: Add issue to project
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/add-to-project
+      - uses: Inexorable-Fate/mpc_projects/actions/add-to-project@0.4
         with:
           project-url: https://github.com/orgs/Inexorable-Fate/projects/1
           github-token: ${{ secrets.INEXF_PROJECT_PAT }}
