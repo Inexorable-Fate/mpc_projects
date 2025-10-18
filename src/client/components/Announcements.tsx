@@ -18,7 +18,11 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
           <div className={'alert-content'}>
             <div className={'alert-item'}>
               <h3>Recently added: </h3>
-              <p>And Then There Were None, The Beard’s annual October standalone • When the World Screamed, a new epic multiplayer and single group scenario from The Beard, world premiered at Arkham Con ’25.</p>
+              <p>Night of Vespers campaign • Arkham’s Finest series 2 • And Then There Were None • When the World Screamed, a new epic multiplayer and single group scenario from The Beard, world premiered at Arkham Con ’25.</p>
+            </div>
+            <div className={'alert-item'}>
+              <h3>Newly updated: </h3>
+              <p>The Inexorable Fate team has been re-exporting older campaigns with better fonts and formatting, and card numbers if they were not previously numbered. Up first: Ages Unwound • Alice in Wonderland • Arkham Incidents.</p>
             </div>
             <div className={'alert-item'}>
               <h3>Tip: </h3>
@@ -26,7 +30,7 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
             </div>
             <div className={'alert-item'}>
               <h3>Project errata: </h3>
-              <p>Click the changelog icons <ChangelogIcon/> to see if you need to reprint errata for Parallel Monterey Jack’s scenario, The Colour Out of Oz, or any other projects.</p>
+              <p>Click the changelog icons <ChangelogIcon/> to see if you need to reprint errata for Ages Unwound, Parallel Monterey Jack’s scenario, The Colour Out of Oz, or any other projects.</p>
             </div>
           </div>
         </Alert>
