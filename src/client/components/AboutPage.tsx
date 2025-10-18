@@ -25,8 +25,9 @@ export const AboutPage = () => (
         <li>
           <h4>The Inexorable Fate Team</h4>
           <ul className='list-unstyled'>
-            <li><strong>Content:</strong> Ebola Monkey & Bonzman</li>
+            <li><strong>Content:</strong> Ebola Monkey, without whom we&rsquo;d be irredeemably behind in posting new content</li>
             <li><strong>German Projects:</strong> Founi</li>
+            <li><strong>French Projects:</strong> Clivelaw</li>
             <li><strong>Project QA:</strong> Ektheleon & Antimarkovnikov</li>
           </ul>
         </li>
@@ -38,14 +39,16 @@ export const AboutPage = () => (
       <ul className='list-unstyled thanks'>
         <li><a href='https://strengthinnumbersarkham.wordpress.com/'>ElseWhere</a>, for the eldritch wordsmithing of the intro.</li>
         <li><a href='https://github.com/Antimarkovnikov/AHC/wiki'>Antimarkovnikov</a>, for advice and enthusiasm.</li>
-        <li><strong>Buteremelse</strong>, for accountability check-ins, rubber ducking, and <s>generally being a huge distraction</s> unflagging moral support.</li>
+        <li><strong>Dangaroo</strong>, for accountability check-ins, rubber ducking, and <s>generally being a huge distraction</s> unflagging moral support.</li>
         <li><strong>Soul Turtle</strong>, for the kick in the pants.</li>
+        <li>Past Inexorable Fate team member <strong>Bonzman</strong>.</li>
         <li>Beta testers <strong>dernincitrus</strong> (accessibility and more), <strong>Ektheleon</strong> (is it Excel enough?), <strong>Moruna</strong>, <strong>SecretGarden</strong>, and <strong>Stormy</strong> &ldquo;Nested Checkboxes&rdquo; <strong>Waters</strong>.</li>
         <li>The entire AHLCG homebrew community, for making all of this necessary with the incredibly high quality custom content they produce.</li>
         <li><strong>JaqenZann</strong>, for the years of tireless effort to enable homebrewers to bring their visions to life.</li>
+        <li><strong>Tokeeto</strong>, for picking up that mantle and carrying it forward from Strange Eons into Shoggoth.</li>
         <li><strong>MickeyTheQ</strong>, for building Zoop features to make it easier for homebrewers to make PnP versions of their content, and making it easier for us to bring that content to you.</li>
         <li><a href='https://mythosbusters.com/'>Mythos Busters</a>, for bringing us all together</li>
-        <li>Developers <strong>Maxine Newman</strong>, <strong>Duke!! Harrist</strong>, <strong>Nick Kory</strong>, <strong>Waleed Ma&rsquo;arouf</strong>, and everyone who works or has worked to bring us this amazing gift that is Arkham Horror: The Card Game.</li>
+        <li>Developers <strong>Maxine Newman</strong>, <strong>Duke!! Harrist</strong>, <strong>Nicholas Kory</strong>, <strong>Reid Bradshaw</strong>, and everyone who works or has worked to bring us this amazing gift that is Arkham Horror: The Card Game.</li>
       </ul>
 
       <div className='footnote'>

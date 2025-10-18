@@ -2,16 +2,18 @@
   "version": 5,
   "projectIds": {
     "F283FF085217E44EE1A60536AE5C1772406030B85DC4DFC33EA7147CF8AB873DF7F7C864AE053213": "Arkham's Finest Investigators",
-    "DE5A7A625D0081D6FEB1C61C5A457507B31D6C8D4E81B15C3D910F352D6FAEEC406EAE721095BD1A": "Arkham's Finest Minicards"
+    "DE5A7A625D0081D6FEB1C61C5A457507B31D6C8D4E81B15C3D910F352D6FAEEC406EAE721095BD1A": "Arkham's Finest Minicards",
+    "AB2E8D38D99925F8BD670B91C398E16E44BCE29167AAACA4D3A896509F0BAE02A2F3DA29A7FAE313": "Arkham's Finest S2 Investigators",
+    "C2E5AD5B6FE9646C56BDCC7AE1DB0D4794E14B31091FC9AE2CA1E269E7E2F8D291E16681BF7F2A2F": "Arkham's Finest S2 Minicards"
   },
   "name": "Arkham’s Finest",
-  "description": "A set of five investigators with simple 5/2 mainclass/subclass deckbuilding that are meant to cover for the situations where the official investigators in that class combination can not use their card pool as much as we’d want.",
+  "description": "A set of investigators with simple 5/2 mainclass/subclass deckbuilding that are meant to cover for the situations where the official investigators in that class combination can not use their card pool as much as we’d want.",
   "artist": "",
   "info": "",
-  "website": "https://derbk.com/ancientevils/arkhams-finest-five-custom-investigators/",
-  "cardsLink": "",
+  "website": "https://derbk.com/ancientevils/custom-content#arkhams-finest",
+  "cardsLink": "https://drive.google.com/drive/folders/1wIPCSRvacKnUXmZIwHVZg2VZ7_BBPfnl?usp=drive_link",
   "scenarioCount": 0,
-  "investigatorCount": 5,
+  "investigatorCount": 10,
   "authors": [
     "DerBK"
   ],
@@ -24,10 +26,10 @@
   ],
   "options": [
     {
-      "name": "",
+      "name": "Series 1",
       "parts": [
         {
-          "name": "Arkham’s Finest Investigators",
+          "name": "Arkham’s Finest S1 Investigators",
           "cards": [
             {
               "id": "edd4327c-5762-459e-a8c1-7af46c0f05b6",
@@ -333,7 +335,7 @@
           "code": "C380050185D1C1AF"
         },
         {
-          "name": "Arkham’s Finest mini-sized minicards",
+          "name": "Arkham’s Finest S1 Minicards",
           "cards": [
             {
               "id": "a0db59da-0103-4c71-960d-fe37e6c03e54",
@@ -439,9 +441,488 @@
           "code": "CA7C88A094DDABB0"
         }
       ]
+    },
+    {
+      "name": "Series 2",
+      "parts": [
+        {
+          "name": "Arkham's Finest S2 Investigators",
+          "enabled": true,
+          "cards": [
+            {
+              "id": "efbb4f01-d8cf-48a2-bce0-55eb6dc2613a",
+              "count": 1,
+              "front": {
+                "Name": "001-Sister Sofia-1.png",
+                "ID": "4638136CB0A34DB8710715B9146F31A4",
+                "SourceID": "E6ECDA91821144D37391A7ABCBB1E2CA64F2D7A2",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "001-Sister Sofia-2.png",
+                "ID": "CAC33FAFEAA231E40194377AFFC683F2",
+                "SourceID": "EC29E97E987D71FC352F11A361D2FD01F23EEC83",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "b2632d59-4650-420e-b03c-5577f5ea00c3",
+              "count": 1,
+              "front": {
+                "Name": "002-Penance-1.png",
+                "ID": "AE9503FF00AFE5F1F59CE6D32AB4DE12",
+                "SourceID": "C233A669841EBB10C5F50C4A1D66F78A060BF00F",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "22197981B631A691A69F61906DABD021",
+                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "03fc0ac3-75b0-4929-88b7-e07b27388239",
+              "count": 1,
+              "front": {
+                "Name": "003-Lonely Path-1.png",
+                "ID": "5C691745FCC03A5FA7DB36DDFA326939",
+                "SourceID": "5E7F22AAE916FEC1AF07BB53D1FF709F004E2C93",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "22197981B631A691A69F61906DABD021",
+                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "cdfc3740-2c51-4b91-9bd7-81a3f34ac8f6",
+              "count": 1,
+              "front": {
+                "Name": "004-Edwin Lemay-1.png",
+                "ID": "FDB0524715F5D6DC365479E0CF9718A7",
+                "SourceID": "E85B3112D614E79557CE80DB36CED156B591AC95",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "004-Edwin Lemay-2.png",
+                "ID": "957B75921967C99B88CA869FD59D7D79",
+                "SourceID": "AF8547BF15A57BDAB3641FE968B68818C5DEDE8B",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "12163f03-e75f-4546-b574-9b29af0593ad",
+              "count": 1,
+              "front": {
+                "Name": "005-Field Lab-1.png",
+                "ID": "21E0FFA4A3138C2260B12BF55D013659",
+                "SourceID": "44F7A9D335FE1B9421C8771D868DD3E28ECCCEB8",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "22197981B631A691A69F61906DABD021",
+                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "a23231e6-a672-4421-bce7-e8ac4735a6a0",
+              "count": 1,
+              "front": {
+                "Name": "005-Field Lab Customizable-1.png",
+                "ID": "584427C6AD4E9E2883F080EA430D7252",
+                "SourceID": "F95CAF471A0016571CC6FBC77D36235D04DD7684",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "005-Field Lab Customizable-2.png",
+                "ID": "276119797B126B5FC8A1FD3C26B85B59",
+                "SourceID": "7CC71667C230E67A11ACB41B4A4075EBF1BEB590",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "f1818db3-9c56-4970-a741-43bf251f800a",
+              "count": 1,
+              "front": {
+                "Name": "006-A moment of your time Doctor-1.png",
+                "ID": "25388BF5903B321CB597E538B07C085D",
+                "SourceID": "C0AA46B64BBB21AC2681B9D250C7E17FE73D81A2",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "22197981B631A691A69F61906DABD021",
+                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "82a57658-df7a-42aa-9a4d-e78a63e496c6",
+              "count": 1,
+              "front": {
+                "Name": "007-“Mace” Masters-1.png",
+                "ID": "E993AD5465F597948EC98B77EEFBEC3D",
+                "SourceID": "8BF3023000EA1E168D72451709304FB92B79902E",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "007-“Mace” Masters-2.png",
+                "ID": "262207DA2A3828D981672FA1F9F8B0E1",
+                "SourceID": "DE4B2CFE568A0235B14190426D9A480FC9487D47",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "6f77134d-4e8f-401b-a31c-e01ee904b5db",
+              "count": 1,
+              "front": {
+                "Name": "008-Deck of Many Things-1.png",
+                "ID": "8C7D3D937840E8ACECC22B0426214B52",
+                "SourceID": "E75437E150B6D0FA729722F2CF33F6114B3EDD89",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "22197981B631A691A69F61906DABD021",
+                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "bb7e14c7-0b01-437c-bbb9-ae293951fffd",
+              "count": 1,
+              "front": {
+                "Name": "009-All Your Dreams-1.png",
+                "ID": "F914EB5B11BA799F5E5386833A5D7D35",
+                "SourceID": "1A2D298CDFFE615E93C09BD108292D5B73CC2E5A",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "22197981B631A691A69F61906DABD021",
+                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "245a6b5e-caec-40ee-9202-61164f5bc785",
+              "count": 1,
+              "front": {
+                "Name": "010-Time to Pay-1.png",
+                "ID": "9B3DDFF75AF9389F3B4621C6726F93B1",
+                "SourceID": "9C0CCE5DDA0EE32EF98F22A49707563CA48C3A19",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "22197981B631A691A69F61906DABD021",
+                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "40bce3a1-034f-40d0-9208-6151c8fffe33",
+              "count": 1,
+              "front": {
+                "Name": "011-Imani Chande-1.png",
+                "ID": "033DDB4FC586F447DC8EA5CAED253CBD",
+                "SourceID": "A65B7802C2E0C8EB66660C4709E174E736F318A8",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "011-Imani Chande-2.png",
+                "ID": "06AD55500FE14DAF26408EC1C84352AF",
+                "SourceID": "640DB3F079E6BD160175F80FC096444AF22CA92B",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "082c46a6-3c0e-4c74-85c2-3f815cc121ab",
+              "count": 1,
+              "front": {
+                "Name": "012-Qalb al-Asad-1.png",
+                "ID": "E05B89BF1F39EB346CEC45A0336158C7",
+                "SourceID": "01919B6A84D80A4934D711A85C1D9C02BD9AE06E",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "22197981B631A691A69F61906DABD021",
+                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "7b982d33-7617-4712-be6c-ad2681f95634",
+              "count": 1,
+              "front": {
+                "Name": "013-Pounce-1.png",
+                "ID": "D55D735A6D00C77CC055DD08BDB652F4",
+                "SourceID": "673A74B9110A35AD881AF72FB43F6E8C527209FA",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "22197981B631A691A69F61906DABD021",
+                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "17505e9d-4b85-44f7-8ea1-bc222ba8b2d0",
+              "count": 1,
+              "front": {
+                "Name": "014-Sauti ya Kundi-1.png",
+                "ID": "76542FCD0423ECFFD589D911AAB176DF",
+                "SourceID": "CD783521EED7715FE78F902E55DE82FA7BAE33A1",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "22197981B631A691A69F61906DABD021",
+                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "be02b6c7-72c7-437a-96d9-e6dedcd318d3",
+              "count": 1,
+              "front": {
+                "Name": "015-Felix Keenan-1.png",
+                "ID": "9F105F56CA17BA99012E6C079145D879",
+                "SourceID": "46A3E685E21EC345375B39FE6717CCB93EA007F3",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "015-Felix Keenan-2.png",
+                "ID": "0345FA8493D65975C68A7ECB3F5655F2",
+                "SourceID": "32277329B7EB7423BE35F251FC2A442BCB998523",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              }
+            },
+            {
+              "id": "7db4569c-7578-4acc-8dab-729bcd0d9595",
+              "count": 1,
+              "front": {
+                "Name": "016-Restoration Kit-1.png",
+                "ID": "68A74B3CFC5F131828D74323C40D48D7",
+                "SourceID": "8D02A27D8B567AB32A964DD41A523A8145F31A7D",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "22197981B631A691A69F61906DABD021",
+                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "d828cc95-f4ac-4c31-89a8-38777023f963",
+              "count": 1,
+              "front": {
+                "Name": "017-Treasure to Trash-1.png",
+                "ID": "D576F20C547B278F0F9ED0FD4E962BE3",
+                "SourceID": "432627C9B39B66F2312AB4E970F520C5CFBB6951",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "22197981B631A691A69F61906DABD021",
+                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Arkham's Finest S2 Minicards",
+          "enabled": true,
+          "cards": [
+            {
+              "id": "3c513575-dd3c-475f-9161-a77db4ba639d",
+              "count": 1,
+              "front": {
+                "Name": "001-Minicard for Investigator Sister Sofia-1.png",
+                "ID": "CD7620AA0F18B8D7B37090874855F147",
+                "SourceID": "C0D752B08763F145AC38204480F289208955F34C",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              },
+              "back": {
+                "Name": "001-Minicard for Investigator Sister Sofia-2.png",
+                "ID": "999E1ABBD1F5A230BA4375F34F59B2CD",
+                "SourceID": "186E126B7FE605D4363B768D3979302E7066B909",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              }
+            },
+            {
+              "id": "7663cffa-57f2-4435-adce-8d341ca88688",
+              "count": 1,
+              "front": {
+                "Name": "002-Minicard for Investigator Edwin Lemay-1.png",
+                "ID": "BFA569A6B6A599A35E9940F5CB15F327",
+                "SourceID": "BABC364470B61D12B7BCCA29A5DE53DC66490803",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              },
+              "back": {
+                "Name": "002-Minicard for Investigator Edwin Lemay-2.png",
+                "ID": "80FAB3B5BFDEA4EBC26269C676E7675A",
+                "SourceID": "6932314D15FA56504BED588851172954901724B4",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              }
+            },
+            {
+              "id": "974f4f94-5cb0-4c08-b02a-742848c08f14",
+              "count": 1,
+              "front": {
+                "Name": "003-Minicard for Investigator Mace Masters-1.png",
+                "ID": "731BAF63FE817C9551BDCC4E45C048CB",
+                "SourceID": "BCD542C3476A76ED96CDDF13BE660E455EE28160",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              },
+              "back": {
+                "Name": "003-Minicard for Investigator Mace Masters-2.png",
+                "ID": "859D5517535593BD8756B74AEC226101",
+                "SourceID": "B3DACCC539FA6797F04A8BC5DC7FC79C8405FCE9",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              }
+            },
+            {
+              "id": "2d89ae5d-afe2-4783-987a-25f6fbae84e2",
+              "count": 1,
+              "front": {
+                "Name": "004-Minicard for Investigator Imani Chande-1.png",
+                "ID": "B860C828987075B11A45CFEB102B1272",
+                "SourceID": "3326BA54C043DF0CFCD19C1AC93391257A46B990",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              },
+              "back": {
+                "Name": "004-Minicard for Investigator Imani Chande-2.png",
+                "ID": "1A347B111F015C0B3F2D93335C4C0DB9",
+                "SourceID": "E83EC2418741CF3785220AEC9AF1DF906FD2DDA2",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              }
+            },
+            {
+              "id": "ed793d43-3e6a-4281-90f1-840d64bbd1a8",
+              "count": 1,
+              "front": {
+                "Name": "005-Minicard for Investigator Felix Keenan-1.png",
+                "ID": "7A1789AEF47D75B1A44221B724C2053F",
+                "SourceID": "A3C8555B19D193CD12B805A9A586DEFBEAEE9CD2",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              },
+              "back": {
+                "Name": "005-Minicard for Investigator Felix Keenan-2.png",
+                "ID": "DB1C341C1A1B37A38A7EABA0B842970E",
+                "SourceID": "A2F90C2F34B8A69FA873E787B05FE97356D3F4AE",
+                "Exp": "png",
+                "Width": 564,
+                "Height": 826
+              }
+            }
+          ],
+          "code": "CA7C88A094DDABB0"
+        }
+      ]
     }
   ],
   "created": "2025-01-26T00:00:00.000Z",
-  "updated": "2025-01-26T00:00:00.000Z",
+  "updated": "2025-10-17T00:00:00.000Z",
   "hash": "5a127db604c96480b353a6cde7a0ebd8ffd34935347ca3ed522ba052e72a0a49"
 }
