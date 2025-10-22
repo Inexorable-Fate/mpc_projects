@@ -22,7 +22,7 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
             </div>
             <div className={'alert-item'}>
               <h3>Newly updated: </h3>
-              <p>The Inexorable Fate team has been re-exporting older campaigns with better fonts and formatting, and card numbers if they were not previously numbered. Up first: City of Secrets • Ages Unwound • Alice in Wonderland • Arkham Incidents.</p>
+              <p>The Inexorable Fate team has been re-exporting older campaigns with better fonts and formatting, and card numbers if they were not previously numbered. Up first: Lola Hayes Rework • City of Secrets • Ages Unwound • Alice in Wonderland • Arkham Incidents.</p>
             </div>
             <div className={'alert-item'}>
               <h3>Tip: </h3>
@@ -30,7 +30,7 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
             </div>
             <div className={'alert-item'}>
               <h3>Project errata: </h3>
-              <p>Click the changelog icons <ChangelogIcon/> to see if you need to reprint errata for Ages Unwound, Parallel Monterey Jack’s scenario, The Colour Out of Oz, or any other projects.</p>
+              <p>Click the changelog icons <ChangelogIcon/> to see if you need to reprint errata for Ages Unwound, Lola Hayes Rework, Parallel Monterey Jack’s scenario, The Colour Out of Oz, or any other projects.</p>
             </div>
           </div>
         </Alert>

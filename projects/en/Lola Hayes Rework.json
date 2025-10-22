@@ -1,7 +1,9 @@
 {
   "version": 5,
   "projectIds": {
-    "14D26E7DF915B5A8947127797C42CDEF6D0E3164E5E36B9BFF998539115DE6CB91BF266BF1D914B7": "Lola Hayes Rework"
+    "57653FD60F93502D2F5DF6C00EEFAB5EB7A7BA19C11B35CB30F85B5835F027F90F1CBCAB76379DAD": "Lola Hayes Rework 2024 (600ppi)",
+    "9A122E30C0BAF34FD9D781D8348E068B4B2F6EA2ACCAFE88513ED3ADEAFD58ACBED75C271D41F5B1": "Lola Hayes Rework 2024",
+    "14D26E7DF915B5A8947127797C42CDEF6D0E3164E5E36B9BFF998539115DE6CB91BF266BF1D914B7": "Lola Hayes Rework (orig)"
   },
   "name": "Lola Hayes Rework",
   "description": "Mix up the rules for playing Lola Hayes with a revised ability and signatures, plus a character deck built with selections from 50 role cards from all six classes.",
@@ -40,23 +42,23 @@
               },
               "back": {
                 "Name": "01 Lola Hayes-2.png",
-                "ID": "6429F3C212F1E74D20662146E87DCB2F",
-                "SourceID": "C89B344DACDE84F4A54FDFD879F3AADF3DF83A2B",
+                "ID": "BD04D37B03C667D5B014BB1A22A4AB05",
+                "SourceID": "6094DD19DE4A9A81C34067188F94EE94587FE617",
                 "Exp": "png",
                 "Width": 822,
                 "Height": 1122
               }
             },
             {
-              "id": "99f55946-2b09-4a5e-ab39-be7e9b775e79",
+              "id": "3ab0b53d-2402-4b1d-8dbe-05d4774c1dd0",
               "count": 1,
               "front": {
                 "Name": "02 Cassilda-1.png",
-                "ID": "C95A554840D341B13E36579D3A83906D",
-                "SourceID": "6427EB432FA909E086F0CCBA90B89170C51E1E3C",
+                "ID": "89F4D10CA4F3F6CAE3FAF3C1E72260EC",
+                "SourceID": "E81193E944082E2427F8DACE770B7F313D7C55B1",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -68,7 +70,7 @@
               }
             },
             {
-              "id": "080fd809-493c-411e-a9e9-c0458acd8de1",
+              "id": "2b5b942f-0c5a-450c-a4ce-5a3d81175aba",
               "count": 2,
               "front": {
                 "Name": "03 Improvisation-x2-1.png",
@@ -79,16 +81,16 @@
                 "Height": 1126
               },
               "back": {
-                "Name": "back.png",
-                "ID": "3AA8F0FB878A1886E116F88BA31D862D",
-                "SourceID": "999D73B776B9FF1F54C1D92245A94F891CD06728",
+                "Name": "03 Improvisation-x2-2.png",
+                "ID": "6FE3AA4CA902012E85F72D5D35E88F69",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
                 "Exp": "png",
                 "Width": 822,
                 "Height": 1122
               }
             },
             {
-              "id": "cf22de00-0fcb-4fa3-8c61-815f50f38218",
+              "id": "b9bf4ff5-97d8-44bb-a828-1315f473d279",
               "count": 2,
               "front": {
                 "Name": "04 Crisis of Identity-x2-1.png",
@@ -99,24 +101,24 @@
                 "Height": 1122
               },
               "back": {
-                "Name": "back.png",
-                "ID": "3AA8F0FB878A1886E116F88BA31D862D",
-                "SourceID": "999D73B776B9FF1F54C1D92245A94F891CD06728",
+                "Name": "04 Crisis of Identity-x2-2.png",
+                "ID": "6FE3AA4CA902012E85F72D5D35E88F69",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
                 "Exp": "png",
                 "Width": 822,
                 "Height": 1122
               }
             },
             {
-              "id": "b97c708f-6710-42c2-9db4-517bded06ea2",
+              "id": "e53d51c1-967c-4ffd-a6b0-77f91effa60e",
               "count": 1,
               "front": {
                 "Name": "05 Guardian - Annabel Lee-1.png",
-                "ID": "9EAB0864FFCF595EAE4594A24519C052",
-                "SourceID": "26CE9659BFFD4120E6A9F79838DA27EC73E1EEFC",
+                "ID": "94CC56CB0926FFD797546B965BC7410D",
+                "SourceID": "1396F242C02430A9A1A42BF7B7F31ACC5B488503",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -128,15 +130,15 @@
               }
             },
             {
-              "id": "f333d30c-4d53-4c17-a3e5-48babd0957c5",
+              "id": "59a280df-f56c-4302-9f2c-777da5163e5f",
               "count": 1,
               "front": {
                 "Name": "06 Guardian - Artemis-1.png",
-                "ID": "ECCF985722CE5A683788F2599AB4CCD5",
-                "SourceID": "1A78AA652C08027A1D96A93A5F95A6F255B25023",
+                "ID": "C81255D014D5F213B60A8564C70C89B0",
+                "SourceID": "56B27B7FA4FC0C8013EA9B18DABCFBED22BA7AD8",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -148,15 +150,15 @@
               }
             },
             {
-              "id": "67688420-b709-4ee1-afb6-0b41e86b2c3e",
+              "id": "be8de237-bd1d-45f1-9232-f5db83a46374",
               "count": 1,
               "front": {
                 "Name": "07 Guardian - Bast-1.png",
-                "ID": "16BEA8567D28E3F135F3585B29B1C0AB",
-                "SourceID": "549201D0C62747654421DFE92B2D4C1DD28B55DA",
+                "ID": "33D0796FDFFEA1CD635C0B0ABF9C710F",
+                "SourceID": "0804DB6C74C95E3F2FA19549DDBBAE7BE43D398A",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -168,15 +170,15 @@
               }
             },
             {
-              "id": "dbb510c3-1c0a-4aa9-afc4-531bb6f5ea0a",
+              "id": "85c26e80-c72a-4bc9-92ba-790902165949",
               "count": 1,
               "front": {
                 "Name": "08 Guardian - Éowyn-1.png",
-                "ID": "136437EE76B895783EDAC3B867123DDF",
-                "SourceID": "F84F909722E3C02A65AFA8EAC59207E8B0C51303",
+                "ID": "8100BD5DA9427EC49519905CAF531919",
+                "SourceID": "1AC925435F20CD6B2FED455EF30FF095F0E1FDAE",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -188,15 +190,15 @@
               }
             },
             {
-              "id": "7ab4ea3b-e6c6-4065-b602-19db106dbb9b",
+              "id": "c6d54091-52c3-4a47-89ff-fe884846ca2d",
               "count": 1,
               "front": {
                 "Name": "09 Guardian - Freya-1.png",
-                "ID": "267D25BCB461D1011D9131AB29991EE0",
-                "SourceID": "B81275C76253C41397C68BB5CF92CAF27DDDC795",
+                "ID": "0C0FEE8C88ACBB619220996C82E93A6E",
+                "SourceID": "3210661B31F5E5B1FD9FBD2DCED0305563E8C341",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -208,15 +210,15 @@
               }
             },
             {
-              "id": "4ca8ea99-eba9-4846-9bcb-cd70cafb2c8b",
+              "id": "a10e7fea-b35f-4f7e-8db5-c5e2164a2304",
               "count": 1,
               "front": {
                 "Name": "10 Guardian - Huldra-1.png",
-                "ID": "E5236AB7EF9926FAECE7F10586CCFEAB",
-                "SourceID": "25CAFE468CF57EA9D40256C34C43107FC2BF0457",
+                "ID": "67CAC634849F21EF814D3D1398F3AB08",
+                "SourceID": "1214BB84EE97A2C9A677B8538F1EA0FF3DB785E9",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -228,15 +230,15 @@
               }
             },
             {
-              "id": "f77701b5-0a9e-45a1-a1ef-0d5f384f6fcf",
+              "id": "15b99ad6-852e-4038-aa26-4599a528e78d",
               "count": 1,
               "front": {
                 "Name": "11 Guardian - Kali-1.png",
-                "ID": "A5E9D1503859CF9824DD909D4283188E",
-                "SourceID": "4C190B2FADD20C6D1DAB340BC48E2AC92BF524B3",
+                "ID": "6F9989EB6281CAC9CDE8697464DCBED8",
+                "SourceID": "A5D12B43B91C2C3C17B280DE4A8C9352258DDAD2",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -248,15 +250,15 @@
               }
             },
             {
-              "id": "aed8c282-00a2-4196-9d31-179179742423",
+              "id": "22741407-007c-44f9-a4f7-99ad756ceb97",
               "count": 1,
               "front": {
                 "Name": "12 Guardian - Sigyn-1.png",
-                "ID": "212628E456FF4D5E27BBFBC0A753D484",
-                "SourceID": "13B15AB26E95AF0CACCCC8DA790F04A84E4C4ABA",
+                "ID": "9C4C685C9EFB20068F9A28519D9569D7",
+                "SourceID": "AE54277C9DE539AB9BC201DF6CA77A0A5197AD4A",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -268,15 +270,15 @@
               }
             },
             {
-              "id": "d2e7cefa-c5b5-4f66-8303-a22faa1c2d5a",
+              "id": "a6de84ae-ccb1-4966-8128-d145870b8d34",
               "count": 1,
               "front": {
                 "Name": "13 Guardian - Werethekau-1.png",
-                "ID": "1C380326B03D928BF6A1BC97877CF6C1",
-                "SourceID": "24FAC943A688BE5510DE59A562AA91324CCFED02",
+                "ID": "F671A52088672F59D1A1A2B93FCFDB11",
+                "SourceID": "B5F42EF9F58CBD299DA66A5BBEE2D2ADE9B27B36",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -288,15 +290,15 @@
               }
             },
             {
-              "id": "c1da4116-4e10-48a6-b3b2-01728a1f3948",
+              "id": "4079bee8-58f5-40b4-9ccc-a24a805d88b9",
               "count": 1,
               "front": {
                 "Name": "14 Seeker - Alice-1.png",
-                "ID": "A898058948D3AEAD8AB58C33E02BBFE4",
-                "SourceID": "77B2054E228BFAF78199462657B1AA3513CC4393",
+                "ID": "4CB46527BF3DE23FCE0C9A06BCDD8806",
+                "SourceID": "6CA932BE4FE02E208EFAB71A50143CC9C9099054",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -308,15 +310,15 @@
               }
             },
             {
-              "id": "07ed2ce4-178b-4a42-b285-8f8c6a8656e8",
+              "id": "510218b0-8298-42a9-be29-cdd88fb372c4",
               "count": 1,
               "front": {
                 "Name": "15 Seeker - Anne Shirley-1.png",
-                "ID": "10F7E308209545192E5A34BAA4207482",
-                "SourceID": "63DF3A526BC2DA5C0757BF001F5579B71874F2D6",
+                "ID": "E5D98325147D3F23035831D0102F262C",
+                "SourceID": "BABAE9D2F970AED0B6C55E2EE08D8D597B57E8DF",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -328,15 +330,15 @@
               }
             },
             {
-              "id": "5b2b6bf9-1ca0-4c6e-a44b-4e549e0cb356",
+              "id": "fe4cea0d-755f-4866-9e8b-d2873dd5d4a7",
               "count": 1,
               "front": {
                 "Name": "16 Seeker - Athena-1.png",
-                "ID": "82555F1651DB630155F24B75241405DD",
-                "SourceID": "C3D94984546BD53718A7DBF3A39111A862B76793",
+                "ID": "8CA73130D64D4FCADC426120DB364412",
+                "SourceID": "14454B136DB356D4BB9BBB8CF36978B3C3397C7F",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -348,15 +350,15 @@
               }
             },
             {
-              "id": "4c4168ee-e11c-4155-9a3f-2d0db99cd2bf",
+              "id": "4693c46a-6378-407f-9fa4-0f8591e57a5d",
               "count": 1,
               "front": {
                 "Name": "17 Seeker - Belle-1.png",
-                "ID": "938A1AF134345C77BFEE4815C3B60E71",
-                "SourceID": "D27400244322995B15CEED6D99C811C753C6BD0D",
+                "ID": "1F814E70FEFBA626A3D1D9DDB6D8CD27",
+                "SourceID": "4C432555514C02F9445C1B620DFFA3BCA7C4BB12",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -368,15 +370,15 @@
               }
             },
             {
-              "id": "607a9126-5182-4e55-ab71-ef5b123cd078",
+              "id": "444714d3-366d-4f28-9e34-b8a243419bdc",
               "count": 1,
               "front": {
                 "Name": "18 Seeker - Fatima al-Fihri-1.png",
-                "ID": "89570AC503E2DF30AEA5C495F790CBB2",
-                "SourceID": "D9AE94BB7655D928552FE4493A8C406A22E16F4F",
+                "ID": "D878551441AAAD38C8B8C0259BA1D264",
+                "SourceID": "57E34F04C1477E002E295AD4D622146BED0F3AB9",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -388,15 +390,15 @@
               }
             },
             {
-              "id": "0a840500-6915-4233-9ead-eb8510175b1d",
+              "id": "a00e1dd1-511c-445a-83a0-c8c167367b4d",
               "count": 1,
               "front": {
                 "Name": "19 Seeker - Jane Eyre-1.png",
-                "ID": "5045D70893F774DB4DBAE60601B79195",
-                "SourceID": "12D46BDCD7C48BB6B4E55E0DF8DE4A3DC86BE027",
+                "ID": "A6BB8C059D54E13B1E828BC33CDD17A8",
+                "SourceID": "A051F0E905A490C512D327E23641A1F2C957512B",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -408,15 +410,15 @@
               }
             },
             {
-              "id": "cf0280c8-06cc-4fe4-8042-047f61216edc",
+              "id": "7af172a4-3a2a-41db-8e3a-29e846bfe04b",
               "count": 1,
               "front": {
                 "Name": "20 Seeker - Pandora-1.png",
-                "ID": "722E51FC082331C07F81536BAC39A975",
-                "SourceID": "E8B4104D3D48E3ED7D7C0F86B192656C56592121",
+                "ID": "1C6F89F1190ACD22D7F767D8DF727696",
+                "SourceID": "C6DBA39F3AD7FC57C15BAB636D4EC440AEC4B6F2",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -428,15 +430,15 @@
               }
             },
             {
-              "id": "f21cfd6e-1a10-4832-ae3f-eb0acd278bd5",
+              "id": "2e5b2c6b-74a6-4743-8afa-89783aa0145a",
               "count": 1,
               "front": {
                 "Name": "21 Seeker - Snow White-1.png",
-                "ID": "B5CC6C97F4060551AD3EBAEC74B8700F",
-                "SourceID": "5CDD832384806C84924838D8843656BDBD8A3518",
+                "ID": "01F5B5B13BA647BC51BF767CDA836ED0",
+                "SourceID": "6EE3C8877F62C063F1A27AA4027DD553F8575DF1",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -448,15 +450,15 @@
               }
             },
             {
-              "id": "4c4d3c83-c59a-4f7d-8382-f1e87e4c39db",
+              "id": "7328e298-1561-4d17-97a4-7de4e777a4b1",
               "count": 1,
               "front": {
                 "Name": "22 Seeker - Yuasa Toshiko-1.png",
-                "ID": "58B3C16FAFA30E23CA54B36614B2C599",
-                "SourceID": "5BA29B5E168CD8EEC4B124FD9BB773AF655D9A19",
+                "ID": "7F8C82AAF6E95C88FC32ABA70CC025C3",
+                "SourceID": "B38C3C5A74B31B5CDE53E4D49982B49E7A70FA9C",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -468,15 +470,15 @@
               }
             },
             {
-              "id": "06286b2b-9bd1-42ea-b87c-0961f402eec6",
+              "id": "a936ab40-2a68-4945-b2ac-9f0c8fb3d6b0",
               "count": 1,
               "front": {
                 "Name": "23 Rogue - Carmilla-1.png",
-                "ID": "D2E635A4443A483E69E693B264CF6FBE",
-                "SourceID": "47291BEA95DCE22C903E2FAC7C5F5F3A06F0A884",
+                "ID": "8F0C788A88FA21D4FC73D19BD5AB180F",
+                "SourceID": "603DCCA26603B451B3DA3F2268D126EC4846F177",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -488,15 +490,15 @@
               }
             },
             {
-              "id": "08de822c-82ac-467e-8542-8728f1fa7891",
+              "id": "1fd64ea3-c6da-49ba-8ed0-9634f4496068",
               "count": 1,
               "front": {
                 "Name": "24 Rogue - Eris-1.png",
-                "ID": "647E694C18785D203F1201C621BE5501",
-                "SourceID": "8753699A580B7800AEBEA6FCF4E514EBFA92ABCD",
+                "ID": "1A2301D0051F0ACAAEA725339D3E2524",
+                "SourceID": "1A8388BF3963F338624D34EC580D52B5D39A2C4C",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -508,15 +510,15 @@
               }
             },
             {
-              "id": "a43acc21-9cb4-4c39-9e6b-2776cea17937",
+              "id": "8ee23f35-bee9-4093-9e07-17273781f295",
               "count": 1,
               "front": {
                 "Name": "25 Rogue - Kitsune-1.png",
-                "ID": "4763CBF677445E858BC3CEC902E0AFF7",
-                "SourceID": "4BAF0D2B107170F9C5EC63B58527C9661C2893D3",
+                "ID": "0B2111711E3C1B32E71C6FA8C38B4462",
+                "SourceID": "A98F0B1D89D84B705BB77DC13AC119610991B04F",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -528,15 +530,15 @@
               }
             },
             {
-              "id": "c399879f-1fef-4cbd-8eda-6f6ac8c64ac6",
+              "id": "ee908aa9-6305-446f-96d3-af039ffff3ff",
               "count": 1,
               "front": {
                 "Name": "26 Rogue - La Llorona-1.png",
-                "ID": "32728965D7E769E3CF308134A7E850AC",
-                "SourceID": "A32278CE6AA94C5A1BA3DA783C57D2B4A0DABC5B",
+                "ID": "E0BFB46FB0F831A32F2C1A744E06CF8E",
+                "SourceID": "42990030CC00994680E6F8938608504D5F2EBBB5",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -548,15 +550,15 @@
               }
             },
             {
-              "id": "85f22e18-3bf3-4006-a78b-87bfd31fd527",
+              "id": "eb636721-4dbd-4536-90e0-4cb41c1af663",
               "count": 1,
               "front": {
                 "Name": "27 Rogue - Lady Godiva-1.png",
-                "ID": "66AA31B3695936FBB5DACDE36174D7FA",
-                "SourceID": "C8D465D93A7BAFC9D487838246F0A6A4092063B9",
+                "ID": "F3492EC4927EDCD9E97F12D1BD731798",
+                "SourceID": "9FF6167556E60C9D5B40DD10E72BFD31BFE0A849",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -568,15 +570,15 @@
               }
             },
             {
-              "id": "ff4df959-3f56-45a2-8e15-afc46b8eccc3",
+              "id": "33c0db62-3036-4343-8aa9-57dedc55e9e8",
               "count": 1,
               "front": {
                 "Name": "28 Rogue - Lady MacBeth-1.png",
-                "ID": "E531A0D50636EA91B7F78FA9624929AE",
-                "SourceID": "0797B0A6103FF812A0F1585A6DD26657DAF45608",
+                "ID": "35573DE74F730F229A19D57445551F1F",
+                "SourceID": "94F4E165DC572CB2E3D0643ED11964550D8BC7FC",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -588,15 +590,15 @@
               }
             },
             {
-              "id": "31ab8304-0de1-4f2f-9eb2-3fd39a0a074a",
+              "id": "5994327d-9cf6-4fed-ae49-2a0d417b3cc7",
               "count": 1,
               "front": {
                 "Name": "29 Rogue - Mary Read-1.png",
-                "ID": "7AD266442F3FA8B08963E3DF47F1229B",
-                "SourceID": "75ADA35D2496DB6133D8CCF8D097E6004CD196C7",
+                "ID": "DC3B715458D74DB4C0F51E97D1CBB99C",
+                "SourceID": "0D349DE6CF617A7908A27F004678F95C644A736D",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -608,15 +610,15 @@
               }
             },
             {
-              "id": "9c53e224-64ca-48a8-9b86-6f37cef68041",
+              "id": "d3a33c8b-ad7f-4738-be10-4a0797ba7b50",
               "count": 1,
               "front": {
                 "Name": "30 Rogue - Medusa-1.png",
-                "ID": "04C019B1462460874FCA2B84D450D053",
-                "SourceID": "B4678308A15E303A6140985D561914D1DFBC726C",
+                "ID": "0E7D80A5065B3BF8F3DB590B719F4F42",
+                "SourceID": "521E660263A6D70F881CF82421682FB46AD5B280",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -628,15 +630,15 @@
               }
             },
             {
-              "id": "b998efe3-cc3f-4c0c-99d3-b479d859b4f2",
+              "id": "5d3aa1b8-5e6f-4bb8-9a07-b352480171e0",
               "count": 1,
               "front": {
                 "Name": "31 Rogue - Titania-1.png",
-                "ID": "927C483BEAB59B93D4A20B6DACFC1942",
-                "SourceID": "FD5F374E0B155C2ED36FC9371A653747EBB96D35",
+                "ID": "A1E9703E8C2686C0B2B332437BEC2DEC",
+                "SourceID": "43347739759727814A5C1BB08EC7BF599ED3A471",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -648,15 +650,15 @@
               }
             },
             {
-              "id": "326e6600-6ab9-4c35-90bf-40d76c25d76c",
+              "id": "adbe3213-76ed-4ef7-9066-3bc96ba2a98d",
               "count": 1,
               "front": {
                 "Name": "32 Mystic - Aphrodite-1.png",
-                "ID": "BB03CEA0A5CA28E9FCEE096F81D4D290",
-                "SourceID": "9F26DB6401C8733A3C3765D9AE95F378F72A76D8",
+                "ID": "DD195D7A5D67C7A23D6254B01C44A5BB",
+                "SourceID": "D333DCD19D7BF7AF832DB2CB8BCCBBE998CDAE57",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -668,15 +670,15 @@
               }
             },
             {
-              "id": "867de610-bd1e-4441-8b0f-c80e7511bdb4",
+              "id": "6ca77883-1170-4cb1-ac4b-3e6879e0c9e6",
               "count": 1,
               "front": {
                 "Name": "33 Mystic - Baba Yaga-1.png",
-                "ID": "355F609AF0E6B17ECAE9BCB315CDF798",
-                "SourceID": "6F0E8E1268196E58EFA7A31593F303D33E2CC5AD",
+                "ID": "FC5C3EE1B92183C702DC8A1777241B94",
+                "SourceID": "B917C5AC3133FFF67D5A0B75A4AF48BEC7FF1126",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -688,15 +690,15 @@
               }
             },
             {
-              "id": "9402551d-4561-45d4-828b-376e93a56059",
+              "id": "3cf5c66a-814a-49a3-a5ff-2bf9d7449d07",
               "count": 1,
               "front": {
                 "Name": "34 Mystic - Bride of Frankenstein-1.png",
-                "ID": "120E59C612E5F778E2B596DDF45B4A46",
-                "SourceID": "036A3B15859A60AF1D763DBCB04D118903825750",
+                "ID": "AF51A35C61B0DC5F45E634D38AB485C8",
+                "SourceID": "D025A03B66ED886F5DA29EF58D88DD63B56C9BE2",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -708,15 +710,15 @@
               }
             },
             {
-              "id": "fec605b1-aed8-47ad-89d5-7c2df60f0c76",
+              "id": "4f38f321-ebc0-434d-bee1-233b2fc281de",
               "count": 1,
               "front": {
                 "Name": "35 Mystic - Ereshkigal-1.png",
-                "ID": "6B5B916EB71EB1CAE84DB5645B4AE4F5",
-                "SourceID": "EE16864ACC85991C3E86978EAFBF7F424DCE9686",
+                "ID": "09E04EE866F61CE4914879199AE67E5E",
+                "SourceID": "E862538AA1CC0CD4F0F04F5144FC165AA1B11460",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -728,15 +730,15 @@
               }
             },
             {
-              "id": "f7392bba-df8e-4eaa-b06d-7ef46588a1d9",
+              "id": "e54225e8-f7c8-46fe-b60f-9dd6b77f9fa1",
               "count": 1,
               "front": {
                 "Name": "36 Mystic - Hecate-1.png",
-                "ID": "C7CAE26F3F0DAC2CC9C723931CD1479C",
-                "SourceID": "028F5FF6914022FA4A6145CC279E91B16DC91E6C",
+                "ID": "196F9F4287A3664A445AE4A00FB242C3",
+                "SourceID": "DD1BB988A0B15F5737D72560AB17DE4B29126C29",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -748,15 +750,15 @@
               }
             },
             {
-              "id": "ba73b1d8-350e-4da4-8ca0-6db2ea7a4d6b",
+              "id": "b66271f6-efb2-4875-b945-1c8573f7b5b2",
               "count": 1,
               "front": {
                 "Name": "37 Mystic - Jorogumo-1.png",
-                "ID": "9893D64462FCEA58169087FDCC4E16D1",
-                "SourceID": "F3E3DD54A987CEB309CFE331BE76D0C11906EAF2",
+                "ID": "71E3712FCB7A9B04846B1E76817BECE9",
+                "SourceID": "CEABEB986CB76BB2C9857C01D1076705EB1A63E8",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -768,15 +770,15 @@
               }
             },
             {
-              "id": "3e8a4359-505a-466d-8d32-17a8c48f77c5",
+              "id": "c175fbcf-2e27-4687-a8e7-4f20aa4f02cb",
               "count": 1,
               "front": {
                 "Name": "38 Mystic - Lorelei-1.png",
-                "ID": "38FBE3E53990FFC7B2C2BF315FD13E04",
-                "SourceID": "E070D6B34E78C8473A548723F20F810873EBF8B6",
+                "ID": "496587AC3B1494E8A4218B9ACD2A5AFD",
+                "SourceID": "CC4E8C8A062D2A8F7020D66D9CC767978D8117C8",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -788,15 +790,15 @@
               }
             },
             {
-              "id": "80bc2c6e-6eef-43b5-965c-9a7335fada9a",
+              "id": "96591c17-a3e0-4d38-8ef7-d7bcd90851d1",
               "count": 1,
               "front": {
                 "Name": "39 Mystic - Marie Laveau-1.png",
-                "ID": "D509B08395715C1D3FC6251B2EB9952F",
-                "SourceID": "E9C63B62492536887B8CDF2467D2F6D9E4162564",
+                "ID": "4492DA9188C2A8FC28B6E64A013C9C29",
+                "SourceID": "42559E647A0BDF7D197FA64DA42F65258F70491A",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -808,15 +810,15 @@
               }
             },
             {
-              "id": "e4a4210c-7ef4-4a66-bd97-113308b13613",
+              "id": "fe409eed-4ab9-4fde-879e-4d8ac0da33e5",
               "count": 1,
               "front": {
                 "Name": "40 Mystic - Morrígan-1.png",
-                "ID": "F9BBDC6641E285C117793A7BA3D97E40",
-                "SourceID": "75C0CB6A71116CC2734AD42E029CF7C6FFD17B3F",
+                "ID": "C22FD0C86A3B8D3C588259520C0DBBA0",
+                "SourceID": "19757EEC7E936111103846337D78A410464E934A",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -828,15 +830,15 @@
               }
             },
             {
-              "id": "7e7713f1-a33a-4ada-89a0-39a02d5189a5",
+              "id": "42269f69-429a-4dc8-b7af-cc2403bdcc67",
               "count": 1,
               "front": {
                 "Name": "41 Survivor - Berenice-1.png",
-                "ID": "F09279095417EF0BA1124118F3815B4E",
-                "SourceID": "A6D09CC9FB8107311F1DD9DA0169FCCEF8EAA20A",
+                "ID": "E121FE63A6E05E3171A56AE9DB6DFFE8",
+                "SourceID": "5830B7A88E4697E2B3DD5DA3387F40C789731E67",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -848,15 +850,15 @@
               }
             },
             {
-              "id": "07e1674d-a6b5-420f-b2c3-aaee8088709d",
+              "id": "045f9a2e-9897-4f72-8242-76b55b6c77f8",
               "count": 1,
               "front": {
                 "Name": "42 Survivor - Blanchette-1.png",
-                "ID": "6EB400EF18C04817A847686F48390EF3",
-                "SourceID": "D6A8D8A222F524867E3B55C2864F31BACEFA21DB",
+                "ID": "3F506766865BAAFA21E33AC14D3D69BA",
+                "SourceID": "DA2FFF89BAC9E250E6459BE5823E5795643BCA9E",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -868,15 +870,15 @@
               }
             },
             {
-              "id": "fc874c7f-51fa-4c4d-8c95-52f246e7887c",
+              "id": "5b790a8e-a084-4a1f-92a1-a5ea1e904daf",
               "count": 1,
               "front": {
                 "Name": "43 Survivor - Christine Daaé-1.png",
-                "ID": "BFCD824F57FFAC3AE309AC64E7072E96",
-                "SourceID": "B41142B0ECCFF53869A54A5769F5732CFE3F55DE",
+                "ID": "3BC0F0EE02375A6309CDFFB07DD23201",
+                "SourceID": "CCFF2F907458E109A3A4A458476EB1C166AA206E",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -888,15 +890,15 @@
               }
             },
             {
-              "id": "88f092e1-b0a2-4fcc-9786-69b7e740fdf9",
+              "id": "dd8950bd-9eaf-4974-9b63-42ad1c4a34a8",
               "count": 1,
               "front": {
                 "Name": "44 Survivor - Cinderella-1.png",
-                "ID": "043D067A9802F46495B28357386A3950",
-                "SourceID": "238557A983D3F39A721E663C173A537AE0DBD4B3",
+                "ID": "6475C6DFA39E1D07A86077B383671C3F",
+                "SourceID": "7B69E13F6B15F1EDD89CF0AD912533BA0A00EB9F",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -908,15 +910,15 @@
               }
             },
             {
-              "id": "1fae12e8-e473-4726-92d4-70459788d9c8",
+              "id": "ce148de0-b033-4f85-8c05-c696680f8f42",
               "count": 1,
               "front": {
                 "Name": "45 Survivor - Idunn-1.png",
-                "ID": "41575AC570AF233719807CB047AE261A",
-                "SourceID": "4A960FA4018057CCCF99DFF2FD8FE441BFFE8BE5",
+                "ID": "424CED93863CCDB746CC312B22D5FE0D",
+                "SourceID": "A9FB990DFEB24E5E04C93EA961A98BB62D1DF48E",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -928,15 +930,15 @@
               }
             },
             {
-              "id": "f51e8a43-81b5-4642-b640-c4c98928d3f3",
+              "id": "f703104a-a936-489c-ab11-3ef45503219e",
               "count": 1,
               "front": {
                 "Name": "46 Survivor - Mina Harker-1.png",
-                "ID": "86B13EFFFE14DEA0AB09AF79182428B0",
-                "SourceID": "3971350B3BE77D611EEA506CEA7028A7313F1C5B",
+                "ID": "72311D71F31D98B11056B2A937F7B3F2",
+                "SourceID": "3A172365105A028D531B54135D00BCD26FDFD4E9",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -948,15 +950,15 @@
               }
             },
             {
-              "id": "789944dd-fc74-40a5-8f28-4124225ac186",
+              "id": "1eb50ca1-736a-4b04-805e-0078e1dd49b8",
               "count": 1,
               "front": {
                 "Name": "47 Survivor - Persephone-1.png",
-                "ID": "009F27831E8A86965C8F1FF7CE94223A",
-                "SourceID": "3BE9ED65BE64402C51AE2F8430FA1CD9F66561DE",
+                "ID": "AEC8CBD0936D1C942F2DA65FA5065357",
+                "SourceID": "0DCDD821DC128995E54E34452FDA7336D83901AF",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -968,15 +970,15 @@
               }
             },
             {
-              "id": "d42e7592-0517-4949-bd7c-71ededef810e",
+              "id": "f540ca7a-0293-477b-b096-5cddd7b2a921",
               "count": 1,
               "front": {
                 "Name": "48 Survivor - Psyche-1.png",
-                "ID": "BADCAEBC5056F9BA05A6901224A3C5B5",
-                "SourceID": "7712C26EE819923369B63107474F1E503974D99C",
+                "ID": "D139C6B90337AA49A2AA76D545902CE1",
+                "SourceID": "8F113ECA02CB31E96F887A039FC76C23ACC82CCA",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -988,15 +990,15 @@
               }
             },
             {
-              "id": "fca36b6a-8f98-44ed-b47a-0b8246255294",
+              "id": "f6debec3-cb30-4db5-a241-7fdae89a6b89",
               "count": 1,
               "front": {
                 "Name": "49 Survivor - Rapunzel-1.png",
-                "ID": "2D2C5504541C7372FEDF0EEEE4F984E9",
-                "SourceID": "D9789F24A774C1DC90B2C39AE9588DF23F18BB79",
+                "ID": "0D396F7DB544A55BFCB336CD20111A41",
+                "SourceID": "7B9DF99C4FDDECA9870761681C51036A77CD8954",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -1008,15 +1010,15 @@
               }
             },
             {
-              "id": "7551c228-dffc-4641-8bcf-c49dc41040b3",
+              "id": "04ec983e-8117-4889-a94b-2fb61a96fda8",
               "count": 1,
               "front": {
                 "Name": "50 Neutral - Tsarevna Lebed-1.png",
-                "ID": "340F7E1CF390EBBB7808DFEB45082BAC",
-                "SourceID": "37B75A097EF20D7BCC8505B46A25AAF0CFC4679E",
+                "ID": "8BC69D51968D152130D8F61B4B9C2B98",
+                "SourceID": "6D69075CE2FF3C90EC165909E0A17A3D4FEDA009",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -1028,15 +1030,15 @@
               }
             },
             {
-              "id": "76773c63-dc26-484c-b59a-78baed090ab0",
+              "id": "96be354c-42a8-4077-89db-02e865d1743b",
               "count": 1,
               "front": {
-                "Name": "51 Synergy - Celestial Synergy-1.png",
-                "ID": "A7806BF4C9BC2AE6CA24F893C6F44FC4",
-                "SourceID": "499DB45CB6C7BDAC932FA8D97EFA49419C2B332C",
+                "Name": "51 Neutral - Celestial Synergy-1.png",
+                "ID": "0B1A0D523D97BEA9135041DAA91CBB46",
+                "SourceID": "0F11195BEFAB14CE62D21B9BE676BE61948A1025",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -1048,15 +1050,15 @@
               }
             },
             {
-              "id": "902f16b0-aa32-4fdc-868a-ad573b14ba16",
+              "id": "8bb337a0-3480-4d13-b8ea-0146a953b13e",
               "count": 1,
               "front": {
                 "Name": "52 Synergy - Nyx-1.png",
-                "ID": "48E09F0907294CD497CD37FB4B92785A",
-                "SourceID": "A85AFBFC6066950522630598AA295D81B56F92CE",
+                "ID": "31332C46F02185F7928BCF6E0076D0C8",
+                "SourceID": "6C079904D5D86B5B2189CA21A80656CC1D09C7BF",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -1068,15 +1070,15 @@
               }
             },
             {
-              "id": "1badd969-ad43-4efb-ab28-8dc44d9464c3",
+              "id": "cd2fed94-cc89-4cbf-bac5-24726627759d",
               "count": 1,
               "front": {
                 "Name": "53 Synergy - Selene-1.png",
-                "ID": "4FF987C4D28E4F95D961D5C1779B29EC",
-                "SourceID": "EAB5992EA2D19AED2AF7249597FEF99B9C3C1313",
+                "ID": "6D587BC147A90EEF304F30CA0E6B9E68",
+                "SourceID": "8D4471C6D2F4BE453248154C80FB02E60B6E0DF1",
                 "Exp": "png",
-                "Width": 826,
-                "Height": 1126
+                "Width": 1652,
+                "Height": 2252
               },
               "back": {
                 "Name": "back.png",
@@ -1094,6 +1096,6 @@
     }
   ],
   "created": "2021-11-21T23:11:28.754Z",
-  "updated": "2025-10-19T23:11:28.754Z",
+  "updated": "2025-10-22T23:11:28.754Z",
   "hash": "d30e025744ab3d84648aed28af86c051d7946caa1c157a5bcd97067c28eceb6d"
 }

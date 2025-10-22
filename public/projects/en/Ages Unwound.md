@@ -1,5 +1,8 @@
+**2025-10-21:**
+  - Removed an errant period after a nonexistant Victory on 014 Cramped Passageway (h/t PhantomWhale)
+
 **2025-10-17:**
-  - Formatting updated to use official FFG font
+  - Formatting updated to use the official FFG font, Arno Pro
   - Some cards renumbered to make scenario setup easier
   - Incorporated Olivia Juliet’s errata for the following cards:
     - 050 A World Torn Down Agenda 2
@@ -16,4 +19,4 @@
     - 236 Uneven Acceleration
 
 **2025-10-17:**
-  - Added errata pack of the above 16 cards with fonts matching the original printing.
+  - Added errata pack of the above 16 cards with Times Roman font matching the original printing.
