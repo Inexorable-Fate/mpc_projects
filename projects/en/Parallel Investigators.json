@@ -18,16 +18,18 @@
     "43D1D59EF62CA76B8E1186F8C4E69EBC31D6AA4B91430E445ED0D773F752955E4B375CFF8843FFF3": "Clover Club Bouncers",
     "CD1FEA7FEDAE223211958063CD6BF87A1D8C1CA1DFFE5467F6E51FF7063803AF9616653EA51DBEE5": "Jennymini",
     "C26034DBAFF4FA632F3D0A57B6B291918E49D8DE4EB7E7FD32B62F08DFE0931DBE788F4016E7CB91": "Parallel Mateo",
-    "B29C5191F31A1525447E611CE3278BB891CCBE0319B26F6C87F0D6FE5A102610896207DF877FCC8D": "Parallel Mateo bleed fix"
+    "B29C5191F31A1525447E611CE3278BB891CCBE0319B26F6C87F0D6FE5A102610896207DF877FCC8D": "Parallel Mateo bleed fix",
+    "DCAA444EA5E894E70D5CEB363FE85E125AE6993142921D8DE6F766AA7BEEAA05CE41C43FB5E301BE": "Parallel Lola",
+    "D1DB20B00D4EFC2C2F26A2A3952A2565A8C8E394FB699248F2DDB9196E26F61BAF64303DBA23154E": "Sinister Soloist"
   },
   "name": "Parallel Investigators",
   "description": "Enter an alternate dimension with FFG’s parallel versions of Arkham investigators, some with special challenge scenarios!",
-  "artist": "Magali Villeneuve",
+  "artist": "Borja Pindado",
   "info": "Note that Parallel Mix & Match is a separate project, so check it out if you want all the possible front/back combos.",
   "website": "https://www.fantasyflightgames.com/en/news/2020/5/5/beyond-our-dimension/",
   "cardsLink": "https://drive.google.com/drive/folders/1TmniKONBPpFztFcgtW4nFIOYw2QcHR2B?usp=drive_link",
-  "scenarioCount": 7,
-  "investigatorCount": 12,
+  "scenarioCount": 8,
+  "investigatorCount": 13,
   "authors": [
     "Fantasy Flight Games"
   ],
@@ -42,6 +44,237 @@
     "Official"
   ],
   "options": [
+    {
+      "name": "Parallel Lola Hayes, 2025-10",
+      "parts": [
+        {
+          "name": "Parallel Lola",
+          "cards": [
+            {
+              "id": "e44e78dc-c0a4-45b5-a575-3b1d38d98f43",
+              "count": 1,
+              "front": {
+                "Name": "087 || Lola Hayes-1.png",
+                "ID": "6B75206EE197DAF03817AA2EBB55E7BD",
+                "SourceID": "2940EE3F30F735BABC49912778CA3655AFBC3955",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "087 || Lola Hayes-2.png",
+                "ID": "90F1955AD77CB498C211C401F5EB50AE",
+                "SourceID": "5B2CD9E16046C4C47CB09E8D55B30F1CF7306583",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "c1ccca32-883b-43e4-b82c-b46078c46f92",
+              "count": 1,
+              "front": {
+                "Name": "088 Leading Lady Heroine-1.png",
+                "ID": "0031D778D4F79751CAF991BD4FBC628B",
+                "SourceID": "0556CBCFDB6F5D73013249FB132FFBF70336C3A4",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "_playerback.png",
+                "ID": "6FE3AA4CA902012E85F72D5D35E88F69",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "6fd8186c-09d4-4c20-9aa6-4fb4db4ae8f7",
+              "count": 1,
+              "front": {
+                "Name": "089 Leading Lady Mentor-1.png",
+                "ID": "E7925E705EDBDE5BA505B42835DF10A1",
+                "SourceID": "C5B90DD9860B30A94FEFFE2EA3CC46E5483FEC42",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "_playerback.png",
+                "ID": "6FE3AA4CA902012E85F72D5D35E88F69",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "586b9273-9f09-402c-aba9-47aa7bb87330",
+              "count": 1,
+              "front": {
+                "Name": "090 Leading Lady Femme Fatale-1.png",
+                "ID": "36A510970FF5BC25FACC76D04E906D47",
+                "SourceID": "5EFF8113BB176027DF852609863D2B72CE7CABDA",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "_playerback.png",
+                "ID": "6FE3AA4CA902012E85F72D5D35E88F69",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "15ceeedf-3a43-4021-87f1-a33517a502c4",
+              "count": 1,
+              "front": {
+                "Name": "091 Leading Lady Enchantress-1.png",
+                "ID": "824F72E5D5E0EACEC7F982FFA0179D3F",
+                "SourceID": "71EA770E229FA8EA5B6BF4ABE7631EB5636D1841",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "_playerback.png",
+                "ID": "6FE3AA4CA902012E85F72D5D35E88F69",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "495fe665-8df8-47e9-8b60-ed2e0d528248",
+              "count": 1,
+              "front": {
+                "Name": "092 Leading Lady Final Girl-1.png",
+                "ID": "1AB3319310A42C27C0C0CE0B17EA80BF",
+                "SourceID": "4C00F338F997477F3C6BB9D94D318E413E0C7568",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "_playerback.png",
+                "ID": "6FE3AA4CA902012E85F72D5D35E88F69",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "1046d1ea-ddc4-45a2-9741-e6ff6b59ab42",
+              "count": 1,
+              "front": {
+                "Name": "093 Samuel Blake-1.png",
+                "ID": "DF6594A6A7011C8B608B52A226BE6A40",
+                "SourceID": "923FAA9A395C9597D2A2E018BD75423DCD3D1936",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "_playerback.png",
+                "ID": "6FE3AA4CA902012E85F72D5D35E88F69",
+                "SourceID": "537898184A74156EB358A1B62F6812262361519E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "996125e0-17a4-438a-8210-2d1a0ee367cc",
+              "count": 1,
+              "front": {
+                "Name": "094 Enthralling Encore Scenario Card-1.png",
+                "ID": "035687D15E8B5A814DEB41E64A93EDC7",
+                "SourceID": "77DA788909F0DE5B7B989065B4547D0E7B5EDFC2",
+                "Exp": "png",
+                "Width": 1646,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "094 Enthralling Encore Scenario Card-2.png",
+                "ID": "CFE7145CB39582B072FBA4D786B8765B",
+                "SourceID": "DC657292AD6C7E57328A9B4E5900D5ADD125B47D",
+                "Exp": "png",
+                "Width": 1646,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "9a6f3447-e138-4262-873b-7568da9e76f6",
+              "count": 1,
+              "front": {
+                "Name": "095 Enthralling Encore Agenda 1-1.png",
+                "ID": "25D3096B21C3925CD5A63243773FE87B",
+                "SourceID": "4013F5049A06C68BDB29AA4B5848B4832C9E4574",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "095 Enthralling Encore Agenda 1-2.png",
+                "ID": "71751FE4A2B695542EB54F2FC8B7403F",
+                "SourceID": "A95E85B5534C3A1CC06A6B912B10289A61C7E273",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "9c421ff8-6367-4329-a88e-a26284b00495",
+              "count": 1,
+              "front": {
+                "Name": "096 Enthralling Encore Act 1-1.png",
+                "ID": "031DF8546041501A94CF9A2D62816F28",
+                "SourceID": "12F88C702641306EDB38CA108DD9436FAA12F409",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "096 Enthralling Encore Act 1-2.png",
+                "ID": "45EFF2F4360BAC211C537181BFB58369",
+                "SourceID": "25730203016384400225FCCF908CB2C73C614400",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "8a1e18d1-83b4-48c1-9abe-24bf3a6b3afb",
+              "count": 1,
+              "front": {
+                "Name": "097 Sinister Soloist-1.png",
+                "ID": "711CCF849D5001F80BC0633BEE2032AE",
+                "SourceID": "6202ACEFAEB02E1F34F4F8AC6889CFE9B1CF6430",
+                "Exp": "png",
+                "Width": 1624,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "097 Sinister Soloist-2.png",
+                "ID": "0D449702A682F7CE93C4F6EDA9F4437B",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        }
+      ]
+    },
     {
       "name": "Parallel Father Mateo, 2024-10",
       "parts": [
@@ -2518,6 +2751,6 @@
     }
   ],
   "created": "2020-05-05T04:45:26.681Z",
-  "updated": "2025-07-31T22:36:30.334Z",
+  "updated": "2025-10-30T12:36:30.334Z",
   "hash": "a14159abbdb5d5c098bdb878d5597ae5d0ca0da8162b6d7850f7d4634cc78436"
 }

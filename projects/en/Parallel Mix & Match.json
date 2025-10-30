@@ -11,16 +11,17 @@
     "A9824BCE8A225BE9FB30A93AB37F25F30350D4F2D9AAF6A0E4030BB8EE7B4C0B68A98A5A52F5DAA8": "Dunwich errata backs",
     "FDBBE6C4C82D4EF26B43C71CFC64D1FA68BA5B6BA8359E902614DAC9D772A6EF9E790A8F7CB9CA06": "Dunwich errata with ‘other’",
     "538AB1B81E3E32FF12C022D809FCB7B0607F760993A84FBFE7B6C15233CDEB7F59CB53513A398584": "Mix & Match footer fixes",
-    "A4791C56809494E7C58376280CB0C2FCDB86E1605AEE7149EE21053FBE52456745F1AF82D58E8945": "Mix & Match Mateo"
+    "A4791C56809494E7C58376280CB0C2FCDB86E1605AEE7149EE21053FBE52456745F1AF82D58E8945": "Mix & Match Mateo",
+    "0A24BA559ACB60E27D72104B9473A3F0BD6C5150CCE2AB738C360CCA9903E16B57025CB8C1235AE5": "Mix & Match Lola"
   },
   "name": "Parallel Mix & Match",
   "description": "Every completionist’s PnP dream! Pair each parallel investigator front with the original back, and each original front with its parallel back. Because we wouldn’t want you to have to slide two different cards into a single sleeve.",
   "artist": "Magali Villeneuve",
-  "info": "Note that this only contains original/parallel combos. You’ll need the Parallel Investigators project for the parallel front/parallel back versions.",
+  "info": "Note that this only contains original/parallel and taboo/parallel combos. You’ll need the Parallel Investigators project for the parallel front/parallel back versions.",
   "website": null,
   "cardsLink": "https://drive.google.com/drive/folders/1TmniKONBPpFztFcgtW4nFIOYw2QcHR2B?usp=drive_link",
   "scenarioCount": 0,
-  "investigatorCount": 12,
+  "investigatorCount": 13,
   "authors": [
     "Fantasy Flight Games"
   ],
@@ -34,6 +35,104 @@
     "Official"
   ],
   "options": [
+    {
+      "name": "Parallel Lola Hayes, 2025",
+      "parts": [
+        {
+          "name": "Lola Mix & Match (Taboo)",
+          "cards": [
+            {
+              "id": "075551b7-2e33-4f58-a7a4-9135f5fe26bc",
+              "count": 1,
+              "front": {
+                "Name": "087 Lola Hayes || front taboo back-1.png",
+                "ID": "6B75206EE197DAF03817AA2EBB55E7BD",
+                "SourceID": "2940EE3F30F735BABC49912778CA3655AFBC3955",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "087 Lola Hayes || front taboo back-2.png",
+                "ID": "9E56E160F9D620E66AB01EBAC3BDBA92",
+                "SourceID": "E0A8639D6A466E4ECA56D800D8D2021DA8E6F87E",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "a1b7fd3d-c2a9-4022-8ddb-7135c5674983",
+              "count": 1,
+              "front": {
+                "Name": "087 Lola Hayes taboo front || back-1.png",
+                "ID": "7DE78F04B088DBD74058E185DCA01F1D",
+                "SourceID": "2D048FDFE5E2A6EF92E213538A69A081617CBF0C",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "087 Lola Hayes taboo front || back-2.png",
+                "ID": "90F1955AD77CB498C211C401F5EB50AE",
+                "SourceID": "5B2CD9E16046C4C47CB09E8D55B30F1CF7306583",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Lola Mix & Match (Non-Taboo)",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "8a9807e6-8af9-48e9-b878-e790567a5960",
+              "count": 1,
+              "front": {
+                "Name": "087 Lola Hayes || front std back-1.png",
+                "ID": "6B75206EE197DAF03817AA2EBB55E7BD",
+                "SourceID": "2940EE3F30F735BABC49912778CA3655AFBC3955",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "087 Lola Hayes || front std back-2.png",
+                "ID": "565C2464AA186D047BCC3DAF6CF50EBF",
+                "SourceID": "A15986B4FA942DEB09888BDF5E6B100231929926",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "241b5561-fca0-4358-a60f-03d447d4f117",
+              "count": 1,
+              "front": {
+                "Name": "087 Lola Hayes std front || back-1.png",
+                "ID": "2EC9C23880A4B5EAB21540F0CF910254",
+                "SourceID": "B562788064850FFCD1203C12F443B25079073CA4",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "087 Lola Hayes std front || back-2.png",
+                "ID": "90F1955AD77CB498C211C401F5EB50AE",
+                "SourceID": "5B2CD9E16046C4C47CB09E8D55B30F1CF7306583",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        }
+      ]
+    },
     {
       "name": "Dunwich-ish Investigators, 2023–2024",
       "parts": [
@@ -880,6 +979,6 @@
     }
   ],
   "created": "2020-05-05T04:45:26.681Z",
-  "updated": "2025-05-21T21:10:30.333Z",
+  "updated": "2025-10-30T12:10:50.333Z",
   "hash": "7dcb7dc40e70218598d7051bb85a85d26c659d1bce9273c793afabc802b897f0"
 }
