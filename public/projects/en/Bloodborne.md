@@ -1,6 +1,10 @@
+**2025-11-19:**
+  - Re-exported at 450ppi
+  - Perfectionist formatting updates including improved hanging indents, en dashes to match FFG templating, periods after Victory X, correct templating on fight/evade/investigate/parley when not used as an action, improve line breaks and vertical spacing on flavor text
+
 **2024-11-19:**
-- Due to an update in the Strange Eons plugin to correct the templating for the Patrol keyword, several Patrol enemies (56, 60, 61, 293) were inadvertently missing the word “Patrol.” This has now been rectified.
-- Two additional Patrol enemies (183, 185) were not missing the Patrol keyword, but have now been reformatted with the correct templating for Patrol.
+  - Due to an update in the Strange Eons plugin to correct the templating for the Patrol keyword, several Patrol enemies (56, 60, 61, 293) were inadvertently missing the word “Patrol.” This has now been rectified.
+  - Two additional Patrol enemies (183, 185) were not missing the Patrol keyword, but have now been reformatted with the correct templating for Patrol.
 
 **2024-11-09:**
   - The Agents of Ebrietas encounter set (306–309) was updated to have 4 copies of Sidereal Flux instead of one, for a total of 9 cards in the set instead of 6.
