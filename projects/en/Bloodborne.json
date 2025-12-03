@@ -5,7 +5,8 @@
     "A870E7BE1BA7513502BD6EC9A5A2E50473B987CFCB20B92D4FD35D8CF77D871FF18CB139FE7506DD": "Insight Tokens",
     "83920E3DC149F25C93857D7150ABEB374B9175AB605AAC26CAFB6138A3AE273CEF571B3175AF5E1C": "Bloodborne 450ppi",
     "E4F70F0A43FFECD3572EA7D3F32E9EFB47F200892C94EA082A4FA2ACAFD728864E24390F283A1D20": "minicrop 450ppi",
-    "1F8FE279E9DAD9CE308AA2AE22269167ECFFFB7D0B1DD3BEB2F67ACCCACC71245C44B6A16F3FF8AC": "Extraordinary Gentleman 444"
+    "1F8FE279E9DAD9CE308AA2AE22269167ECFFFB7D0B1DD3BEB2F67ACCCACC71245C44B6A16F3FF8AC": "Extraordinary Gentleman 444",
+    "60D1D62BA45FAA90311509C2C2E69420AEBF4645349188D8E9A53CFDFFABCA4E1CA9230B0EA38D86": "dupe acts & agendas 2025-12-03"
   },
   "name": "Bloodborne — City of the Unseen",
   "description": "Arkham is mysteriously transformed into the city of Yharnam while you have fallen ill with a mysterious sleeping sickness. Discover what has happened to your world in this 8-part campaign inspired by the Bloodborne video game.",
@@ -138,17 +139,17 @@
               "id": "d891d68c-f52a-4f5b-8396-09a0b59bd50b",
               "count": 2,
               "front": {
-                "Name": "006-Act 2a The City of the Unseen-x2-1.png",
-                "ID": "C64316E0B47AEF8A7E851EECAB2BD535",
-                "SourceID": "A6BD8E013A67BF8B6DF31133792F4734F16535FF",
+                "Name": "006-Act 2a The City of the Unseen-1.png",
+                "ID": "4FF69023B3CEF6B1BC9D671002206F9F",
+                "SourceID": "2676B9E89846256B7EC1907CD659CC65B9FB07F9",
                 "Exp": "png",
                 "Width": 1239,
                 "Height": 1689
               },
               "back": {
-                "Name": "006-Act 2a The City of the Unseen-x2-2.png",
-                "ID": "A45CF9B768BA4B0B676D447E4B20432B",
-                "SourceID": "A6C07E800B078FB86C2E16FF9089D7C85134804B",
+                "Name": "006-Act 2a The City of the Unseen-2.png",
+                "ID": "D76A8D6F5A7F47F0ED2D05A54B6BAE31",
+                "SourceID": "6E99FEC0A1D4C23C2528D851B97762BB8125DD20",
                 "Exp": "png",
                 "Width": 1239,
                 "Height": 1689
@@ -158,17 +159,17 @@
               "id": "4b0fb606-d590-4e41-9705-6412e4af2ad7",
               "count": 2,
               "front": {
-                "Name": "007-Act 2a The City of the Unseen-x2-1.png",
-                "ID": "F3D1D5A198904D2905B5F0F6E31E7EC4",
-                "SourceID": "B3FAA889042710BECC37736C4CF36CCC534AB2F7",
+                "Name": "007-Act 2a The City of the Unseen-1.png",
+                "ID": "092F15681D65F4D2FE47788E37E45242",
+                "SourceID": "F37C5B4DBA2B966915D952379D324C62A038B3AC",
                 "Exp": "png",
                 "Width": 1239,
                 "Height": 1689
               },
               "back": {
-                "Name": "007-Act 2a The City of the Unseen-x2-2.png",
-                "ID": "CA685BBD74D1F414BF729A24CE7FA8D1",
-                "SourceID": "A3652BF9C078E245A7C4365929431EC4B1CA4B4A",
+                "Name": "007-Act 2a The City of the Unseen-2.png",
+                "ID": "46083456329338D587A3C8A424194C5F",
+                "SourceID": "2802C2D30F26CB1FF77B9EDD7EEF580F28FD8C1A",
                 "Exp": "png",
                 "Width": 1239,
                 "Height": 1689
@@ -1778,15 +1779,15 @@
               "id": "8525c04d-6b0d-4e3f-818b-098f809560a1",
               "count": 3,
               "front": {
-                "Name": "088-Agenda 1a Lifting the Veil-x3-1.png",
-                "ID": "15C4FEE6BA6B1EBC9067497DA7964CB7",
-                "SourceID": "4CA9CFB671917ECA6F1FC50038A9468D8B215D80",
+                "Name": "088-Agenda 1a Lifting the Veil-1.png",
+                "ID": "774EDCBA69718A639995FEC59E868311",
+                "SourceID": "CD0ECAA27192381D2B945A6A1E66EA7749E0D1DA",
                 "Exp": "png",
                 "Width": 1239,
                 "Height": 1689
               },
               "back": {
-                "Name": "088-Agenda 1a Lifting the Veil-x3-2.png",
+                "Name": "088-Agenda 1a Lifting the Veil-2.png",
                 "ID": "B10D0D478EE9647DC54207E83D70A291",
                 "SourceID": "5A48FDF85733B115BA8B7BE210655989651ED27A",
                 "Exp": "png",
@@ -1798,15 +1799,15 @@
               "id": "664a251c-c8c1-4dab-83b7-aea6b1d6e250",
               "count": 3,
               "front": {
-                "Name": "089-Agenda 1a Lifting the Veil-x3-1.png",
-                "ID": "15C4FEE6BA6B1EBC9067497DA7964CB7",
-                "SourceID": "4CA9CFB671917ECA6F1FC50038A9468D8B215D80",
+                "Name": "089-Agenda 1a Lifting the Veil-1.png",
+                "ID": "774EDCBA69718A639995FEC59E868311",
+                "SourceID": "CD0ECAA27192381D2B945A6A1E66EA7749E0D1DA",
                 "Exp": "png",
                 "Width": 1239,
                 "Height": 1689
               },
               "back": {
-                "Name": "089-Agenda 1a Lifting the Veil-x3-2.png",
+                "Name": "089-Agenda 1a Lifting the Veil-2.png",
                 "ID": "8E53B4B389F7CA1B10E45C5247F287E2",
                 "SourceID": "E40BD93A869AD6A6D1C146FE33EC9CEF2655AF93",
                 "Exp": "png",
@@ -1818,15 +1819,15 @@
               "id": "08f86e8b-d2e2-47bf-bd98-e3218109f0cd",
               "count": 3,
               "front": {
-                "Name": "090-Agenda 1a Lifting the Veil-x3-1.png",
-                "ID": "15C4FEE6BA6B1EBC9067497DA7964CB7",
-                "SourceID": "4CA9CFB671917ECA6F1FC50038A9468D8B215D80",
+                "Name": "090-Agenda 1a Lifting the Veil-1.png",
+                "ID": "774EDCBA69718A639995FEC59E868311",
+                "SourceID": "CD0ECAA27192381D2B945A6A1E66EA7749E0D1DA",
                 "Exp": "png",
                 "Width": 1239,
                 "Height": 1689
               },
               "back": {
-                "Name": "090-Agenda 1a Lifting the Veil-x3-2.png",
+                "Name": "090-Agenda 1a Lifting the Veil-2.png",
                 "ID": "D9CD3EC21B3EBD5592042639142B1B81",
                 "SourceID": "9079D3152779C23437886FFB645E39949E0F1BDC",
                 "Exp": "png",
@@ -2519,8 +2520,8 @@
               "count": 1,
               "front": {
                 "Name": "125-Act 1a Confession-1.png",
-                "ID": "50881894FC083B3C74823D40AF2E86F7",
-                "SourceID": "CED5EF28BE81EB007601E50AB4BD95553031667B",
+                "ID": "98F2DE026F8BAB725AF54FFAE0882AA5",
+                "SourceID": "95C34A705E908F9F975671B7EC9FBA224E4EDB7D",
                 "Exp": "png",
                 "Width": 1239,
                 "Height": 1689
@@ -2539,8 +2540,8 @@
               "count": 1,
               "front": {
                 "Name": "126-Act 1a Confession-1.png",
-                "ID": "F8760A0B128D9ACB5670324B323FB08F",
-                "SourceID": "7C11FB943BC1DFDF559C01BFBD4FAD1046B6DF2B",
+                "ID": "8225A3755DB0F78AC34DF7208D6EE302",
+                "SourceID": "56D5D622582C8F12CD851FBEBFFF4B88A2BBB339",
                 "Exp": "png",
                 "Width": 1239,
                 "Height": 1689
@@ -2559,8 +2560,8 @@
               "count": 1,
               "front": {
                 "Name": "127-Act 1a Confession-1.png",
-                "ID": "84BEF7AA0465E5C54D65490DBE736DA7",
-                "SourceID": "41C08CA570673D240AC143E543E506C58829EDDE",
+                "ID": "43281E6C182ED1419F479E04E9DBCF63",
+                "SourceID": "B0C15DDF9B698F1B81A4A9E29F107035A8BFC245",
                 "Exp": "png",
                 "Width": 1239,
                 "Height": 1689
@@ -2579,8 +2580,8 @@
               "count": 1,
               "front": {
                 "Name": "128-Act 1a Confession-1.png",
-                "ID": "DA90AA42E28FF2A1D42ECFDD11332898",
-                "SourceID": "C4E84D090893B5C5AF975C4E6A7BFBE001221619",
+                "ID": "C1C56545A741F290ABC44E1E4E022614",
+                "SourceID": "4F67C2646A909FC204F6D8B8F556744396992CF8",
                 "Exp": "png",
                 "Width": 1239,
                 "Height": 1689
@@ -5498,15 +5499,15 @@
               "id": "faef0a3c-11b4-4343-a48a-0010458b5031",
               "count": 1,
               "front": {
-                "Name": "274-Numbing Mist-1.png",
-                "ID": "B24CC3ED2BA49D94B388899A419600F9",
-                "SourceID": "39C6CD19ACB20242F32D2E825A4B3AF159154960",
+                "Name": "274-Numbing Mist-x2-1.png",
+                "ID": "C6A63579BF6D2AF978C18FC5081728D6",
+                "SourceID": "8AD638F3E12948BFC00B8D1DE81A250897C7CD60",
                 "Exp": "png",
                 "Width": 1239,
                 "Height": 1689
               },
               "back": {
-                "Name": "274-Numbing Mist-2.png",
+                "Name": "274-Numbing Mist-x2-2.png",
                 "ID": "22197981B631A691A69F61906DABD021",
                 "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
                 "Exp": "png",
@@ -9999,6 +10000,6 @@
     }
   ],
   "created": "2024-08-22T12:09:26.680Z",
-  "updated": "2025-11-19T22:55:24.680Z",
+  "updated": "2025-12-03T22:55:24.680Z",
   "hash": "9c81e549337dd0a6dd724adbc2a42b2aa664981a2847937b37c940a9fa2e9da0"
 }

@@ -1,3 +1,9 @@
+**2025-12-03:**
+A few problems have been corrected since the updated export on 2025-11-19:
+  - Scenario 1 Act 2 (6–7) and Scenario 4 Agenda 1 (88–90) had unintentional duplicates that have been removed. The correct number is two versions of S1 act 2 and three versions of S4 agenda 1 with identical fronts and different backs.
+  - Scenario 5 Act 1 cards (125–128) have been replaced with versions with identically numbered fronts so that they are indistinguishable on the “a” side.
+  - Numbing Mist (274) now has 2 copies instead of 1.
+  
 **2025-11-19:**
   - Re-exported at 450ppi
   - Perfectionist formatting updates including improved hanging indents, en dashes to match FFG templating, periods after Victory X, correct templating on fight/evade/investigate/parley when not used as an action, improve line breaks and vertical spacing on flavor text
