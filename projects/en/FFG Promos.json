@@ -1,0 +1,102 @@
+{
+  "version": 5,
+  "projectIds": {
+    "7451CAEFE14C10DC09A0C717DF14459728EBEB72AE1A92AAFA523BFB368929B17BEFE7C420957860": "2025 GenCon Promor",
+    "522B4274DE91DA4EEC4B84911853C4A3478E17EE9A46F661E1AB55D78C57CB829A2B629E5BEFEF7F": "GenCon 2025 Saturnite Promo"
+  },
+  "name": "FFG Promos",
+  "description": "Weren’t able to grab these promos in person? FFG has generously made them available for PnP!",
+  "artist": "Rob Laskey",
+  "info": null,
+  "website": null,
+  "cardsLink": "https://drive.google.com/drive/folders/1t82FPJ659RYPq2Yu1yqfk_JYOGvVfT98?usp=drive_link",
+  "scenarioCount": 0,
+  "investigatorCount": 0,
+  "authors": [
+    "Fantasy Flight Games"
+  ],
+  "statuses": [
+    "Ongoing",
+    "Project Available"
+  ],
+  "tags": [
+    "Alt-Art",
+    "Official"
+  ],
+  "options": [
+    {
+      "name": "",
+      "parts": [
+        {
+          "name": "2025 GenCon Film Fatale Enemies",
+          "cards": [
+            {
+              "id": "810a01e2-9477-4075-921f-c1f9e1aafb7d",
+              "count": 1,
+              "front": {
+                "Name": "01 Allosaurus with bleed-1.png",
+                "ID": "BA31072467CC91C8A97FF232D60BA38B",
+                "SourceID": "861F971EF7F25DF92AA78F95DC3887A8C620C9BF",
+                "Exp": "png",
+                "Width": 1622,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "01 Allosaurus with bleed-2.png",
+                "ID": "09A29B7A0CBE205E180FF3A9477618DE",
+                "SourceID": "CCC160EA837CD70A1C604B60DDE094AB321790DC",
+                "Exp": "png",
+                "Width": 1622,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "1b148bab-503e-44d4-8b13-cc91f7bb10eb",
+              "count": 1,
+              "front": {
+                "Name": "02 Saturnite Monarch with bleed-1.png",
+                "ID": "01160483596A28BD69922A6ED44AEB7A",
+                "SourceID": "46CB83E4041A792482141136EB7C41ED174DE20D",
+                "Exp": "png",
+                "Width": 1622,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "02 Saturnite Monarch with bleed-2.png",
+                "ID": "A566CEEB996F74C14F5874D5ABB93C5E",
+                "SourceID": "8DF2E3249C6203CF794A14EED7C83A4B0337A1D2",
+                "Exp": "png",
+                "Width": 1622,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "de32a934-aa6c-476f-9254-92a5b5930550",
+              "count": 1,
+              "front": {
+                "Name": "03 Contessa with bleed-1.png",
+                "ID": "177AE727BD78FFB1771D750AFA7EA35E",
+                "SourceID": "93F753374AD7658234E72B92650E61F90C0DB8FD",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "03 Contessa with bleed-2.png",
+                "ID": "11AA859EBB3330664094F8E418831F71",
+                "SourceID": "FE5D4ABEC7161E8000681F6A2EB4E3A6D7DD5078",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        }
+      ]
+    }
+  ],
+  "created": "2025-12-18T19:45:26.681Z",
+  "updated": "2025-12-18T19:45:26.681Z",
+  "hash": "cc36847e8c165999c13e4171fc5fe69a8aa5ef78af863d2abc97249e138419f5"
+}
