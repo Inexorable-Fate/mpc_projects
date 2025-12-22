@@ -224,6 +224,37 @@ const parseProject = async (filename: string): Promise<WebsiteProjects.Latest.Pr
   } else if (ExtensionProjects.validate(project)) {
     return convertExtensionProject(filename, project)
   }
+
+  // Enhanced error reporting for validation failures
+  const websiteErrors = WebsiteProjects.validate.errors
+  const extensionErrors = ExtensionProjects.validate.errors
+
+  console.error(`Validation failed for ${filename}:`)
+  if (websiteErrors?.length) {
+    console.error('  Website project validation errors:')
+    websiteErrors.forEach(error => {
+      console.error(`    ${error.instancePath || 'root'}: ${error.message}`)
+      if (error.data !== undefined) {
+        console.error(`      Received: ${JSON.stringify(error.data)}`)
+      }
+      if (error.params) {
+        console.error(`      Additional info: ${JSON.stringify(error.params)}`)
+      }
+    })
+  }
+  if (extensionErrors?.length) {
+    console.error('  Extension project validation errors:')
+    extensionErrors.forEach(error => {
+      console.error(`    ${error.instancePath || 'root'}: ${error.message}`)
+      if (error.data !== undefined) {
+        console.error(`      Received: ${JSON.stringify(error.data)}`)
+      }
+      if (error.params) {
+        console.error(`      Additional info: ${JSON.stringify(error.params)}`)
+      }
+    })
+  }
+
   return null
 }
 
@@ -254,7 +285,6 @@ const getProjectChangelog = async (filename: string, lang: string, ext = '.md') 
 const readProject = async (projectsDir: string, filename: string, updateProject: boolean): Promise<ProjectWithFilename | null> => {
   const project = await parseProject(filename)
   if (project == null) {
-    console.error(`Failed to validate: ${filename}`)
     return null
   }
 
