@@ -30,7 +30,7 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
             </div>
             <div className={'alert-item'}>
               <h3>Project errata: </h3>
-              <p>Click the changelog icons <ChangelogIcon/> to see if you need to reprint errata for Ages Unwound, Lola Hayes Rework, Parallel Monterey Jack’s scenario, The Colour Out of Oz, or any other projects.</p>
+              <p>Click the changelog icons <ChangelogIcon/> to see if you need to reprint errata for Night of Vespers, Alice in Wonderland, Ages Unwound, Lola Hayes Rework, Parallel Monterey Jack’s scenario, or any other projects.</p>
             </div>
           </div>
         </Alert>
