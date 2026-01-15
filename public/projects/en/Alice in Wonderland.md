@@ -1,3 +1,19 @@
+**2026-01-15**
+  - All cards updated to 450ppi
+  - During the 17 Oct 2025 update, the quantity of the following card was inadvertently reduced. If you printed during this window, you will need two additional copies of this card.
+    - 262 Shadow Spawn corrected 3 copies instead of 1. 
+  - During the 17 Oct 2025 update, the following cards were inadvertently set to 2 copies but only need 1. If you printed during this window, remove one copy of each of the following cards from your collection:
+    - 243 Running Out of Time
+    - 245 Shed a Bitter Tear
+    - 248 Empty Table
+    - 250 Broke Her Crown
+    - 252 Softly and Sunddenly Vanished
+    - 254 Jaws That Bite
+    - 257 No Survivors
+    - 259 For Want of a Nail
+    - 261 The Better Part of Valor
+  - During the 17 Oct 2025 update, the back of 068 Patio Chair was not formatted identically to the other ***Chair*** cards.
+
 **2025-10-17**
   - Cards numbered
   - Formatting updated to use FFG font and more closely match official appearance

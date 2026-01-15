@@ -31,10 +31,10 @@
   ],
   "options": [
     {
-      "name": "",
+      "name": "Alice in Wonderland",
       "parts": [
         {
-          "name": "Alice in Wonderland",
+          "name": "Alice in Wonderland Campaign",
           "cards": [
             {
               "id": "c27d5ec2-c89e-4bca-9d2a-cd9657824f40",
@@ -6233,9 +6233,68 @@
           "code": "C380050185D1C1AF"
         }
       ]
+    },
+    {
+      "name": "Errata if printed between 17 Oct 2025 and 14 Jan 2026",
+      "parts": [
+        {
+          "name": "Patio Chair with back identical to other Chairs",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "d0523128-3a51-409b-85f5-7fbdbabc7ee4",
+              "count": 1,
+              "front": {
+                "Name": "068-Patio Chair-1.png",
+                "ID": "FB0876791DD00EC03811609C0628F96E",
+                "SourceID": "BA9BFD7FD71363ACAF4C741C29A81F87530CDA04",
+                "Exp": "png",
+                "Width": 1239,
+                "Height": 1689
+              },
+              "back": {
+                "Name": "068-Patio Chair-2.png",
+                "ID": "269C2461DCE4B34ABB9758449A95AF1C",
+                "SourceID": "E148890EED475BA116F48E3FA39C0F2C29720B82",
+                "Exp": "png",
+                "Width": 1239,
+                "Height": 1689
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Two additional copies of Shadow Strain",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "77e0e6a8-b21e-4612-86e0-10e2a9a65b48",
+              "count": 2,
+              "front": {
+                "Name": "262-Shadow Strain-x3-1.png",
+                "ID": "9BE3E8F70838E764AC48E665E0AEC339",
+                "SourceID": "F38B7A8A8A7C8FBCA5B2310A64EE72A86A5B5B8C",
+                "Exp": "png",
+                "Width": 1239,
+                "Height": 1689
+              },
+              "back": {
+                "Name": "262-Shadow Strain-x3-2.png",
+                "ID": "22197981B631A691A69F61906DABD021",
+                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        }
+      ]
     }
   ],
   "created": "2021-03-23T04:45:26.702Z",
-  "updated": "2026-01-06T00:00:00.000Z",
+  "updated": "2026-01-15T00:00:00.000Z",
   "hash": "daa0a76c90b71503f50cc0fd04fef8a623b19a8f82b1c17083f57f3309dc161b"
 }
