@@ -1,7 +1,7 @@
 **2026-01-15**
   - All cards updated to 450ppi
   - During the 17 Oct 2025 update, the quantity of the following card was inadvertently reduced. If you printed during this window, you will need two additional copies of this card.
-    - 262 Shadow Spawn corrected 3 copies instead of 1. 
+    - 262 Shadow Strain corrected 3 copies instead of 2. 
   - During the 17 Oct 2025 update, the following cards were inadvertently set to 2 copies but only need 1. If you printed during this window, remove one copy of each of the following cards from your collection:
     - 243 Running Out of Time
     - 245 Shed a Bitter Tear
