@@ -6265,12 +6265,12 @@
           "code": "C380050185D1C1AF"
         },
         {
-          "name": "Two additional copies of Shadow Strain",
+          "name": "One additional copy of Shadow Strain",
           "enabled": false,
           "cards": [
             {
               "id": "77e0e6a8-b21e-4612-86e0-10e2a9a65b48",
-              "count": 2,
+              "count": 1,
               "front": {
                 "Name": "262-Shadow Strain-x3-1.png",
                 "ID": "9BE3E8F70838E764AC48E665E0AEC339",
@@ -6295,6 +6295,6 @@
     }
   ],
   "created": "2021-03-23T04:45:26.702Z",
-  "updated": "2026-01-15T00:00:00.000Z",
+  "updated": "2026-01-16T00:00:00.000Z",
   "hash": "daa0a76c90b71503f50cc0fd04fef8a623b19a8f82b1c17083f57f3309dc161b"
 }
