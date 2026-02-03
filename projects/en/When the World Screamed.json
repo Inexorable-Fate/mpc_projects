@@ -1,7 +1,9 @@
 {
   "version": 5,
   "projectIds": {
-    "4F00172FA78C5B3A256E17BE40A09C6D1F385C25742A83017085DA038F2186C53F2954169B08A1BE": "When the World Screamed"
+    "4F00172FA78C5B3A256E17BE40A09C6D1F385C25742A83017085DA038F2186C53F2954169B08A1BE": "When the World Screamed",
+    "C821062C98FDAE1D6DFDD843F752DB307612162041A7C764807A061F057D87B4505152D1BDAAC46A": "WtWS Chthonian Tunneler errata",
+    "B3FEC978556ECF58211085F01B5590633364C7839404827339661EF92D9121ABDFC4CA0ED049CF73": "WtWS Con errata"
   },
   "name": "When the World Screamed",
   "description": "Inspired by the Arthur Conan Doyle short story of the same name, When the World Screamed is a scenario with both epic multiplayer and single group modes that will find you embarking on an expedition to drill to the center of the Earth! But what will you discover, and will you prove the wild assertions of the expedition lead that something is alive down there? Enter the elevator, ride it down to the machinery, and find out what happens when the world screams!",
@@ -23,10 +25,10 @@
   ],
   "options": [
     {
-      "name": "",
+      "name": "When the World Screamed",
       "parts": [
         {
-          "name": "When the World Screamed",
+          "name": "When the World Screamed scenario",
           "cards": [
             {
               "id": "bc68c15b-f23e-4e9e-928a-7ad8633b94e1",
@@ -649,12 +651,12 @@
               }
             },
             {
-              "id": "9bec9858-a2ff-4ec6-a478-2383882fd48b",
+              "id": "1c78e6f6-258e-45d5-b6ff-6db8a14646c7",
               "count": 1,
               "front": {
                 "Name": "032-Chthonian Tunneler-1.png",
-                "ID": "C56A9B76626AA5640E8AE69E2323A8B6",
-                "SourceID": "2B4EB420CEB7B0D18603B0FDB61EC1549CF1DB9F",
+                "ID": "984FD04E0FDB6805E41890300971310E",
+                "SourceID": "62F2ACF6119F9B313C3A016789AC9331B38BF4BD",
                 "Exp": "png",
                 "Width": 826,
                 "Height": 1126
@@ -930,11 +932,76 @@
             }
           ],
           "code": "C380050185D1C1AF"
-         }
+        }
+      ]
+    },
+    {
+      "name": "Errata if printed before 4 Feb 2026",
+      "parts": [
+        {
+          "name": "Chthonian Tunneler",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "1c78e6f6-258e-45d5-b6ff-6db8a14646c7",
+              "count": 1,
+              "front": {
+                "Name": "032-Chthonian Tunneler-1.png",
+                "ID": "984FD04E0FDB6805E41890300971310E",
+                "SourceID": "62F2ACF6119F9B313C3A016789AC9331B38BF4BD",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        }
+      ]
+    },
+    {
+      "name": "Errata for Arkham Con ’25 swag bag version",
+      "parts": [
+        {
+          "name": "Chthonian Tunneler",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "1c78e6f6-258e-45d5-b6ff-6db8a14646c7",
+              "count": 1,
+              "front": {
+                "Name": "032-Chthonian Tunneler Arkham Con errata-1.png",
+                "ID": "1E3711E90F3A176A1FA46031911E1B2B",
+                "SourceID": "8703FA402DAB47C7B85F221021684B5AAD1AA7C0",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        }
       ]
     }
   ],
+
   "created": "2025-09-20T00:00:00.000Z",
-  "updated": "2025-09-20T00:00:00.000Z",
+  "updated": "2026-02-03T00:16:01.000Z",
   "hash": "5a127db604c96480b353a6cde7a0ebd8ffd34935347ca3ed522ba052e72a0a49"
 }	
