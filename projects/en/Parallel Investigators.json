@@ -21,7 +21,8 @@
     "B29C5191F31A1525447E611CE3278BB891CCBE0319B26F6C87F0D6FE5A102610896207DF877FCC8D": "Parallel Mateo bleed fix",
     "DCAA444EA5E894E70D5CEB363FE85E125AE6993142921D8DE6F766AA7BEEAA05CE41C43FB5E301BE": "Parallel Lola",
     "D1DB20B00D4EFC2C2F26A2A3952A2565A8C8E394FB699248F2DDB9196E26F61BAF64303DBA23154E": "Sinister Soloist",
-    "684563F4471B68E50E6BB8C5A093E45FF0A9AF68DEAEBCFB109864ABA1111B57513C1070988B99E6": "Samuel Blake"
+    "684563F4471B68E50E6BB8C5A093E45FF0A9AF68DEAEBCFB109864ABA1111B57513C1070988B99E6": "Samuel Blake",
+    "5B2B71C92A016CD220A5A182DDCD361EA04E71B19EED235C273BE0A9728BE7A17DD83BC322DD64D1": "Lola Samual Blake errata"
   },
   "name": "Parallel Investigators",
   "description": "Enter an alternate dimension with FFG’s parallel versions of Arkham investigators, some with special challenge scenarios!",
@@ -172,15 +173,15 @@
               }
             },
             {
-              "id": "1046d1ea-ddc4-45a2-9741-e6ff6b59ab42",
+              "id": "5962ea98-44de-4d85-b8c2-0a74938774b3",
               "count": 1,
               "front": {
                 "Name": "093 Samuel Blake-1.png",
-                "ID": "ADE94584517ECD1449ED86F22F0F9229",
-                "SourceID": "37FA81B054F26B949C9A586A1E27D1004FD5EC5D",
+                "ID": "3888B88CBB1D26A330839E4A32DC5E76",
+                "SourceID": "EAB8B597D71D072513DB8C1920471F82E923FFA5",
                 "Exp": "png",
-                "Width": 1644,
-                "Height": 2244
+                "Width": 822,
+                "Height": 1122
               },
               "back": {
                 "Name": "_playerback.png",
@@ -2752,6 +2753,6 @@
     }
   ],
   "created": "2020-05-05T04:45:26.681Z",
-  "updated": "2025-10-30T12:36:30.334Z",
+  "updated": "2026-02-26T17:46:30.334Z",
   "hash": "a14159abbdb5d5c098bdb878d5597ae5d0ca0da8162b6d7850f7d4634cc78436"
 }

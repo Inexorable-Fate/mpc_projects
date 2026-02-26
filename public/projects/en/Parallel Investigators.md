@@ -1,3 +1,6 @@
+**2026-02-26:**
+  - Replaced the Parallel Lola Samuel Blake weakness with the errata version from FAQ 2.5.
+
 **2025-08-01:**
   - Replaced Inner Chamber in the Monterey Jack scenario Relics of the Past with the errata version from FAQ 2.4.
 
