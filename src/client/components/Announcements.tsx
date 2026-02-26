@@ -18,7 +18,7 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
           <div className={'alert-content'}>
             <div className={'alert-item'}>
               <h3>Recently added: </h3>
-              <p>FFG’s awesome GenCon promos, newly made available for PnP • Parallel Lola and her Enchanting Encore challenge scenario.</p>
+              <p>Taboo 2.5 • FFG’s awesome GenCon promos, newly made available for PnP • Parallel Lola and her Enchanting Encore challenge scenario.</p>
             </div>
             <div className={'alert-item'}>
               <h3>Newly updated: </h3>
@@ -30,7 +30,7 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
             </div>
             <div className={'alert-item'}>
               <h3>Project errata: </h3>
-              <p>Click the changelog icons <ChangelogIcon/> to see if you need to reprint errata for Night of Vespers, Alice in Wonderland, Ages Unwound, Lola Hayes Rework, Parallel Monterey Jack’s scenario, or any other projects.</p>
+              <p>Click the changelog icons <ChangelogIcon/> to see if you need to reprint errata for Parallel Lola, When the World Screamed, Night of Vespers, Alice in Wonderland, Ages Unwound, or any other projects.</p>
             </div>
           </div>
         </Alert>
