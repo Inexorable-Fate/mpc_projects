@@ -18,7 +18,7 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
           <div className={'alert-content'}>
             <div className={'alert-item'}>
               <h3>Recently added: </h3>
-              <p>Taboo 2.5 • FFG’s awesome GenCon promos, newly made available for PnP • Parallel Lola and her Enchanting Encore challenge scenario.</p>
+              <p>Ultimatiums, Boons & Refractions from FAQ 2.5 • Taboo 2.5 • FFG’s awesome GenCon promos, made available for PnP • Parallel Lola and her challenge scenario.</p>
             </div>
             <div className={'alert-item'}>
               <h3>Newly updated: </h3>
