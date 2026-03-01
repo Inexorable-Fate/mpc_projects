@@ -2,7 +2,9 @@
   "version": 5,
   "projectIds": {
     "E6F11A6B4F315111738788609ACB02524E1AF1F11C40CB3B419730720B6A1772E380D0F6898E0B3F": "Ultimatums, Boons, Refractions FAQ 2.3",
-    "46E3F5997C60C3E490D32C9C8EB300D841B7E49AA2C238AFFA9DE73FD9C30ED3AC2FED61F8420400": "Refractions 2.4"
+    "46E3F5997C60C3E490D32C9C8EB300D841B7E49AA2C238AFFA9DE73FD9C30ED3AC2FED61F8420400": "FAQ 2.4",
+    "D980C73BFA8F78A9DFCD13F4EDFC07C2BF20ECA9AAE656B704C00B2FF0BBEA0FF065F949C87C1C4A": "FAQ 2.5",
+    "19C6B9585860CB66FBC3FD428A9CBE88931350C79B249D49E07D5EFE7890BB42E8BA8CE17218E36B": "Ch 1 Design v.2"
   },
   "name": "Ultimatums, Boons & Refractions",
   "description": "FFG’s Ultimatums, Boons & Refractions, introduced in FAQ 2.3, offer optional variants to adjust the difficulty of your game. These cards provide a convenient way to apply the official buffs and nerfs without constantly having to check the FAQ, and serve as printed reminders throughout a campaign or scenario of which changes need to be applied.",
@@ -24,10 +26,1120 @@
   ],
   "options": [
     {
-      "name": "FAQ 2.4, Jul 2025",
+      "name": "Chapter One (design v.2)",
       "parts": [
         {
           "name": "Ultimatums",
+          "cards": [
+            {
+              "id": "7f40209f-ca8f-491e-b8da-42a7c8df5f6d",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of Agony-A.png",
+                "ID": "7136D924FC3B99B1934C26AD58CC0F71",
+                "SourceID": "F4681C26A4645E3930F8202E8C57D3B93469459B",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of Agony-B.png",
+                "ID": "C3C8CCC1F7DF72E8E9E440699EBA56ED",
+                "SourceID": "949DD77DCA236FA3E233C21CD400B1A325C914D4",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "439ed699-62ba-438a-af6c-473a1125d24b",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of Broken Promises-A.png",
+                "ID": "BC3C15DD3AAA03BFEAC3D0831C37DEA2",
+                "SourceID": "A661AB30817514775E4F1DEED08E8A4522D41465",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of Broken Promises-B.png",
+                "ID": "4E93ABA9C5B11F15F47D441D350F6FCF",
+                "SourceID": "3B374525C305E8B80F53FF74A9617CB719F2C785",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "87c4e4e2-0ec5-4071-95c3-0b1300b30bdc",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of Chaos-A.png",
+                "ID": "4B1B730FE926322101F693A484FD9B8D",
+                "SourceID": "C700DC1B108449885BBC79144B4C0DB4B5AE94AF",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of Chaos-B.png",
+                "ID": "2AACDE540AB267F247EA362E99A06FDB",
+                "SourceID": "E526C94E6EAC6CF048D1BD0A681E1F56A001E016",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "06f82cd4-bbee-4beb-89f1-8da158137032",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of Disaster-A.png",
+                "ID": "EAE95D62E94C343C0EF46929F0107602",
+                "SourceID": "1DAEB543C358EAEB923100E3EBA71626CE5B5BFB",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of Disaster-B.png",
+                "ID": "8DEE05BE34A50A2CC055885ECF02A986",
+                "SourceID": "C6DCF2EF8B5040C89557F2E61D1404D785A1F6DD",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "bf9614e4-6294-4049-a89c-a0359b069c11",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of Dread-A.png",
+                "ID": "54DFD8AB2C4494767BF19838503AFD3D",
+                "SourceID": "0EF2E8F8AF45A92F788C7826155AD3E4FA3561C6",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of Dread-B.png",
+                "ID": "185AD5B744E54BEE7E979BCD6220F83A",
+                "SourceID": "5A7ED1F7A40047445563BE4C6AAB8F96BBF31FD3",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "9e1e7ee6-8356-46dd-bddd-1ad7a97eb06a",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of Exile-A.png",
+                "ID": "8FBB422C62EB8E29806B59423B66A964",
+                "SourceID": "8FBA5EC13F2F2BEAF0EC2E0E7F88FCDC12EC9006",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of Exile-B.png",
+                "ID": "3E597239F8F6E56BADD7340B945112F6",
+                "SourceID": "7D4AFA4EFFCB0A9494D025C5A3CB6EB6F623F0D7",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "d792cbf5-79b5-4af2-aded-5cff41132d63",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of Failure-A.png",
+                "ID": "8C93F4A36EB36AA0909BA6CD9E938E74",
+                "SourceID": "D1534EE8A57DA367C875CA5220C23A6ACC10EF86",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of Failure-B.png",
+                "ID": "F79BC18927AB7710B63CDD9337962129",
+                "SourceID": "8AFB73F9BF0A7203639E345FD7E7DE6781B4E9B7",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "b38d662e-9e30-4a66-92f7-e5688523cfee",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of Finality-A.png",
+                "ID": "6118891EA7E9E43219B252D491227028",
+                "SourceID": "69E547F65CF57B7378F09EF7C36CFA5C958D724C",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of Finality-B.png",
+                "ID": "0343B94EDE1D8E26B66491BF6F2F3630",
+                "SourceID": "DD6CF6C404B97BD59FC73464E63775CEFBAB8017",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "a6f96115-d4e0-4660-9fe6-19fbc26375c5",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of Forbidden Knowledge-A.png",
+                "ID": "DD9E41D80E2F4B65BD94929C4750F9FE",
+                "SourceID": "3533B13654E1BD5D00F1B423CDD94FF6795CA1BC",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of Forbidden Knowledge-B.png",
+                "ID": "E9451A3BA20DC71348BB3F7A1E2EA522",
+                "SourceID": "81D78A2FA52766D487CA9A113826F6D68D6A9072",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "aafb6b5b-e200-4472-8971-d965fb41f619",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of Hardship-A.png",
+                "ID": "617D577A3A6678485A36CB2EF2F119A4",
+                "SourceID": "FE4C4F2BC783D254DE1F181D4862F54287DEDE9E",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of Hardship-B.png",
+                "ID": "8C9F77A41DA59EC05BFE977AEBEB1132",
+                "SourceID": "3A278868AFC3C9A8DDE705D51D285B6D892C4A2C",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "724f61a5-a00b-4d71-9305-0de7f324c16a",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of Induction-A.png",
+                "ID": "F4FE6B0B4F7E163DCF96A9DAEE8958E7",
+                "SourceID": "5B159AAA3E479DDF45A5DE57AFBAAD50BEEEBE4A",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of Induction-B.png",
+                "ID": "07F7E8302EDE066B55D4E2E7ECE49166",
+                "SourceID": "4562DCED72571897A857652A64B83C393C04BF2B",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "6aa8cd57-11ea-43a8-8e72-0b47021ef815",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of Malevolence-A.png",
+                "ID": "AE6B6D95280EBEE0186F87C7CBC7F44D",
+                "SourceID": "5593266209FA2C4609AA3192B92FD04CA7400932",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of Malevolence-B.png",
+                "ID": "9321717682BF9FD413185E1196F01F12",
+                "SourceID": "53B7F876B0314F7FE20D81E5EF1B4D84275F7A71",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "ae9199ee-f044-4008-bc7a-fe52079228cb",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of Orthodoxy-A.png",
+                "ID": "4C1E500C86E6AD2BC636E735913D61C9",
+                "SourceID": "545D255174FB56511D55469108E7BAA50BA7F22C",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of Orthodoxy-B.png",
+                "ID": "CF453A43B5DC4BF738FF09AEE55A886C",
+                "SourceID": "46AF175EBA5A078C521940221715AC0CB8417541",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "4921c152-8c7a-487b-a3dd-9bf42ced06f8",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of Survival-A.png",
+                "ID": "BEDEAF3763584C14C27E540D7F4EBDE2",
+                "SourceID": "4BFA155AADFE49F71DE4585CB5FFB08B02093CD1",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of Survival-B.png",
+                "ID": "25763E64E71B6AF315A241C478C4FA32",
+                "SourceID": "580F381FE8FCD983F9C27E43B5E2127100F5BA63",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "dab536a2-aeb5-4aec-94e0-ee1480e76beb",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of the Broken Veil-A.png",
+                "ID": "66E0218A0AC72466AE88723CC3E9A468",
+                "SourceID": "26DF951E3E024898776FD1AC3EB9BC325985FCD3",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of the Broken Veil-B.png",
+                "ID": "7AC5B47D0E426927030466D4F7820300",
+                "SourceID": "3E7A7EF3D6C733F55BCAA2DBAADA0AA6C47D462B",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "923d9f32-c0b9-4f23-85a7-67753a403427",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of the Highlander-A.png",
+                "ID": "105EE5DB785F7516A685C2EAC8E8685A",
+                "SourceID": "8FCB220741E601BFDD1051BC4C9A14692770FCF7",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of the Highlander-B.png",
+                "ID": "3FA79804AD704E21145AB5E4E4DEDAF3",
+                "SourceID": "79753B95FD8543E12DF792CEB28CB4F2E9B74F31",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "39bafc76-8d92-4740-9e3d-1abeaa327e58",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of The Scream-A.png",
+                "ID": "080F05D36857ABFB2B14B6EC8A55A3BE",
+                "SourceID": "826AACA3D6245D572696F5ACDA6ACBB422E918BE",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of The Scream-B.png",
+                "ID": "FAA286767EFDD0BE54AEC0702CE78F21",
+                "SourceID": "3C0657EC1EB608BF9A307CAB5006052817A7E7D2",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "480310b5-551d-48b7-8b3c-2f8b8fca625e",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of the Spiral-A.png",
+                "ID": "D1508EC322601912D19AC4A67B1AA240",
+                "SourceID": "DFD3ADBDB91743071DD84830253A9F5D012F7A84",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of the Spiral-B.png",
+                "ID": "453E2E058AF0BBD7F01190B18FCFE6D0",
+                "SourceID": "EF2680F457A1098FFBC52F8A0997BB8C2A5416E9",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "6e9a07e2-2c4e-498d-8b71-9c7be2d5c7f7",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of Ultimatums-A.png",
+                "ID": "9083A2E1CD8B0497A7DDECCCFC82EAC3",
+                "SourceID": "A04CEE16280DC1295677B45D012B4A461A75562E",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of Ultimatums-B.png",
+                "ID": "6DACDCB0CAE3811441560FA62D47AF7E",
+                "SourceID": "B55E64F4927E52FA2A9887E85499CCD533D017CA",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Boons",
+          "cards": [
+            {
+              "id": "eee7fe73-4d59-4ee5-865b-ede181cc6947",
+              "count": 1,
+              "front": {
+                "Name": "Boon of Athena-A.png",
+                "ID": "5D4200E1CE81DDFBF836825A6F468147",
+                "SourceID": "1D7ADE2FFFB4B088A40C264D6579ED39ED344FA7",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Boon of Athena-B.png",
+                "ID": "6D7150B237890418A4003D15015EFC44",
+                "SourceID": "F7DED79BE3E2C3ADD9BEA49CF1215A90CF8D1495",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "7bfaab05-2b08-42eb-93db-918956e0c28d",
+              "count": 1,
+              "front": {
+                "Name": "Boon of Destiny-A.png",
+                "ID": "BB70ED81AB03703446EA01FB608C5447",
+                "SourceID": "E069A942F35755C413377151C82DB782F2930AE5",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Boon of Destiny-B.png",
+                "ID": "4C3B82EA24903E2D8055CEC50280C4CC",
+                "SourceID": "205461471F5770DAA96227664ACDDEEC0242C553",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "c54bce37-9a23-4b13-8310-8ab72ff38f35",
+              "count": 1,
+              "front": {
+                "Name": "Boon of Hades-A.png",
+                "ID": "4A7C5157AC37A6EC6ECD10ED5C3D3AE3",
+                "SourceID": "DA8B20ACC83DC776D494662962F04073D1372B8A",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Boon of Hades-B.png",
+                "ID": "7FAF73BBE08341D907EDED1EF0F5B5FB",
+                "SourceID": "4DAE3C1AFCF71C1763751D6AFF0C1C171F47E024",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "6fd555d9-455d-4817-ae34-d084357da76b",
+              "count": 1,
+              "front": {
+                "Name": "Boon of Hermes-A.png",
+                "ID": "5D68D512008E1262CB5834019884E58F",
+                "SourceID": "9E265C73D2E03DF2D891F4B82A029F6E6377EAA2",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Boon of Hermes-B.png",
+                "ID": "319F05153F2A9C67BF1DF90C3713CF5F",
+                "SourceID": "BC00D8C25853790A19E75DEE124D8A91943D284A",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "a2644342-3b9a-4826-bd29-1ab0523729c5",
+              "count": 1,
+              "front": {
+                "Name": "Boon of Osiris-A.png",
+                "ID": "BEEC34FD10063D2D5E2D737E9A3FE92C",
+                "SourceID": "50798A757A71FEB3514BD53CD75F00D6C8E9ABC6",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Boon of Osiris-B.png",
+                "ID": "1D68E02227BBB6CC491568DE3D74FF22",
+                "SourceID": "F0200CC9C4E7006C943B297247A0521A0AF84760",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "9b162c4e-31cd-4b13-bff3-f6237682c8be",
+              "count": 1,
+              "front": {
+                "Name": "Boon of Persephone-A.png",
+                "ID": "55C295000EB37A719EEAF40C677C6E61",
+                "SourceID": "28899FABFDD461B95CCDA215DD5C374F59555B56",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Boon of Persephone-B.png",
+                "ID": "87FA35CE03316CB846FC9A29E5F0B3E3",
+                "SourceID": "1094748B4A9B602F002757E6BF3BC41604F2A3CB",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "dbc48144-b391-47ef-ae96-9ba8253a7430",
+              "count": 1,
+              "front": {
+                "Name": "Boon of the Ancients-A.png",
+                "ID": "43103EAE2407A252660C0C0AFFE9E114",
+                "SourceID": "2C29E333CE4D3BED36E6DC6233693039DAE8CF61",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Boon of the Ancients-B.png",
+                "ID": "3DC3C5337E394453EDF759239321B196",
+                "SourceID": "56E842414C60DB60CA607FD536BCA2788AB072D3",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "787da8cd-7d24-435d-bbb1-481e1440e4dd",
+              "count": 1,
+              "front": {
+                "Name": "Boon of the Morrígan-A.png",
+                "ID": "9FE5D5E3657E97E50D5EE777FD26C442",
+                "SourceID": "8AB97FF27B38A0AABAB3F82BCEE8C51FF4DFB038",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Boon of the Morrígan-B.png",
+                "ID": "D1F7C9142FED2D9147A1074CB1F164F6",
+                "SourceID": "B6A5308390DEA6F265B42D945DF8D126522E5843",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "204afe78-7904-4a52-b8b9-a6b1cf058374",
+              "count": 1,
+              "front": {
+                "Name": "Boon of Thoth-A.png",
+                "ID": "4DE30E68A3B5327569233183C2258A51",
+                "SourceID": "A5A8A6A6DE5F7DDDB99778256F7603E6E60A0BBB",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Boon of Thoth-B.png",
+                "ID": "D1C28CCA936F647E302C4847E79E02B5",
+                "SourceID": "4392A2AB08407D240802DCCF09F231E01D0BE3FC",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Refractions",
+          "cards": [
+            {
+              "id": "e3b67fd0-b816-499f-acf5-042f9aab56aa",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Boon of Atonement-A.png",
+                "ID": "6BE8B10955258AD79842CA7EF9C9C6C2",
+                "SourceID": "6E326AD5A00F0F1C2899754DDECCBE0B1D4D835C",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Boon of Atonement-B.png",
+                "ID": "3DF7D935AF837A9A8694C44BC39C7603",
+                "SourceID": "23F9CE29A4C0F3BAE982CBCD8F9C95D7F4B5BF82",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "c3624648-1377-483e-8fcc-8cdd23129e1f",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Boon of Bliss-A.png",
+                "ID": "5A59DC420462ABE5AD10C20DA25B8192",
+                "SourceID": "502F6C324A6ED626F8E0D52D461BC06B9286D1F7",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Boon of Bliss-B.png",
+                "ID": "09E1F54484242A2790D23B9EF26E0663",
+                "SourceID": "B388E4137A19E6B70935AE5EB1DA3545ECCF780B",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "9bbb3d62-a593-4fb2-9ee1-e355ed3c97ab",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Boon of the Dance-A.png",
+                "ID": "1AA4301599AA1349F8FB0477A00EA64D",
+                "SourceID": "0040CF5512B0C6EA49998F17281EE59AB2F81A6F",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Boon of the Dance-B.png",
+                "ID": "FD9BE7AA107DE5C9BC2FFD346F792D0A",
+                "SourceID": "72BD56B64F5DBF3226ED687B917E55C235039150",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "a7b54de3-76f0-42ca-975a-bf1f5c3601b0",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Boon of The Dreamer-A.png",
+                "ID": "69A628D13EB487447B41FC98031B32F1",
+                "SourceID": "F7026E86C510A8C1EFB266B72B8846591ADFBCC9",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Boon of The Dreamer-B.png",
+                "ID": "0BAEF2211D97D3AFB68519D1EE9F988E",
+                "SourceID": "03D155B7EB25712D2C85B02F9DFA516C7EFC3AEC",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "ead89fd4-8382-436c-ab0b-44259bc0ef27",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Boon of the Miners-A.png",
+                "ID": "D94DCD39723E8B3EE5933DEE1CA24BCD",
+                "SourceID": "5A909A7F1BCDB7E0CE918DC7D858D2CBE07F911A",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Boon of the Miners-B.png",
+                "ID": "991935E6009A9B23DF66B378B3A9BFBA",
+                "SourceID": "A4CD20C9A473B8B14DD00070707AB41C149AB3AA",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "ab7c374d-4c3f-423f-9567-dc5294621a87",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Ultimatum of Ambuscade-A.png",
+                "ID": "E648372986F62D8F811D89A6511362F4",
+                "SourceID": "FAC0DD73A664D12ED4984589C66F156FAB41093D",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Ultimatum of Ambuscade-B.png",
+                "ID": "891E6BEC4D7B5EAB3367EFA09E27398F",
+                "SourceID": "6706C83AC16269237C2C6908206473A7E1B67233",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "dd8850d0-62cc-44b3-a4fa-66fb3aac2440",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Ultimatum of Annoyance-A.png",
+                "ID": "FE01C67604EB000FAA0B72B04889051C",
+                "SourceID": "57860D3E4F6D8F0167FA87E17D18A319DB109104",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Ultimatum of Annoyance-B.png",
+                "ID": "5741B35328EB95EBAFAD9C144679AE7E",
+                "SourceID": "7C7F83EB066032A08D884F36AD34536A7F093E6B",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "9fadd6a4-bb57-435f-a551-d0c9fa1e6d95",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Ultimatum of Death-A.png",
+                "ID": "EB56F9727FF12D1B59F08A0218254303",
+                "SourceID": "63ECB5D86D7FF805F33E46B446E58987CA20BD75",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Ultimatum of Death-B.png",
+                "ID": "72281D83D507DA83FC0352F83F6FBF19",
+                "SourceID": "6EC1CC662FB8F81BB252EA2A0F4937B4317B1527",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "c1da5325-86a7-4883-83d9-13f5c936c12f",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Ultimatum of Invisibility-A.png",
+                "ID": "DB288EB48C3AB80ECAFD608D7E0C55DC",
+                "SourceID": "BB420082FF8D99EF7DFD112D5E5BD1A54E3D3E64",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Ultimatum of Invisibility-B.png",
+                "ID": "BB689E4CE770DF8C1689488941028DAC",
+                "SourceID": "ADC277724E44E19EA876AE0BCB0091D7BF12A645",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "605bdaae-5d4e-4e66-9940-bd5f1e555734",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Ultimatum of Multiplication-A.png",
+                "ID": "7D802A3F133EDB5A5364D2BF1F6B0B48",
+                "SourceID": "E34BA58905BD392E34FC9FD4BAAF67EAC0DCC31E",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Ultimatum of Multiplication-B.png",
+                "ID": "95A8CBFA478FE4E0E5B08A95CE2E8906",
+                "SourceID": "EC5C25E5916B6BB7F79C52BF21FBA9DD6D75D423",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "1f3b5f43-da24-4a00-85aa-6174950c94ac",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Ultimatum of Spoilage-A.png",
+                "ID": "EBCBC84780FE567B56CBFA1EAE7FDFD0",
+                "SourceID": "6C15F571E367EE7D8880FCE06A49610EC506A891",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Ultimatum of Spoilage-B.png",
+                "ID": "D2749AC8B813A73E20134C472C009332",
+                "SourceID": "1FC133A1809724C027D4C5015AF98224D9E6D39B",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "b87c70d0-1cf3-4c14-be2c-df3386e877d5",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Ultimatum of the Brass Crown-A.png",
+                "ID": "DC97EC8A7C0F1FB03814F2034081E08A",
+                "SourceID": "D0CB19546C44B387E075C0258D1C8AB7868A202D",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Ultimatum of the Brass Crown-B.png",
+                "ID": "66B341BEF7E726E5A54E407FBF890143",
+                "SourceID": "47C29622AAC38094AD6394BD6B59992BACF63B60",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "42236c7b-6d08-4d90-b53c-2b8bf76e0f42",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Ultimatum of the Drowned-A.png",
+                "ID": "CEE8C43A2842B5314AF3AEDEB3C0D560",
+                "SourceID": "33E804CB30DF605C07A4B5FEC880520FF7C171BF",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Ultimatum of the Drowned-B.png",
+                "ID": "0C1784F5B5B91057C6EB83532F4F1CBC",
+                "SourceID": "6B8FAF0982029CF8C58E4F5C7CCB9FB73AF79454",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "c53d7d6b-b6ac-434b-bbc3-285b30ecebdf",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Ultimatum of the Faulty Carburetor-A.png",
+                "ID": "A29B43FDC8B2844C4C664C6B6A18B5F2",
+                "SourceID": "E0C9781272BFB8F29ED1D4323567DEA52A8C003A",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Ultimatum of the Faulty Carburetor-B.png",
+                "ID": "FFD99728A8F5ABE6E49EC23130A4F2E8",
+                "SourceID": "6A243323C7AA2A88D7D77E3A6232A35739A77E63",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "886cf55e-1eac-4bb7-9bd1-baf75276054d",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Ultimatum of The Man-A.png",
+                "ID": "41AA7CCCB598F19CBEED204147DB4D46",
+                "SourceID": "3977B92C4EAF81430B5C1E039B1E5EF3F639BAAA",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Ultimatum of The Man-B.png",
+                "ID": "C2D1E7294775EA3C57F6A19F4AFAE63A",
+                "SourceID": "D8641022C771BBEBF51CA0BD40AE357862053B8A",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "7c4f7de2-9314-4efb-92b4-f6985022ff51",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Ultimatum of the Sleeper-A.png",
+                "ID": "CA3AE50FFA479426EDE1B0FD431F7473",
+                "SourceID": "05F2D88F41BD0BDF9EEE271A5EE5B480A5EC211D",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Ultimatum of the Sleeper-B.png",
+                "ID": "BFEBF200943AE67ECA3BF6E3017621F1",
+                "SourceID": "45F08DE5FD25A98C52F662C2F09496E2D4047A5C",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "f533e20a-1ef6-4888-acf8-ff1d255934bd",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Ultimatum of the Unspeakable Name-A.png",
+                "ID": "38C3D759185DBFFAE91BEB69B5B0B42F",
+                "SourceID": "2AFB7F03DAA7073838AD0D64286EBEE14B7748D0",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Ultimatum of the Unspeakable Name-B.png",
+                "ID": "5A396AC0610A7BF49B3777C89ABE994D",
+                "SourceID": "6E7C3F479AEA58688892DB18C9B844F2500B30EB",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "17a73a47-de45-4c73-8c9f-294412316868",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Ultimatum of Venom-A.png",
+                "ID": "B659056F565C04692FB3A646655E2A8A",
+                "SourceID": "2263E4B019D126FFB34C49B17E1D18C9F68AE208",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Ultimatum of Venom-B.png",
+                "ID": "52FBBDF895C5C2DA45FDE6C74A7D9920",
+                "SourceID": "1609DD4AF22273918E9E769623317E81EC01944E",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        }
+      ]
+    },
+    {
+      "name": "Chapter One, FAQ 2.5, Feb 2026 (design v.1)",
+      "parts": [
+        {
+          "name": "Ultimatums",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "dfd6bb13-e538-457b-b964-1ff46734c365",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of Malevolence-A.png",
+                "ID": "A4AC89BD771D891DF6E479F8862CE7C8",
+                "SourceID": "A51FB04E995B1776EF8F78F55FF4C34ABE12300F",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of Malevolence-B.png",
+                "ID": "204AC8E98B6E217FF2AF3E3F5A97EC36",
+                "SourceID": "B132751450DE32BEC6181D424E6642FA971793CF",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "f1564f05-80c7-4b9b-9b28-a86638779c40",
+              "count": 1,
+              "front": {
+                "Name": "Ultimatum of the Spiral-A.png",
+                "ID": "C9A59F8BCCFAE4BDD795AB3BB5A803E2",
+                "SourceID": "ADC24AA4F33EA7E161F3980E6EAF5806A5F98023",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Ultimatum of the Spiral-B.png",
+                "ID": "E2C4738B19DB846913CE307E98A7E302",
+                "SourceID": "5F7B5EA9BE922C93B9D6B1911D06409053E8347C",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Boons",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "f056782e-1765-4699-a735-9c065bdb16d2",
+              "count": 1,
+              "front": {
+                "Name": "Boon of Persephone-A.png",
+                "ID": "F39528040C87DE6F34E0AE2FF3ECC176",
+                "SourceID": "D017509DA21F62C527BCB6EF95EF24831EF824B3",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Boon of Persephone-B.png",
+                "ID": "9B41025BDC8A5AED382DADED7D0F6F22",
+                "SourceID": "91CDE8480AFE31F740FBD8F7F9BB27F5DBB9BE89",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "27526341-bc10-4528-bff4-8d502af356f8",
+              "count": 1,
+              "front": {
+                "Name": "Boon of the Morrígan-A.png",
+                "ID": "C7E5A510E42456E1C8671D2E143208AD",
+                "SourceID": "BF3A6AF3C597A69BAF9984BC416420BF05203931",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Boon of the Morrígan-B.png",
+                "ID": "C15A646D8EE0C4F1510FADB559B78632",
+                "SourceID": "CEA0AAEE2B9AB6678D78471B6C09254B8A45BAE0",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Refractions",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "72838a0e-beff-4198-a573-05356dd05b01",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Ultimatum of Ambuscade-A.png",
+                "ID": "393D1E5BD70EA75AFE51B6522E1F2DEA",
+                "SourceID": "9D3375B31A4DFC475683FD3617E7C260261C72CC",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Ultimatum of Ambuscade-B.png",
+                "ID": "20435DDEB7E02C608E048947A131DEB6",
+                "SourceID": "3B59893B2E50ACB70D43A7945C41901945A1CF01",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "fbea71d9-84d1-4dfc-95e3-4c93352e3afb",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Ultimatum of Spoilage-A.png",
+                "ID": "521ACA4AB4FEAC3BF8DB9E957A380AC9",
+                "SourceID": "C3C1F2AF45EAF19303247FB70F18835C5ED21761",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Ultimatum of Spoilage-B.png",
+                "ID": "BEF139CDAADD3D8986A443C22E9C4747",
+                "SourceID": "858742496824DEC45C75D3573319D42310E1CC26",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            },
+            {
+              "id": "c5c10a6b-75d5-4a9b-954c-c2eaa905bc59",
+              "count": 1,
+              "front": {
+                "Name": "Refraction-Ultimatum of the Brass Crown-A.png",
+                "ID": "0B632422737017808D3962C1D88A03B8",
+                "SourceID": "673ED12811244E8648781F485741026FA1293D4E",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              },
+              "back": {
+                "Name": "Refraction-Ultimatum of the Brass Crown-B.png",
+                "ID": "0984CB779009C681EF450E493ED2EB88",
+                "SourceID": "F735C19D79C169BD55698D9430066ED125F71FA1",
+                "Exp": "png",
+                "Width": 1432,
+                "Height": 2000
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        }
+      ]
+    },
+    {
+      "name": "Chapter One, FAQ 2.4, Jul 2025 (design v.1)",
+      "parts": [
+        {
+          "name": "Ultimatums",
+          "enabled": false,
           "cards": [
             {
               "id": "17084852-cc0d-4a54-a947-5e8b7a3d2581",
@@ -54,6 +1166,7 @@
         },
         {
           "name": "Refractions",
+          "enabled": false,
           "cards": [
             {
               "id": "50b2f651-b88a-41e3-8e6e-b36c80a7b22d",
@@ -101,10 +1214,11 @@
       ]
     },
     {
-      "name": "FAQ 2.3, Oct 2024",
+      "name": "Chapter One, FAQ 2.3, Oct 2024 (design v.1)",
       "parts": [
         {
           "name": "Ultimatums",
+          "enabled": false,
           "cards": [
             {
               "id": "f56bf963-631b-4f1f-b406-d9d56c38fa80",
@@ -431,6 +1545,7 @@
         },
         {
           "name": "Boons",
+          "enabled": false,
           "cards": [
             {
               "id": "396adf14-2edf-4aa9-bf35-3d751c067b45",
@@ -577,6 +1692,7 @@
         },
         {
           "name": "Refractions",
+          "enabled": false,
           "cards": [
             {
               "id": "aecb0d60-a23f-41f5-ad78-cb2376a01a77",
@@ -845,6 +1961,6 @@
     }
   ],
   "created": "2024-11-28T10:28:33.074Z",
-  "updated": "2025-08-01T15:45:33.074Z",
+  "updated": "2026-02-28T20:45:33.074Z",
   "hash": "8e613aebe2eb30b0d99ccd251b965ab390a20b7a895763b222b6840b73d2ff3e"
 }
