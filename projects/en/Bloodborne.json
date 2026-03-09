@@ -7,7 +7,8 @@
     "E4F70F0A43FFECD3572EA7D3F32E9EFB47F200892C94EA082A4FA2ACAFD728864E24390F283A1D20": "minicrop 450ppi",
     "1F8FE279E9DAD9CE308AA2AE22269167ECFFFB7D0B1DD3BEB2F67ACCCACC71245C44B6A16F3FF8AC": "Extraordinary Gentleman 444",
     "60D1D62BA45FAA90311509C2C2E69420AEBF4645349188D8E9A53CFDFFABCA4E1CA9230B0EA38D86": "dupe acts & agendas 2025-12-03",
-    "FACE45F767D280F18D0E8A8726597CF8CCFA5B36F9AA27FC555909A8B6F9103F4F8ACECBA5FAD893": "Bloodborne coll# ranges 2025-12-23"
+    "FACE45F767D280F18D0E8A8726597CF8CCFA5B36F9AA27FC555909A8B6F9103F4F8ACECBA5FAD893": "Bloodborne coll# ranges 2025-12-23",
+    "C74D71B1EA5461158F93AD1751FF634539CE310AB061C6C129F67859DFFED35F23430C31462F0667": "Moonside Lake"
   },
   "name": "Bloodborne — City of the Unseen",
   "description": "Arkham is mysteriously transformed into the city of Yharnam while you have fallen ill with a mysterious sleeping sickness. Discover what has happened to your world in this 8-part campaign inspired by the Bloodborne video game.",
@@ -2037,7 +2038,7 @@
               }
             },
             {
-              "id": "b103c3f3-5674-4e8e-b954-cf908b9279f3",
+              "id": "4546a51b-37a5-4a95-9aea-27be82c6ac03",
               "count": 1,
               "front": {
                 "Name": "101-Moonside Lake-1.png",
@@ -2049,8 +2050,8 @@
               },
               "back": {
                 "Name": "101-Moonside Lake-2.png",
-                "ID": "E403D17C363C611AA3FD829305EA8A25",
-                "SourceID": "31F6759789B1B8507C2BC978492E0B902014406C",
+                "ID": "064DB5DDE5D7C8AE6F9CD155E421D1CE",
+                "SourceID": "1341E414D25BA31CABB4696348B08BC47E486670",
                 "Exp": "png",
                 "Width": 1239,
                 "Height": 1689
@@ -9482,10 +9483,41 @@
       ]
     },
     {
+      "name": "Errata if printed before 9 Mar 2026 (see changelog)",
+      "parts": [
+        {
+          "name": "Moonside Lake",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "4546a51b-37a5-4a95-9aea-27be82c6ac03",
+              "count": 1,
+              "front": {
+                "Name": "101-Moonside Lake-1.png",
+                "ID": "D41FEB827DB75DB43FC8160227AD3B7E",
+                "SourceID": "9B5705C3074CF36A9CCC9DBFFB1C2B88372403CA",
+                "Exp": "png",
+                "Width": 1239,
+                "Height": 1689
+              },
+              "back": {
+                "Name": "101-Moonside Lake-2.png",
+                "ID": "064DB5DDE5D7C8AE6F9CD155E421D1CE",
+                "SourceID": "1341E414D25BA31CABB4696348B08BC47E486670",
+                "Exp": "png",
+                "Width": 1239,
+                "Height": 1689
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        }
+      ]
+    },
+    {
       "name": "Errata if printed before 20 Nov 2024 (see changelog)",
       "parts": [
         {
-          "code": "C380050185D1C1AF",
           "name": "Patrol Enemies missing Patrol keyword",
           "enabled": false,
           "cards": [
@@ -9569,10 +9601,10 @@
                 "Height": 1122
               }
             }
-          ]
+          ],
+          "code": "C380050185D1C1AF"
         },
         {
-          "code": "C380050185D1C1AF",
           "name": "Patrol Enemies with incorrect Patrol templating",
           "enabled": false,
           "cards": [
@@ -9616,7 +9648,8 @@
                 "Height": 1122
               }
             }
-          ]
+          ],
+          "code": "C380050185D1C1AF"
         }
       ]
     },
@@ -10001,6 +10034,6 @@
     }
   ],
   "created": "2024-08-22T12:09:26.680Z",
-  "updated": "2025-12-03T22:55:24.680Z",
+  "updated": "2026-03-09T18:15:24.680Z",
   "hash": "9c81e549337dd0a6dd724adbc2a42b2aa664981a2847937b37c940a9fa2e9da0"
 }

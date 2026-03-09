@@ -30,7 +30,7 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
             </div>
             <div className={'alert-item'}>
               <h3>Project errata: </h3>
-              <p>Click the changelog icons <ChangelogIcon/> to see if you need to reprint errata for Parallel Lola, When the World Screamed, Night of Vespers, Alice in Wonderland, Ages Unwound, or any other projects.</p>
+              <p>Click the changelog icons <ChangelogIcon/> to see if you need to reprint errata for Bloodborne, Parallel Lola, When the World Screamed, Night of Vespers, Alice in Wonderland, Ages Unwound, or any other projects.</p>
             </div>
           </div>
         </Alert>
