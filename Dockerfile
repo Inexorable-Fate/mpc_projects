@@ -1,4 +1,4 @@
-FROM node:22-alpine3.19 AS base
+FROM node:25-alpine3.23 AS base
 
 WORKDIR /app
 
