@@ -4,15 +4,16 @@
     "03A7741A784C5429100697EE3EC2A6138255328A689BF92277A4F41AFF3B705B1DE02FD52CCD76EF": "Core Set Encounter Cards"
   },
   "hidden": true,
-  "name": "Core Set Encounter Cards",
+  "name": "Full Art Ch. 1 Core Encounters",
   "description": "",
   "artist": null,
   "info": null,
   "website": null,
-  "cardsLink": "hhttps://drive.google.com/drive/folders/1v14e9i0rX1MZ7Nb_KOGnI8MVKSq_8DCQ",
+  "cardsLink": "https://drive.google.com/drive/folders/1v14e9i0rX1MZ7Nb_KOGnI8MVKSq_8DCQ",
   "scenarioCount": 0,
   "investigatorCount": 0,
   "authors": [
+    "Hauke",
     "Fantasy Flight Games"
   ],
   "statuses": [
@@ -7334,7 +7335,7 @@
       ]
     }
   ],
-  "created": "",
-  "updated": "2024-09-12T23:07:57.115Z",
+  "created": "2024-09-12T23:07:57.115Z",
+  "updated": "2026-3-282T23:07:57.115Z",
   "hash": "014217fb0c095dea626e122a921f915e9e6be54d78bd30fee8f278fe9c5f94a7"
 }

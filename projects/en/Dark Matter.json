@@ -24,10 +24,10 @@
   ],
   "options": [
     {
-      "name": "",
+      "name": "Dark Matter",
       "parts": [
         {
-          "name": "Dark Matter",
+          "name": "Dark Matter Campaign",
           "cards": [
             {
               "count": 1,
@@ -7551,6 +7551,165 @@
                 "Exp": "png",
                 "Width": 826,
                 "Height": 1123
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        }
+      ]
+    },
+    {
+      "name": "Required Chapter 1 core encounter sets",
+      "parts": [
+        {
+          "name": "Agents of Yog-Sothoth",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "2ff4122c-1d43-4dc3-b0da-e940622ddb41",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-177 Yithian Observer 1-a.png",
+                "ID": "99FD527F117F2263A88F358EC37CB792",
+                "SourceID": "CBD6F332E70ECD54C47D79597DE8693A7982F841",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "2ee1e1f0-777c-49c5-8ede-8412ed7bc930",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-177 Yithian Observer 2-a.png",
+                "ID": "85D460F0178F98BAC8912C533222E4B5",
+                "SourceID": "C150F1A886CDC81AD4E37DF0CF6F7DA5D3A553C8",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "36afc713-c6ab-471c-ad04-7869768aecf3",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-178 Offer of Power 1-a.png",
+                "ID": "1E4E7E708010E5BE325A347D29C7A615",
+                "SourceID": "6878773D0AC8AF15DD561ECFF7DCD16E312AE367",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "440ab5d4-6d58-4b4c-921f-7a9766ced123",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-178 Offer of Power 2-a.png",
+                "ID": "F8262037ABCDEFD6B257EE0AEBEA6FF1",
+                "SourceID": "615A72A4E1BE09192C8EC6EE61A8F3FB74445CE3",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Rats",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "01fb46f9-740a-4345-a526-22d896145759",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-159 Rats 1-a.png",
+                "ID": "6C9CC21F8F5C278312D57DB4B33011D0",
+                "SourceID": "24F920D782AAF411A9BDE8633AF7717E5BA03B1F",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "dd13f967-200d-4f4c-9f99-b10df9d10553",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-159 Rats 2-a.png",
+                "ID": "DC1B08CBDF945768C574D5BB51BF7F66",
+                "SourceID": "71F1A006F1B8BCF5EF6C8FD4E04CFF3F502FFA6F",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "7e8b18bc-8921-4d81-9d3f-89ea9af88f4f",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-159 Rats 3-a.png",
+                "ID": "9CD136E5C9363955EE60882B1FBA4521",
+                "SourceID": "CF4B8D55F57E7BEE32B650D22C48B1863B4555AB",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
               }
             }
           ],

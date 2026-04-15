@@ -30,10 +30,10 @@
   ],
   "options": [
     {
-      "name": "",
+      "name": "Ages Unwound",
       "parts": [
         {
-          "name": "Ages Unwound",
+          "name": "Ages Unwound Campaign",
           "cards": [
             {
               "id": "82434d0d-0bee-44be-8b8d-1cae52b16de5",
@@ -5177,9 +5177,387 @@
             }
           ],
           "code": "C380050185D1C1AF"
+        }
+      ]
+    },
+    {
+      "name": "Required Chapter 1 core encounter sets",
+      "parts": [
+        {
+          "name": "Agents of Yog-Sothoth",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "2ff4122c-1d43-4dc3-b0da-e940622ddb41",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-177 Yithian Observer 1-a.png",
+                "ID": "99FD527F117F2263A88F358EC37CB792",
+                "SourceID": "CBD6F332E70ECD54C47D79597DE8693A7982F841",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "2ee1e1f0-777c-49c5-8ede-8412ed7bc930",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-177 Yithian Observer 2-a.png",
+                "ID": "85D460F0178F98BAC8912C533222E4B5",
+                "SourceID": "C150F1A886CDC81AD4E37DF0CF6F7DA5D3A553C8",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "36afc713-c6ab-471c-ad04-7869768aecf3",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-178 Offer of Power 1-a.png",
+                "ID": "1E4E7E708010E5BE325A347D29C7A615",
+                "SourceID": "6878773D0AC8AF15DD561ECFF7DCD16E312AE367",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "440ab5d4-6d58-4b4c-921f-7a9766ced123",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-178 Offer of Power 2-a.png",
+                "ID": "F8262037ABCDEFD6B257EE0AEBEA6FF1",
+                "SourceID": "615A72A4E1BE09192C8EC6EE61A8F3FB74445CE3",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
         },
         {
-          "name": "Errata if printed before 18 Oct 2025 (see changelog)",
+          "name": "Dark Cult",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "23423872-0bbd-41a2-9f70-6224d8fbf3b9",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-169 Acolyte 1-a.png",
+                "ID": "135569384D0FC068895E1A1DCDACC7F7",
+                "SourceID": "462DA740129A49CA24580B9B405D4FF72ACA2E53",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "e78e0ec4-20ba-4acf-802c-8c3f89d77da6",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-169 Acolyte 2-a.png",
+                "ID": "EE6E670EAE14895621E8062FBBE187E4",
+                "SourceID": "3C3C94F12BDB8D965271F185AEAB68E03953318E",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "c19fb57e-84e6-4528-b64b-4054065c2c11",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-169 Acolyte 3-a.png",
+                "ID": "47CEF55EE04B60E3FFC8EF39E2051F69",
+                "SourceID": "938611ABA04DB5E67FDFB3633696E1F57C4F1E43",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "4a7c08ae-b55f-423a-8c5b-809f854743dd",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-170 Wizard of the Order-a.png",
+                "ID": "815250987C67A86DABDDF9B93F159D7F",
+                "SourceID": "C9368E5226E41F689748D7381170D93756D68071",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "70876b74-a57e-4c8e-9ce7-ab7cba4b95c0",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-171 Mysterious Chanting 1-a.png",
+                "ID": "D567704F21E1B928496A53D0BE3CC850",
+                "SourceID": "1290F4162CD221ADF863BE204C51A3CBD219D239",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "ee5815ee-9d99-4ea1-9cfd-d29a13380579",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-171 Mysterious Chanting 2-a.png",
+                "ID": "F1A74DC22ECBD4A46B2DF8BFAF77028F",
+                "SourceID": "15A77D86C048DA655FFAA9B390BB332DEB3C0C7E",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Locked Doors",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "57f594f5-cc94-4892-a119-88c76129b063",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-174 Locked Door 1-a.png",
+                "ID": "1A332B8368BDCDD7F91AC7D90C6915E8",
+                "SourceID": "4347B69BFD567AF2D21B6579AC4A2DE1A91CD1E7",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "1f87b51a-980c-4017-ae4f-f2a9f8446d41",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-174 Locked Door 2-a.png",
+                "ID": "687614303639ED410FFC85B8566C60D9",
+                "SourceID": "6B40184DA1C001CBA7E6228BC0F6B101B92BACE2",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Midnight Masks treacheries",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "7e77355d-d6a1-4a29-928a-373a45444cb8",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-135 Hunting Shadow 1-a.png",
+                "ID": "6C7C11E8887335C809ED0DDFC2C08EF0",
+                "SourceID": "CC96251FD4D1F7A8910AF6AD1AEFA3F3471B6970",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "fb3231d2-f1fc-450a-b748-c03003360657",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-135 Hunting Shadow 2-a.png",
+                "ID": "F589E4FD410025008A59BD922EA58005",
+                "SourceID": "FE76F41B2DCEA1F65EB14F8B24F7DEAFEC473A5F",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "687255b5-da53-4b4e-8734-eff106188886",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-135 Hunting Shadow 3-a.png",
+                "ID": "EE7A12C272F11A024CE0A41D72DD660D",
+                "SourceID": "95DE6B596AFA9FA00DDBAE26F3DFC1CE4234C4DB",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "8b377feb-632f-480b-b535-df27ba2fc594",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-136 False Lead 1-a.png",
+                "ID": "3000B655BF35E316392D99C1561430CE",
+                "SourceID": "9BD98FD8C7547C68E168E9D210CFAF52234FE968",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "8cc7816e-13eb-4055-8b33-6f777fd0d3db",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-136 False Lead 2-a.png",
+                "ID": "BC5207B7441BEE9AEE6793AF67A5B76D",
+                "SourceID": "77F085B957281290BC0A1714F53E697F6A22F638",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        }
+      ]
+    },
+    {
+      "name": "Errata if printed before 18 Oct 2025 (see changelog)",
+      "parts": [
+        {
+          "name": "Olivia Juliet’s final campaign changes",
           "enabled": false,
           "cards": [
             {
