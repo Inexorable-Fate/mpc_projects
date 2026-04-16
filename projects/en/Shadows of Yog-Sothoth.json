@@ -18,10 +18,751 @@
   "tags": [
     "Campaign"
   ],
+  "hidden": true,
   "options": [
     {
       "name": "Shadows of Yog-Sothoth",
       "parts": [
+      ]
+    },
+    {
+      "name": "Required Chapter 1 core encounter sets",
+      "parts": [
+        {
+          "name": "Agents of Cthulhu",
+          "cards": [
+            {
+              "id": "d5ad4bf2-7a4b-4456-bd99-2557512fa694",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-181 Young Deep One 1-a.png",
+                "ID": "4B57D001E890C1E9A92733E28692351A",
+                "SourceID": "1DD082ED72786FC75CB40E18E038E02B23B10BC5",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "dcf08dc2-f1c7-4939-9718-eeacc51c0264",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-181 Young Deep One 2-a.png",
+                "ID": "325477D51349D8A4F1DB55BAF4D9C538",
+                "SourceID": "CC0FD3F5AF6FB734EA9A00CF9CB15352BB5BE90E",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "7fbfcd13-81c4-45bb-9ba2-c6b5125e343f",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-182 Dreams of R'lyeh 1-a.png",
+                "ID": "EB46D2669CF59FC49CB80E8F15A092F8",
+                "SourceID": "57682BE76E5E09E81C5B82222F07475740EF68B6",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "f97e3d09-cb3b-4860-96d3-910c20004409",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-182 Dreams of R'lyeh 2-a.png",
+                "ID": "A9864B2D8ED94B210E303F4714E67290",
+                "SourceID": "54A67DC4A91A0921E038662B5BA0C9CEAADC0C44",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Ancient Evils",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "e1e875c4-5ccb-4cca-bae4-2b2de41c77d1",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-166 Ancient Evils 1-a.png",
+                "ID": "7F6A87C5D574875B2666187FCD440C3F",
+                "SourceID": "48C9EEF29C3621398388A71F260C8F9FED7B4099",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "5b096c20-5fde-40d6-81d4-652e0c5fc04b",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-166 Ancient Evils 2-a.png",
+                "ID": "A74ED16179B5344ED37277714834E279",
+                "SourceID": "AC17992E29E27D97FB2352AB04C3B6258AE3EC43",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "1dc7850c-590e-4f18-a8f3-0b469d68a418",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-166 Ancient Evils 3-a.png",
+                "ID": "19D1A15B86413B87222210C129A3EF51",
+                "SourceID": "019994F89DFE0D96CED72F7ACA54E00648E0FC6E",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Chilling Cold",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "e4122257-56d8-4324-a2ee-0fababf74d01",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-167 Crypt Chill 1-a.png",
+                "ID": "1FA8D96F64EC6B0F7497CB9044664B0F",
+                "SourceID": "F2B5AECC7AE22774996E82B09728DBC048BA379C",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "415e4811-89a5-4c5b-b65e-ce2db38d7ef5",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-167 Crypt Chill 2-a.png",
+                "ID": "0B45D831D58FA5B196DC13F17478FC4B",
+                "SourceID": "07E213E4A20C16AC026F5C0AE15185CC9F209A69",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "ec1dcaee-1a7b-40d1-9e69-89ae91c3e85e",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-168 Obscuring Fog 1-a.png",
+                "ID": "5618560AA045271981B6C2DC26C9A0DC",
+                "SourceID": "9B2DD08061A7E53830A732F6AC2CCEF8A482F724",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "b164d5c2-44d9-4950-8d91-3c495bd23c91",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-168 Obscuring Fog 2-a.png",
+                "ID": "318D577D2F10B3B21D398FB33E4F5CB8",
+                "SourceID": "641ABBADE774F63E28D939308F14C35E7750AAD7",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Dark Cult",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "23423872-0bbd-41a2-9f70-6224d8fbf3b9",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-169 Acolyte 1-a.png",
+                "ID": "135569384D0FC068895E1A1DCDACC7F7",
+                "SourceID": "462DA740129A49CA24580B9B405D4FF72ACA2E53",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "e78e0ec4-20ba-4acf-802c-8c3f89d77da6",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-169 Acolyte 2-a.png",
+                "ID": "EE6E670EAE14895621E8062FBBE187E4",
+                "SourceID": "3C3C94F12BDB8D965271F185AEAB68E03953318E",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "c19fb57e-84e6-4528-b64b-4054065c2c11",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-169 Acolyte 3-a.png",
+                "ID": "47CEF55EE04B60E3FFC8EF39E2051F69",
+                "SourceID": "938611ABA04DB5E67FDFB3633696E1F57C4F1E43",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "4a7c08ae-b55f-423a-8c5b-809f854743dd",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-170 Wizard of the Order-a.png",
+                "ID": "815250987C67A86DABDDF9B93F159D7F",
+                "SourceID": "C9368E5226E41F689748D7381170D93756D68071",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "70876b74-a57e-4c8e-9ce7-ab7cba4b95c0",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-171 Mysterious Chanting 1-a.png",
+                "ID": "D567704F21E1B928496A53D0BE3CC850",
+                "SourceID": "1290F4162CD221ADF863BE204C51A3CBD219D239",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "ee5815ee-9d99-4ea1-9cfd-d29a13380579",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-171 Mysterious Chanting 2-a.png",
+                "ID": "F1A74DC22ECBD4A46B2DF8BFAF77028F",
+                "SourceID": "15A77D86C048DA655FFAA9B390BB332DEB3C0C7E",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Locked Doors",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "57f594f5-cc94-4892-a119-88c76129b063",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-174 Locked Door 1-a.png",
+                "ID": "1A332B8368BDCDD7F91AC7D90C6915E8",
+                "SourceID": "4347B69BFD567AF2D21B6579AC4A2DE1A91CD1E7",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "1f87b51a-980c-4017-ae4f-f2a9f8446d41",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-174 Locked Door 2-a.png",
+                "ID": "687614303639ED410FFC85B8566C60D9",
+                "SourceID": "6B40184DA1C001CBA7E6228BC0F6B101B92BACE2",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Midnight Masks treacheries",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "7e77355d-d6a1-4a29-928a-373a45444cb8",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-135 Hunting Shadow 1-a.png",
+                "ID": "6C7C11E8887335C809ED0DDFC2C08EF0",
+                "SourceID": "CC96251FD4D1F7A8910AF6AD1AEFA3F3471B6970",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "fb3231d2-f1fc-450a-b748-c03003360657",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-135 Hunting Shadow 2-a.png",
+                "ID": "F589E4FD410025008A59BD922EA58005",
+                "SourceID": "FE76F41B2DCEA1F65EB14F8B24F7DEAFEC473A5F",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "687255b5-da53-4b4e-8734-eff106188886",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-135 Hunting Shadow 3-a.png",
+                "ID": "EE7A12C272F11A024CE0A41D72DD660D",
+                "SourceID": "95DE6B596AFA9FA00DDBAE26F3DFC1CE4234C4DB",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "8b377feb-632f-480b-b535-df27ba2fc594",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-136 False Lead 1-a.png",
+                "ID": "3000B655BF35E316392D99C1561430CE",
+                "SourceID": "9BD98FD8C7547C68E168E9D210CFAF52234FE968",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "8cc7816e-13eb-4055-8b33-6f777fd0d3db",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-136 False Lead 2-a.png",
+                "ID": "BC5207B7441BEE9AEE6793AF67A5B76D",
+                "SourceID": "77F085B957281290BC0A1714F53E697F6A22F638",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Rats",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "01fb46f9-740a-4345-a526-22d896145759",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-159 Rats 1-a.png",
+                "ID": "6C9CC21F8F5C278312D57DB4B33011D0",
+                "SourceID": "24F920D782AAF411A9BDE8633AF7717E5BA03B1F",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "dd13f967-200d-4f4c-9f99-b10df9d10553",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-159 Rats 2-a.png",
+                "ID": "DC1B08CBDF945768C574D5BB51BF7F66",
+                "SourceID": "71F1A006F1B8BCF5EF6C8FD4E04CFF3F502FFA6F",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "7e8b18bc-8921-4d81-9d3f-89ea9af88f4f",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-159 Rats 3-a.png",
+                "ID": "9CD136E5C9363955EE60882B1FBA4521",
+                "SourceID": "CF4B8D55F57E7BEE32B650D22C48B1863B4555AB",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Striking Fear",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "99d0ee46-bd0d-4745-9696-c5ffd2f23032",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-163 Rotting Remains 1-a.png",
+                "ID": "4DE99D9951A96842687AD9F39C3EDADC",
+                "SourceID": "1266ACB587BF81001B2F0A7EAD43A48C24E2508C",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "52eea862-30be-4247-81ed-3ef07c68a895",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-163 Rotting Remains 2-a.png",
+                "ID": "D99865172ECBDFC155E1780D904D60B5",
+                "SourceID": "23C0ECA7CC905139DEF4905683FA94DF07797154",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "e3fe71d8-2a8c-4200-a95c-7890e8af7456",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-163 Rotting Remains 3-a.png",
+                "ID": "7431E7E384DA087DEABD0F3B1562DD4D",
+                "SourceID": "C07785E49CAA7F26402BA6CA30FC73A25AD176CB",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "9362c440-4a9d-4b04-a714-afae8a649590",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-164 Frozen in Fear 1-a.png",
+                "ID": "06ED431F5ADC25E9AA5ED0F6B714FEFE",
+                "SourceID": "B3BC506C3165D4C78BBD87698035545C3C0E3F17",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "60d136b9-c3b7-4675-82e9-dc995d4cf86a",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-164 Frozen in Fear 2-a.png",
+                "ID": "C43A67FA773E40F61361040C27D15395",
+                "SourceID": "67DC66592FA6B4729FCF35A128ADD89819663B7B",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "2134ac6f-6101-45b6-8e64-3c89df2d90ff",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-165 Dissonant Voices 1-a.png",
+                "ID": "442ECD5C7EA86D1BD0F1193E52D8CDDF",
+                "SourceID": "CCC87CF20CA7926FADAD3DA63D402732704F4AE9",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "a624df00-2117-4fb3-a77d-b0a4587d65bb",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-165 Dissonant Voices 2-a.png",
+                "ID": "1A809D8CEBAEF528768BA0864DCC29D9",
+                "SourceID": "A8D9C4F9E08607576C956696260F26D3D3AF0E2D",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        }
       ]
     }
   ],

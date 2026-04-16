@@ -23,10 +23,10 @@
   ],
   "options": [
     {
-      "name": "",
+      "name": "The Crown of Egil",
       "parts": [
         {
-          "name": "The Crown of Egil",
+          "name": "Crown of Egil Campaign",
           "cards": [
             {
               "count": 1,
@@ -2648,6 +2648,292 @@
                 "Exp": "png",
                 "Width": 826,
                 "Height": 1123
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        }
+      ]
+    },
+    {
+      "name": "Required Chapter 1 core encounter sets",
+      "parts": [
+        {
+          "name": "Chilling Cold",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "e4122257-56d8-4324-a2ee-0fababf74d01",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-167 Crypt Chill 1-a.png",
+                "ID": "1FA8D96F64EC6B0F7497CB9044664B0F",
+                "SourceID": "F2B5AECC7AE22774996E82B09728DBC048BA379C",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "415e4811-89a5-4c5b-b65e-ce2db38d7ef5",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-167 Crypt Chill 2-a.png",
+                "ID": "0B45D831D58FA5B196DC13F17478FC4B",
+                "SourceID": "07E213E4A20C16AC026F5C0AE15185CC9F209A69",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "ec1dcaee-1a7b-40d1-9e69-89ae91c3e85e",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-168 Obscuring Fog 1-a.png",
+                "ID": "5618560AA045271981B6C2DC26C9A0DC",
+                "SourceID": "9B2DD08061A7E53830A732F6AC2CCEF8A482F724",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "b164d5c2-44d9-4950-8d91-3c495bd23c91",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-168 Obscuring Fog 2-a.png",
+                "ID": "318D577D2F10B3B21D398FB33E4F5CB8",
+                "SourceID": "641ABBADE774F63E28D939308F14C35E7750AAD7",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Ghouls",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "49aed641-be19-43a3-a852-ce09077c9f2d",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-160 Ghoul Minion 1-a.png",
+                "ID": "7C83069E61B6A1992B9FF9547BB5F41F",
+                "SourceID": "A957B3827A65672C79383992A66948C8EF1D90A4",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "54b06b75-39b1-4a52-ae3d-c51bf0b8f31d",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-160 Ghoul Minion 2-a.png",
+                "ID": "C8BAC34CCFCC48E5EB11E9579D946D2A",
+                "SourceID": "FFBC4964A365580D375923912208B7E788813075",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "4a288e72-f7c9-4be3-9dc8-137a1f9fe173",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-160 Ghoul Minion 3-a.png",
+                "ID": "9DA676B466D57918FD2AAF282E82566F",
+                "SourceID": "CEB02A44ECB326778C2C5896F3DD619229E69C7B",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "67b0a825-ea2a-48e0-ab28-8707e8473c83",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-161 Ravenous Ghoul-a.png",
+                "ID": "850433D47D81931686837D3F223D3B19",
+                "SourceID": "3F24EAB200A53FDEA17B33B100FC6BCB8D50B32F",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "373b68f4-86cb-4ffb-80ba-ea7e482f112a",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-162 Grasping Hands 1-a.png",
+                "ID": "1F419070CAF2BDA1BF0728A968366FA1",
+                "SourceID": "6DD2C359634B6BC40F0B9EF14ADFE4F6F581EA66",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "30ad8183-c179-40b0-9646-d3d48fde8be8",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-162 Grasping Hands 2-a.png",
+                "ID": "30DFBDE4B40DF22AED50DE080D217825",
+                "SourceID": "31A82BBB18F8542D41E8EBA30B7D5D81BEBFDC63",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "723c6ce2-e645-4253-9122-a1776baaf333",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-162 Grasping Hands 3-a.png",
+                "ID": "0E6C7B66DB48612A5B417333B481430D",
+                "SourceID": "8CE30DD66C6925919BACE0FE7E26BCC08E92DCCA",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Locked Doors",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "57f594f5-cc94-4892-a119-88c76129b063",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-174 Locked Door 1-a.png",
+                "ID": "1A332B8368BDCDD7F91AC7D90C6915E8",
+                "SourceID": "4347B69BFD567AF2D21B6579AC4A2DE1A91CD1E7",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "1f87b51a-980c-4017-ae4f-f2a9f8446d41",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-174 Locked Door 2-a.png",
+                "ID": "687614303639ED410FFC85B8566C60D9",
+                "SourceID": "6B40184DA1C001CBA7E6228BC0F6B101B92BACE2",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
               }
             }
           ],

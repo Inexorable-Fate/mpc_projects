@@ -9,7 +9,8 @@
     "C8908238FA2974C9469FAA9A9FDA348604A87D8B54ADD82B5267B1CD7A221B0DEE8D8EC9D37E13F3": "Alice minicard",
     "478B9631EC81EF73FE01A148CF5CA8C6B287E7B4F14B2B336CD1CF96270C6BCC798A33C8B2A3DC32": "Alice mini with crop marks",
     "80888A717B00EE4FE8549F0F4C96E9317012C15FACD7515E517709735288C141CFE9E56AF15F88A0": "Alice whitepace fixes 2025-12",
-    "A55C18B79E3DF85FA291F03B0698E69E56A2137651F6B6F937BAE31045E9D7E975863EB78FEEA530": "Alice 450ppi omissions"
+    "A55C18B79E3DF85FA291F03B0698E69E56A2137651F6B6F937BAE31045E9D7E975863EB78FEEA530": "Alice 450ppi omissions",
+    "FDD3464D3607FEFE6487A0B21685674841576B4077FF34D110D2C5046CE6B3A9104A09CCD7DA6EE4": "Alice Borogove typo"
   },
   "name": "Alice in Wonderland",
   "description": "An 8-scenario campaign that can be played forwards or backwards, mixing Arkham with the Lewis Carroll classics.",
@@ -2756,26 +2757,26 @@
 		            "Height": 1122
 		          }
 		        },
-		        {
-		          "id": "958414e6-7e8a-45cd-b351-c307ef0d4e16",
-		          "count": 2,
-		          "front": {
-		            "Name": "137-Borogrove-x2-1.png",
-		            "ID": "80CFFCA9C88AB04DD1CF136137AADB4A",
-		            "SourceID": "6535ED459DACCF7FA6FF4468415227D7247641AD",
-		            "Exp": "png",
-		            "Width": 1239,
-		            "Height": 1689
-		          },
-		          "back": {
-		            "Name": "back.png",
-		            "ID": "854A4AAB593A30F99708359AD90A5131",
-		            "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
-		            "Exp": "png",
-		            "Width": 822,
-		            "Height": 1122
-		          }
-		        },
+            {
+              "id": "5cb006ba-acbf-4ef5-b301-2bb6ce145067",
+              "count": 2,
+              "front": {
+                "Name": "137-Borogove-x2-1.png",
+                "ID": "1EC3C260E2E65388E919E66D7F5FAACC",
+                "SourceID": "7E0BF4C6548F77144E32ED1D6FDE48E453EABF5D",
+                "Exp": "png",
+                "Width": 1239,
+                "Height": 1689
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
 		        {
 		          "id": "471df0f7-3bc0-4dda-ad4e-45eebf187c03",
 		          "count": 2,
@@ -6235,6 +6236,38 @@
       ]
     },
     {
+      "name": "Errata if printed before 15 April 2026",
+      "parts": [
+        {
+          "name": "Fixed spelling of Borogove",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "44cfd0de-d6bd-4f60-a636-a92ab8236260",
+              "count": 2,
+              "front": {
+                "Name": "137-Borogove-x2-1.png",
+                "ID": "52A15A259B2E64CC69B8A36B366651C8",
+                "SourceID": "FB1BAFB6169351C83E081B0EA8F87F31D4715D8C",
+                "Exp": "png",
+                "Width": 1125,
+                "Height": 1575
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "854A4AAB593A30F99708359AD90A5131",
+                "SourceID": "DC874CC7730BC2F4B0F3C4EECAFD6AD6155DC610",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        }
+      ]
+    },
+    {
       "name": "Errata if printed between 17 Oct 2025 and 14 Jan 2026",
       "parts": [
         {
@@ -6295,6 +6328,6 @@
     }
   ],
   "created": "2021-03-23T04:45:26.702Z",
-  "updated": "2026-01-16T00:00:00.000Z",
+  "updated": "2026-04-15T00:00:00.000Z",
   "hash": "daa0a76c90b71503f50cc0fd04fef8a623b19a8f82b1c17083f57f3309dc161b"
 }

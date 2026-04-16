@@ -1,3 +1,6 @@
+**2026-04-15**
+  - The Beard corrected the spelling of the title on 137 Borogove
+
 **2026-01-15**
   - All cards updated to 450ppi
   - During the 17 Oct 2025 update, the quantity of the following card was inadvertently reduced. If you printed during this window, you will need two additional copies of this card.
