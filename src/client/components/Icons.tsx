@@ -1,4 +1,4 @@
-import { CheckSquare, CheckSquareFill, Person, PersonFill, Tag, TagFill } from "react-bootstrap-icons"
+import { CheckSquare, CheckSquareFill, InfoCircleFill, Person, PersonFill, Tag, TagFill } from "react-bootstrap-icons"
 
 export const AuthorIconFiltered = () => (
   <PersonFill
@@ -37,10 +37,18 @@ export const StatusIconFiltered = () => (
 
 export const StatusIcon = () => (
   <CheckSquare
-    className='icon'
+    className='icon-info'
     width='20'
     height='20' />
 )
+
+export const InfoIcon = () => (
+  <InfoCircleFill
+    className='icon'
+    width='16'
+    height='16' />
+)
+
 
 export const LanguageIcon = () => {
   return (
