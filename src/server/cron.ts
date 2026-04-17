@@ -168,14 +168,20 @@ const refreshCookie = async (baseUrl: string) => {
 }
 
 if (config.refreshProjects) {
-  cron.schedule(config.refreshProjects.expression, () => refreshProjects(config.refreshProjects!.baseUrl), {
-    name: 'refreshProjects',
-    scheduled: config.refreshProjects.scheduled,
-    runOnInit: config.refreshProjects.immediatly,
-  })
-  cron.schedule('0 0 * * *', () => refreshCookie(config.refreshProjects!.baseUrl), {
-    name: 'refreshCookie',
-    scheduled: config.refreshProjects.scheduled,
-    runOnInit: config.refreshProjects.immediatly,
-  })
+  if (config.refreshProjects.scheduled) {
+    const task = cron.schedule(config.refreshProjects.expression, () => refreshProjects(config.refreshProjects!.baseUrl), {
+      name: 'refreshProjects',
+    })
+    if (config.refreshProjects.immediatly) {
+      task.execute()
+    }
+  }
+  if (config.refreshProjects.scheduled) {
+    const task = cron.schedule('0 0 * * *', () => refreshCookie(config.refreshProjects!.baseUrl), {
+      name: 'refreshCookie',
+    })
+    if (config.refreshProjects.immediatly) {
+      task.execute()
+    }
+  }
 }

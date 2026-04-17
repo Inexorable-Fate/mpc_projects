@@ -1,11 +1,11 @@
 import envVar from 'env-var'
 import { glob } from 'glob'
+import data from 'mpc_api/data'
 import fs from 'node:fs/promises'
 import path from 'node:path'
 import { PluginOption, ResolvedConfig } from 'vite'
 import { ExtensionProjects, WebsiteProjects } from './types'
 import { hashJson, isProjectFile, readJson, writeJson } from './util'
-import data from 'mpc_api/data'
 
 const getSize = (code: string) => data.units['mpc'].find(e => e.code == code)?.name ?? 'Unknown'
 
@@ -356,7 +356,7 @@ export const projectsBuilder = ({ projectsDir, projectsFilename }: ProjectsBuild
       })
     },
     handleHotUpdate: async ({ file, server }) => {
-      if (isProjectFile(projectsDir, path.relative(viteConfig.envDir, file))) {
+      if (viteConfig.envDir && isProjectFile(projectsDir, path.relative(viteConfig.envDir, file))) {
         console.log(`Project changed: ${file}. Reloading`)
         server.hot.send({
           type: 'full-reload',
