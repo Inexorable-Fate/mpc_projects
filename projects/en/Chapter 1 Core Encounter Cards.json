@@ -6270,6 +6270,113 @@
           "code": "C380050185D1C1AF"
         },
         {
+          "name": "Midnight Masks treacheries",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "7e77355d-d6a1-4a29-928a-373a45444cb8",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-135 Hunting Shadow 1-a.png",
+                "ID": "6C7C11E8887335C809ED0DDFC2C08EF0",
+                "SourceID": "CC96251FD4D1F7A8910AF6AD1AEFA3F3471B6970",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "fb3231d2-f1fc-450a-b748-c03003360657",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-135 Hunting Shadow 2-a.png",
+                "ID": "F589E4FD410025008A59BD922EA58005",
+                "SourceID": "FE76F41B2DCEA1F65EB14F8B24F7DEAFEC473A5F",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "687255b5-da53-4b4e-8734-eff106188886",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-135 Hunting Shadow 3-a.png",
+                "ID": "EE7A12C272F11A024CE0A41D72DD660D",
+                "SourceID": "95DE6B596AFA9FA00DDBAE26F3DFC1CE4234C4DB",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "8b377feb-632f-480b-b535-df27ba2fc594",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-136 False Lead 1-a.png",
+                "ID": "3000B655BF35E316392D99C1561430CE",
+                "SourceID": "9BD98FD8C7547C68E168E9D210CFAF52234FE968",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "8cc7816e-13eb-4055-8b33-6f777fd0d3db",
+              "count": 1,
+              "front": {
+                "Name": "ahc001-136 False Lead 2-a.png",
+                "ID": "BC5207B7441BEE9AEE6793AF67A5B76D",
+                "SourceID": "77F085B957281290BC0A1714F53E697F6A22F638",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "back.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
           "name": "Nightgaunts",
           "enabled": false,
           "cards": [
