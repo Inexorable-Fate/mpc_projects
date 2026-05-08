@@ -26,11 +26,11 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
             </div>
             <div className={'alert-item'}>
               <h3>Tip: </h3>
-              <p>Want to get involved? Proofreaders, folks willing to do QA, React coders, people with Strange Eons and/or Regex experience, and general nitpickers are all welcome! Hit us up on the <a href='https://discord.com/channels/225349059689447425/1192620482168635523'>MythosBusters Discord</a> or in the <a href='https://github.com/Inexorable-Fate/mpc_projects/issues'>issue queue</a>.</p>
+              <p>Want to get involved? Proofreaders, folks willing to do QA, React coders, people with Strange Eons and/or Regex experience, and general nitpickers are all welcome! Hit us up on the <a href='https://discord.com/channels/225349059689447425/1192620482168635523'>Mythos Busters Discord</a> or in the <a href='https://github.com/Inexorable-Fate/mpc_projects/issues'>issue queue</a>.</p>
             </div>
             <div className={'alert-item'}>
               <h3>Project errata: </h3>
-              <p>Click the changelog icons <ChangelogIcon/> to see if you need to reprint errata for Taboo 2.5, Alice in Wonderland, Ages Unwound,Bloodborne, Parallel Lola, When the World Screamed, Night of Vespers, or any other projects.</p>
+              <p>Click the changelog icons <ChangelogIcon/> to see if you need to reprint errata for Taboo 2.5, Alice in Wonderland, Ages Unwound, Bloodborne, Parallel Lola, When the World Screamed, Night of Vespers, or any other projects.</p>
             </div>
           </div>
         </Alert>

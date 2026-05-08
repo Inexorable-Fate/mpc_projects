@@ -15,7 +15,7 @@
   "artist": "Mikael Aguirre",
   "info": null,
   "website": "https://mysteriouschanting.wordpress.com/2024/02/18/bloodborne-the-city-of-the-unseen/",
-  "cardsLink": null,
+  "cardsLink": "https://drive.google.com/drive/folders/1jZkjuXjJX2SHefYxzxW31ocQnTr6QW2a?usp=drive_link",
   "scenarioCount": 8,
   "investigatorCount": 6,
   "authors": [
@@ -139,7 +139,7 @@
             },
             {
               "id": "d891d68c-f52a-4f5b-8396-09a0b59bd50b",
-              "count": 2,
+              "count": 1,
               "front": {
                 "Name": "006-Act 2a The City of the Unseen-1.png",
                 "ID": "4FF69023B3CEF6B1BC9D671002206F9F",
@@ -159,7 +159,7 @@
             },
             {
               "id": "4b0fb606-d590-4e41-9705-6412e4af2ad7",
-              "count": 2,
+              "count": 1,
               "front": {
                 "Name": "007-Act 2a The City of the Unseen-1.png",
                 "ID": "092F15681D65F4D2FE47788E37E45242",
@@ -1779,7 +1779,7 @@
             },
             {
               "id": "8525c04d-6b0d-4e3f-818b-098f809560a1",
-              "count": 3,
+              "count": 1,
               "front": {
                 "Name": "088-Agenda 1a Lifting the Veil-1.png",
                 "ID": "774EDCBA69718A639995FEC59E868311",
@@ -1799,7 +1799,7 @@
             },
             {
               "id": "664a251c-c8c1-4dab-83b7-aea6b1d6e250",
-              "count": 3,
+              "count": 1,
               "front": {
                 "Name": "089-Agenda 1a Lifting the Veil-1.png",
                 "ID": "774EDCBA69718A639995FEC59E868311",
@@ -1819,7 +1819,7 @@
             },
             {
               "id": "08f86e8b-d2e2-47bf-bd98-e3218109f0cd",
-              "count": 3,
+              "count": 1,
               "front": {
                 "Name": "090-Agenda 1a Lifting the Veil-1.png",
                 "ID": "774EDCBA69718A639995FEC59E868311",
@@ -5499,7 +5499,7 @@
             },
             {
               "id": "faef0a3c-11b4-4343-a48a-0010458b5031",
-              "count": 1,
+              "count": 2,
               "front": {
                 "Name": "274-Numbing Mist-x2-1.png",
                 "ID": "C6A63579BF6D2AF978C18FC5081728D6",
