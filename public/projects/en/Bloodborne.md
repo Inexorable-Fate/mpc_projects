@@ -1,7 +1,11 @@
+**2026-05-08:**
+  - It turns out the fixes made on 2025-12-03 did include the identical act/agenda fronts but the count correction was done incorrectly, so there were still duplicate copies of the acts/agendas and a missing second copy of Numbing Mist. These counts have now been corrected. 
+
 **2026-03-09:**
   - Moonside Lake (101) was inadvertently exported by the Inexorable Fate team without flavor text on the back. This has no mecahnical effect, but was not the author’s intent and also looks weird.
 
 **2025-12-03:**
+
 A few problems have been corrected since the updated export on 2025-11-19:
   - Scenario 1 Act 2 (6–7) and Scenario 4 Agenda 1 (88–90) had unintentional duplicates that have been removed. The correct number is two versions of S1 act 2 and three versions of S4 agenda 1 with identical fronts and different backs.
   - Scenario 5 Act 1 cards (125–128) have been replaced with versions with identically numbered fronts so that they are indistinguishable on the “a” side.

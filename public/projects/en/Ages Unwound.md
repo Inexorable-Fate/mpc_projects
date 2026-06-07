@@ -1,3 +1,6 @@
+**2026-04-14**
+ - 167 A World Torn Down Again Act 3c and 178 Sheldon’s Finest had an old version of the scenario icon. This has been updated to the correct icon.
+
 **2025-10-21:**
   - Removed an errant period after a nonexistant Victory on 014 Cramped Passageway (h/t PhantomWhale)
 

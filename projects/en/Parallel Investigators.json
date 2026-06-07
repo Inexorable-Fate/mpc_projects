@@ -211,7 +211,13 @@
                 "Width": 1646,
                 "Height": 2244
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Enthralling Encore scenario",
+          "cards": [
             {
               "id": "9a6f3447-e138-4262-873b-7568da9e76f6",
               "count": 1,

@@ -3,16 +3,16 @@
   "projectIds": {
     "03A7741A784C5429100697EE3EC2A6138255328A689BF92277A4F41AFF3B705B1DE02FD52CCD76EF": "Core Set Encounter Cards"
   },
-  "hidden": true,
-  "name": "Core Set Encounter Cards",
-  "description": "",
+  "name": "Full Art Ch. 1 Core Encounters",
+  "description": "These Chapter 1 core encounter sets utilize custom templates to maximize your view of the art. Print a full set or select a chapter 1 campaign you own and print just the cards needed for that campaign.",
   "artist": null,
   "info": null,
   "website": null,
-  "cardsLink": "hhttps://drive.google.com/drive/folders/1v14e9i0rX1MZ7Nb_KOGnI8MVKSq_8DCQ",
+  "cardsLink": "https://drive.google.com/drive/folders/1v14e9i0rX1MZ7Nb_KOGnI8MVKSq_8DCQ",
   "scenarioCount": 0,
   "investigatorCount": 0,
   "authors": [
+    "Hauke",
     "Fantasy Flight Games"
   ],
   "statuses": [
@@ -20,15 +20,15 @@
     "Project Available"
   ],
   "tags": [
-    "Investigator(s)"
+    "Alt-Art"
   ],
+  "hidden": true,
   "options": [
     {
-      "name": "The Night of the Zealot",
+      "name": "The Night of the Zealot (complete set)",
       "parts": [
         {
-          "code": "C380050185D1C1AF",
-          "name": "The Night of the Zealot",
+          "name": "Agents of Cthulhu",
           "cards": [
             {
               "id": "9ec32580-20bd-45a0-9e48-6c9d04f120a7",
@@ -109,7 +109,13 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Agents of Hastur",
+          "cards": [
             {
               "id": "0b5e5950-183c-4d70-9e9f-e8af65ed7694",
               "count": 1,
@@ -189,7 +195,13 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Agents of Shub",
+          "cards": [
             {
               "id": "5de70fda-dd78-458e-8f7d-6c35c257e9d9",
               "count": 1,
@@ -269,7 +281,13 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Agents of Yog-Sothoth",
+          "cards": [
             {
               "id": "c7d057ee-4d5d-47fd-9409-d18c8f51964f",
               "count": 1,
@@ -349,7 +367,13 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Ancient Evils",
+          "cards": [
             {
               "id": "a87c228d-1126-4720-a49f-80a71dee10b8",
               "count": 1,
@@ -409,7 +433,13 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Chilling Cold",
+          "cards": [
             {
               "id": "47c06faf-f9ac-469c-9a71-83b0af73a186",
               "count": 1,
@@ -489,7 +519,13 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Dark Cult",
+          "cards": [
             {
               "id": "69950fec-7a4b-44ab-9f92-bb0ce8b8886a",
               "count": 1,
@@ -609,7 +645,13 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Ghouls",
+          "cards": [
             {
               "id": "bc17e138-50a6-499a-999f-17377f66c22c",
               "count": 1,
@@ -749,7 +791,13 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Locked Doors",
+          "cards": [
             {
               "id": "93e0e70d-f24a-4578-aed0-4916d8c78f02",
               "count": 1,
@@ -789,7 +837,13 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Nightgaunts",
+          "cards": [
             {
               "id": "0eb9f316-e122-4196-823d-d7db63b039b2",
               "count": 1,
@@ -869,7 +923,13 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Rats",
+          "cards": [
             {
               "id": "6c387ca4-c76d-4296-9bda-f80e6e1e544b",
               "count": 1,
@@ -929,7 +989,13 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Striking Fear",
+          "cards": [
             {
               "id": "25a2cfad-1ea4-4d8d-a9cd-36e6bc4d764a",
               "count": 1,
@@ -1069,7 +1135,13 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Midnight Masks treacheries",
+          "cards": [
             {
               "id": "bfcde057-0da2-4aec-8e12-199af95cea55",
               "count": 1,
@@ -1170,7 +1242,8 @@
                 "Height": 1122
               }
             }
-          ]
+          ],
+          "code": "C380050185D1C1AF"
         }
       ]
     },
@@ -1178,8 +1251,8 @@
       "name": "The Dunwich Legacy",
       "parts": [
         {
-          "code": "C380050185D1C1AF",
-          "name": "The Dunwich Legacy",
+          "name": "Agents of Yog-Sothoth",
+          "enabled": false,
           "cards": [
             {
               "id": "c7d057ee-4d5d-47fd-9409-d18c8f51964f",
@@ -1260,7 +1333,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Ancient Evils",
+          "enabled": false,
+          "cards": [
             {
               "id": "a87c228d-1126-4720-a49f-80a71dee10b8",
               "count": 1,
@@ -1320,7 +1400,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Chilling Cold",
+          "enabled": false,
+          "cards": [
             {
               "id": "47c06faf-f9ac-469c-9a71-83b0af73a186",
               "count": 1,
@@ -1400,7 +1487,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Dark Cult",
+          "enabled": false,
+          "cards": [
             {
               "id": "69950fec-7a4b-44ab-9f92-bb0ce8b8886a",
               "count": 1,
@@ -1520,7 +1614,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Locked Doors",
+          "enabled": false,
+          "cards": [
             {
               "id": "93e0e70d-f24a-4578-aed0-4916d8c78f02",
               "count": 1,
@@ -1560,7 +1661,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Nightgaunts",
+          "enabled": false,
+          "cards": [
             {
               "id": "0eb9f316-e122-4196-823d-d7db63b039b2",
               "count": 1,
@@ -1640,7 +1748,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Rats",
+          "enabled": false,
+          "cards": [
             {
               "id": "6c387ca4-c76d-4296-9bda-f80e6e1e544b",
               "count": 1,
@@ -1700,7 +1815,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Striking Fear",
+          "enabled": false,
+          "cards": [
             {
               "id": "25a2cfad-1ea4-4d8d-a9cd-36e6bc4d764a",
               "count": 1,
@@ -1841,7 +1963,115 @@
                 "Height": 1122
               }
             }
-          ]
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Midnight Masks treacheries",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "bfcde057-0da2-4aec-8e12-199af95cea55",
+              "count": 1,
+              "front": {
+                "Name": "The Midnight Masks - 1 - front.png",
+                "ID": "E0FB7A6AE29D7E687905DD3ECE214FC2",
+                "SourceID": "291807A0A17C8E873EBEC5BA249CEFF80906E8AD",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "921a5e4c-ceea-4c0c-8166-c41888e9cae6",
+              "count": 1,
+              "front": {
+                "Name": "The Midnight Masks - 2 - front.png",
+                "ID": "294A3562B30D818C6ADDFB1562438080",
+                "SourceID": "24A4023C080D7DD012965941AC7C537BF6CB365F",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "51e1905d-481f-4010-b42d-599771eac42d",
+              "count": 1,
+              "front": {
+                "Name": "The Midnight Masks - 3 - front.png",
+                "ID": "B29D751C7AC2F44C46D2F526844CB08D",
+                "SourceID": "5E781FDE655EED78606015F2BB66FC4318FEABBB",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "3cdc4126-1e7c-4d7a-8271-86d39b5249a8",
+              "count": 1,
+              "front": {
+                "Name": "The Midnight Masks - 4 - front.png",
+                "ID": "BFFAC5F76EC2B1D78A7FDFA346713B27",
+                "SourceID": "CDF71F9DB2D0AD32F37EEE1B58881916FD80B340",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "e77a5cf9-b8d4-4a39-81e1-458e821a5006",
+              "count": 1,
+              "front": {
+                "Name": "The Midnight Masks - 5 - front.png",
+                "ID": "619FE9304C0E4A4B020395D283E407FD",
+                "SourceID": "93EF5CC569E759317E52E5AC9DD2C46AB924860C",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
         }
       ]
     },
@@ -1849,8 +2079,8 @@
       "name": "The Path to Carcosa",
       "parts": [
         {
-          "code": "C380050185D1C1AF",
-          "name": "The Path to Carcosa",
+          "name": "Agents of Hastur",
+          "enabled": false,
           "cards": [
             {
               "id": "0b5e5950-183c-4d70-9e9f-e8af65ed7694",
@@ -1931,7 +2161,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Ancient Evils",
+          "enabled": false,
+          "cards": [
             {
               "id": "a87c228d-1126-4720-a49f-80a71dee10b8",
               "count": 1,
@@ -1991,7 +2228,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Chilling Cold",
+          "enabled": false,
+          "cards": [
             {
               "id": "47c06faf-f9ac-469c-9a71-83b0af73a186",
               "count": 1,
@@ -2071,7 +2315,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Dark Cult",
+          "enabled": false,
+          "cards": [
             {
               "id": "69950fec-7a4b-44ab-9f92-bb0ce8b8886a",
               "count": 1,
@@ -2191,7 +2442,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Ghouls",
+          "enabled": false,
+          "cards": [
             {
               "id": "bc17e138-50a6-499a-999f-17377f66c22c",
               "count": 1,
@@ -2331,7 +2589,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Locked Doors",
+          "enabled": false,
+          "cards": [
             {
               "id": "93e0e70d-f24a-4578-aed0-4916d8c78f02",
               "count": 1,
@@ -2371,7 +2636,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Rats",
+          "enabled": false,
+          "cards": [
             {
               "id": "6c387ca4-c76d-4296-9bda-f80e6e1e544b",
               "count": 1,
@@ -2431,7 +2703,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Striking Fear",
+          "enabled": false,
+          "cards": [
             {
               "id": "25a2cfad-1ea4-4d8d-a9cd-36e6bc4d764a",
               "count": 1,
@@ -2672,7 +2951,8 @@
                 "Height": 1122
               }
             }
-          ]
+          ],
+          "code": "C380050185D1C1AF"
         }
       ]
     },
@@ -2680,8 +2960,8 @@
       "name": "The Forgotten Age",
       "parts": [
         {
-          "code": "C380050185D1C1AF",
-          "name": "The Forgotten Age",
+          "name": "Agents of Yog-Sothoth",
+          "enabled": false,
           "cards": [
             {
               "id": "c7d057ee-4d5d-47fd-9409-d18c8f51964f",
@@ -2762,7 +3042,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Ancient Evils",
+          "enabled": false,
+          "cards": [
             {
               "id": "a87c228d-1126-4720-a49f-80a71dee10b8",
               "count": 1,
@@ -2822,7 +3109,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Chilling Cold",
+          "enabled": false,
+          "cards": [
             {
               "id": "47c06faf-f9ac-469c-9a71-83b0af73a186",
               "count": 1,
@@ -2902,7 +3196,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Dark Cult",
+          "enabled": false,
+          "cards": [
             {
               "id": "69950fec-7a4b-44ab-9f92-bb0ce8b8886a",
               "count": 1,
@@ -3022,7 +3323,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Locked Doors",
+          "enabled": false,
+          "cards": [
             {
               "id": "93e0e70d-f24a-4578-aed0-4916d8c78f02",
               "count": 1,
@@ -3062,7 +3370,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Nightgaunts",
+          "enabled": false,
+          "cards": [
             {
               "id": "0eb9f316-e122-4196-823d-d7db63b039b2",
               "count": 1,
@@ -3142,7 +3457,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Striking Fear",
+          "enabled": false,
+          "cards": [
             {
               "id": "25a2cfad-1ea4-4d8d-a9cd-36e6bc4d764a",
               "count": 1,
@@ -3383,7 +3705,8 @@
                 "Height": 1122
               }
             }
-          ]
+          ],
+          "code": "C380050185D1C1AF"
         }
       ]
     },
@@ -3391,8 +3714,8 @@
       "name": "The Circle Undone",
       "parts": [
         {
-          "code": "C380050185D1C1AF",
-          "name": "The Circle Undone",
+          "name": "Agents of Shub",
+          "enabled": false,
           "cards": [
             {
               "id": "5de70fda-dd78-458e-8f7d-6c35c257e9d9",
@@ -3473,7 +3796,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Ancient Evils",
+          "enabled": false,
+          "cards": [
             {
               "id": "a87c228d-1126-4720-a49f-80a71dee10b8",
               "count": 1,
@@ -3533,7 +3863,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Chilling Cold",
+          "enabled": false,
+          "cards": [
             {
               "id": "47c06faf-f9ac-469c-9a71-83b0af73a186",
               "count": 1,
@@ -3613,7 +3950,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Dark Cult",
+          "enabled": false,
+          "cards": [
             {
               "id": "69950fec-7a4b-44ab-9f92-bb0ce8b8886a",
               "count": 1,
@@ -3733,7 +4077,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Locked Doors",
+          "enabled": false,
+          "cards": [
             {
               "id": "93e0e70d-f24a-4578-aed0-4916d8c78f02",
               "count": 1,
@@ -3773,7 +4124,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Nightgaunts",
+          "enabled": false,
+          "cards": [
             {
               "id": "0eb9f316-e122-4196-823d-d7db63b039b2",
               "count": 1,
@@ -3853,7 +4211,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Rats",
+          "enabled": false,
+          "cards": [
             {
               "id": "6c387ca4-c76d-4296-9bda-f80e6e1e544b",
               "count": 1,
@@ -3913,7 +4278,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Striking Fear",
+          "enabled": false,
+          "cards": [
             {
               "id": "25a2cfad-1ea4-4d8d-a9cd-36e6bc4d764a",
               "count": 1,
@@ -4154,7 +4526,8 @@
                 "Height": 1122
               }
             }
-          ]
+          ],
+          "code": "C380050185D1C1AF"
         }
       ]
     },
@@ -4162,8 +4535,8 @@
       "name": "The Dream-Eaters",
       "parts": [
         {
-          "code": "C380050185D1C1AF",
-          "name": "The Dream-Eaters",
+          "name": "Ancient Evils",
+          "enabled": false,
           "cards": [
             {
               "id": "a87c228d-1126-4720-a49f-80a71dee10b8",
@@ -4224,7 +4597,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Chilling Cold",
+          "enabled": false,
+          "cards": [
             {
               "id": "47c06faf-f9ac-469c-9a71-83b0af73a186",
               "count": 1,
@@ -4304,7 +4684,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Dark Cult",
+          "enabled": false,
+          "cards": [
             {
               "id": "69950fec-7a4b-44ab-9f92-bb0ce8b8886a",
               "count": 1,
@@ -4424,7 +4811,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Ghouls",
+          "enabled": false,
+          "cards": [
             {
               "id": "bc17e138-50a6-499a-999f-17377f66c22c",
               "count": 1,
@@ -4564,7 +4958,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Locked Doors",
+          "enabled": false,
+          "cards": [
             {
               "id": "93e0e70d-f24a-4578-aed0-4916d8c78f02",
               "count": 1,
@@ -4604,7 +5005,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Nightgaunts",
+          "enabled": false,
+          "cards": [
             {
               "id": "0eb9f316-e122-4196-823d-d7db63b039b2",
               "count": 1,
@@ -4684,7 +5092,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Rats",
+          "enabled": false,
+          "cards": [
             {
               "id": "6c387ca4-c76d-4296-9bda-f80e6e1e544b",
               "count": 1,
@@ -4744,7 +5159,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Striking Fear",
+          "enabled": false,
+          "cards": [
             {
               "id": "25a2cfad-1ea4-4d8d-a9cd-36e6bc4d764a",
               "count": 1,
@@ -4885,7 +5307,8 @@
                 "Height": 1122
               }
             }
-          ]
+          ],
+          "code": "C380050185D1C1AF"
         }
       ]
     },
@@ -4893,8 +5316,8 @@
       "name": "The Innsmouth Conspiracy",
       "parts": [
         {
-          "code": "C380050185D1C1AF",
-          "name": "The Innsmouth Conspiracy",
+          "name": "Agents of Cthulhu",
+          "enabled": false,
           "cards": [
             {
               "id": "9ec32580-20bd-45a0-9e48-6c9d04f120a7",
@@ -4975,7 +5398,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Ancient Evils",
+          "enabled": false,
+          "cards": [
             {
               "id": "a87c228d-1126-4720-a49f-80a71dee10b8",
               "count": 1,
@@ -5035,7 +5465,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Chilling Cold",
+          "enabled": false,
+          "cards": [
             {
               "id": "47c06faf-f9ac-469c-9a71-83b0af73a186",
               "count": 1,
@@ -5115,7 +5552,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Dark Cult",
+          "enabled": false,
+          "cards": [
             {
               "id": "69950fec-7a4b-44ab-9f92-bb0ce8b8886a",
               "count": 1,
@@ -5235,7 +5679,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Locked Doors",
+          "enabled": false,
+          "cards": [
             {
               "id": "93e0e70d-f24a-4578-aed0-4916d8c78f02",
               "count": 1,
@@ -5275,7 +5726,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Nightgaunts",
+          "enabled": false,
+          "cards": [
             {
               "id": "0eb9f316-e122-4196-823d-d7db63b039b2",
               "count": 1,
@@ -5355,7 +5813,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Rats",
+          "enabled": false,
+          "cards": [
             {
               "id": "6c387ca4-c76d-4296-9bda-f80e6e1e544b",
               "count": 1,
@@ -5415,7 +5880,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Striking Fear",
+          "enabled": false,
+          "cards": [
             {
               "id": "25a2cfad-1ea4-4d8d-a9cd-36e6bc4d764a",
               "count": 1,
@@ -5656,7 +6128,8 @@
                 "Height": 1122
               }
             }
-          ]
+          ],
+          "code": "C380050185D1C1AF"
         }
       ]
     },
@@ -5664,8 +6137,8 @@
       "name": "Edge of the Earth",
       "parts": [
         {
-          "code": "C380050185D1C1AF",
-          "name": "Edge of the Earth",
+          "name": "Ancient Evils",
+          "enabled": false,
           "cards": [
             {
               "id": "a87c228d-1126-4720-a49f-80a71dee10b8",
@@ -5726,7 +6199,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Chilling Cold",
+          "enabled": false,
+          "cards": [
             {
               "id": "47c06faf-f9ac-469c-9a71-83b0af73a186",
               "count": 1,
@@ -5806,7 +6286,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Locked Doors",
+          "enabled": false,
+          "cards": [
             {
               "id": "93e0e70d-f24a-4578-aed0-4916d8c78f02",
               "count": 1,
@@ -5846,7 +6333,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Striking Fear",
+          "enabled": false,
+          "cards": [
             {
               "id": "25a2cfad-1ea4-4d8d-a9cd-36e6bc4d764a",
               "count": 1,
@@ -5987,7 +6481,8 @@
                 "Height": 1122
               }
             }
-          ]
+          ],
+          "code": "C380050185D1C1AF"
         }
       ]
     },
@@ -5995,8 +6490,8 @@
       "name": "The Scarlet Keys",
       "parts": [
         {
-          "code": "C380050185D1C1AF",
-          "name": "The Scarlet Keys",
+          "name": "Ancient Evils",
+          "enabled": false,
           "cards": [
             {
               "id": "a87c228d-1126-4720-a49f-80a71dee10b8",
@@ -6057,7 +6552,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Chilling Cold",
+          "enabled": false,
+          "cards": [
             {
               "id": "47c06faf-f9ac-469c-9a71-83b0af73a186",
               "count": 1,
@@ -6137,7 +6639,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Dark Cult",
+          "enabled": false,
+          "cards": [
             {
               "id": "69950fec-7a4b-44ab-9f92-bb0ce8b8886a",
               "count": 1,
@@ -6257,7 +6766,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Ghouls",
+          "enabled": false,
+          "cards": [
             {
               "id": "bc17e138-50a6-499a-999f-17377f66c22c",
               "count": 1,
@@ -6397,7 +6913,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Locked Doors",
+          "enabled": false,
+          "cards": [
             {
               "id": "93e0e70d-f24a-4578-aed0-4916d8c78f02",
               "count": 1,
@@ -6437,7 +6960,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Nightgaunts",
+          "enabled": false,
+          "cards": [
             {
               "id": "0eb9f316-e122-4196-823d-d7db63b039b2",
               "count": 1,
@@ -6517,7 +7047,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Striking Fear",
+          "enabled": false,
+          "cards": [
             {
               "id": "25a2cfad-1ea4-4d8d-a9cd-36e6bc4d764a",
               "count": 1,
@@ -6657,7 +7194,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Midnight Masks treacheries",
+          "enabled": false,
+          "cards": [
             {
               "id": "bfcde057-0da2-4aec-8e12-199af95cea55",
               "count": 1,
@@ -6758,7 +7302,8 @@
                 "Height": 1122
               }
             }
-          ]
+          ],
+          "code": "C380050185D1C1AF"
         }
       ]
     },
@@ -6766,8 +7311,8 @@
       "name": "The Feast of Hemlock Vale",
       "parts": [
         {
-          "code": "C380050185D1C1AF",
-          "name": "The Feast of Hemlock Vale",
+          "name": "Chilling Cold",
+          "enabled": false,
           "cards": [
             {
               "id": "47c06faf-f9ac-469c-9a71-83b0af73a186",
@@ -6848,7 +7393,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Ghouls",
+          "enabled": false,
+          "cards": [
             {
               "id": "bc17e138-50a6-499a-999f-17377f66c22c",
               "count": 1,
@@ -6988,7 +7540,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Locked Doors",
+          "enabled": false,
+          "cards": [
             {
               "id": "93e0e70d-f24a-4578-aed0-4916d8c78f02",
               "count": 1,
@@ -7028,7 +7587,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Rats",
+          "enabled": false,
+          "cards": [
             {
               "id": "6c387ca4-c76d-4296-9bda-f80e6e1e544b",
               "count": 1,
@@ -7088,7 +7654,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Striking Fear",
+          "enabled": false,
+          "cards": [
             {
               "id": "25a2cfad-1ea4-4d8d-a9cd-36e6bc4d764a",
               "count": 1,
@@ -7228,7 +7801,14 @@
                 "Width": 822,
                 "Height": 1122
               }
-            },
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Midnight Masks treacheries",
+          "enabled": false,
+          "cards": [
             {
               "id": "bfcde057-0da2-4aec-8e12-199af95cea55",
               "count": 1,
@@ -7329,12 +7909,841 @@
                 "Height": 1122
               }
             }
-          ]
+          ],
+          "code": "C380050185D1C1AF"
+        }
+      ]
+    },
+    {
+      "name": "The Drowned City",
+      "parts": [
+        {
+          "name": "Agents of Cthulhu",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "9ec32580-20bd-45a0-9e48-6c9d04f120a7",
+              "count": 1,
+              "front": {
+                "Name": "Agents of Cthulhu - 1 - front.png",
+                "ID": "0AB52719CCAA25F68D1F5F255A549E62",
+                "SourceID": "402EC5CD10E5B96ECE223A56C6D9DABE287869CE",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "fba15765-46bf-4efe-a541-a0c36b148fad",
+              "count": 1,
+              "front": {
+                "Name": "Agents of Cthulhu - 2 - front.png",
+                "ID": "E0C2F9AA847143C272364B42AD04A79E",
+                "SourceID": "8B824178A86450650159F78AF66C9FFC03449F1D",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "4ae07b38-96fc-4601-8984-c2503375e7da",
+              "count": 1,
+              "front": {
+                "Name": "Agents of Cthulhu - 3 - front.png",
+                "ID": "6E92CA4362A87570AC804B1F9215FBAC",
+                "SourceID": "806B9FF6BCDD55670E3983AF39543D42B166046B",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "480fa041-b5bc-4aab-92c0-62c79148ec16",
+              "count": 1,
+              "front": {
+                "Name": "Agents of Cthulhu - 4 - front.png",
+                "ID": "4703F7DD4E9F63672A7BCE6BE66D0DD7",
+                "SourceID": "8C0D1F645CAA05C61D37032551AF23110E0FD594",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Ancient Evils",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "a87c228d-1126-4720-a49f-80a71dee10b8",
+              "count": 1,
+              "front": {
+                "Name": "Ancient Evils - 1 - front.png",
+                "ID": "B6F1F48C1FF5A350CF327FB38993A792",
+                "SourceID": "9969C032925A6FD6CA682745CC098F8474B92D7A",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "d807fca0-1e5f-44e5-95bc-8443d65f2b66",
+              "count": 1,
+              "front": {
+                "Name": "Ancient Evils - 2 - front.png",
+                "ID": "E3E47E43B6A05618046BA75752023BA5",
+                "SourceID": "84A9314904EBB4578424D9242CA2A12D2D1DF309",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "add0c5ff-ea84-4d6b-9fe4-46046873331d",
+              "count": 1,
+              "front": {
+                "Name": "Ancient Evils - 3 - front.png",
+                "ID": "5413DCBE55E8BD1D3B8A5AA4D0DED2B1",
+                "SourceID": "5016E8B7C9CF285A825E75C59C8254218C327D8E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Chilling Cold",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "47c06faf-f9ac-469c-9a71-83b0af73a186",
+              "count": 1,
+              "front": {
+                "Name": "Chilling Cold - 1 - front.png",
+                "ID": "20DFC23AADBA3D2B3EEBB7AF3B1CAB96",
+                "SourceID": "D204009F141F9DD5DA349EF04F66B429BBD32F71",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "86c24dd7-48ac-4798-836b-239baef1f3c5",
+              "count": 1,
+              "front": {
+                "Name": "Chilling Cold - 2 - front.png",
+                "ID": "6764E05CAFA89DFD726DE38BD7E4BE2F",
+                "SourceID": "2D71E8A77D3622B34027569108065BD172F9D1BB",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "27a7ee79-54dd-4895-90e0-6ed6b4252d34",
+              "count": 1,
+              "front": {
+                "Name": "Chilling Cold - 3 - front.png",
+                "ID": "C6EF205F111401637029E90E44E272A5",
+                "SourceID": "84EFAEDF03BE3C827B601B49F89E3AB1F0BD3ED4",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "505a4e92-4d51-4710-aa3b-5e1e4d9c46cc",
+              "count": 1,
+              "front": {
+                "Name": "Chilling Cold - 4 - front.png",
+                "ID": "E235CC3919141E3C0A641E7F876EB747",
+                "SourceID": "7FD182F5A8FF5EE594003DD1FE8B5DA1650EEAFC",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Dark Cult",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "69950fec-7a4b-44ab-9f92-bb0ce8b8886a",
+              "count": 1,
+              "front": {
+                "Name": "Dark Cult - 1 - front.png",
+                "ID": "B2F592B5D2999390DE4E48721DC4940F",
+                "SourceID": "288F52BA336F6F55482E37B12B0C23B3485F71B8",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "217960d7-2d9d-4e03-890c-df2c6d4f5080",
+              "count": 1,
+              "front": {
+                "Name": "Dark Cult - 2 - front.png",
+                "ID": "04F1235C3CAC141FED3566B9CA239F6B",
+                "SourceID": "0CCD81BFEABC284364328AE34A831E937DF04A89",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "7246dca1-c920-49f8-9c91-a415c154d742",
+              "count": 1,
+              "front": {
+                "Name": "Dark Cult - 3 - front.png",
+                "ID": "5EE67A597ED85C9B272984DAF4FFA79C",
+                "SourceID": "35452F1BAC3EF6FD2486C6EA0C2A8E9C05797E3C",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "bf653d79-921c-4617-ae82-ee925b0be0a5",
+              "count": 1,
+              "front": {
+                "Name": "Dark Cult - 4 - front.png",
+                "ID": "245E6B864FA5122218525D5FB7BAA1EB",
+                "SourceID": "C424C7B1F3AE7C657CCAED425994C942D8DB3310",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "93ebf21a-896b-4d99-aee9-c200a58025ea",
+              "count": 1,
+              "front": {
+                "Name": "Dark Cult - 5 - front.png",
+                "ID": "C06047920DD7E0A0A46B1B0AF5311413",
+                "SourceID": "15942B6B393CE09E9E849AE99AFDE0C9EEB1B7FE",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "a95b19e7-f84f-4d92-b5fb-d7d94dd318ea",
+              "count": 1,
+              "front": {
+                "Name": "Dark Cult - 6 - front.png",
+                "ID": "ED3D747058D9DBBA56E8104E15429AD9",
+                "SourceID": "0A9189FBE8D786920EFD008402B01975E6938926",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Locked Doors",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "93e0e70d-f24a-4578-aed0-4916d8c78f02",
+              "count": 1,
+              "front": {
+                "Name": "Locked Doors - 1 - front.png",
+                "ID": "5D486E03F411B2E03470C64F3C78095F",
+                "SourceID": "EB68E13AF2DBEB45C79C068FF5AF04F0468F57B8",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "23a3548d-f6f9-4c17-931d-718418f828f7",
+              "count": 1,
+              "front": {
+                "Name": "Locked Doors - 2 - front.png",
+                "ID": "22F99EA7B284E0CA8E6E48E1564CCF6A",
+                "SourceID": "5F1C5999AA1C34C47864667170C4BE4CB917276A",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Nightgaunts",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "0eb9f316-e122-4196-823d-d7db63b039b2",
+              "count": 1,
+              "front": {
+                "Name": "Nightgaunts - 1 - front.png",
+                "ID": "A76ECDFC877DA1F1AC2F8FABAEB924DF",
+                "SourceID": "8D58A1A73E4E6EB3B7EC78B75F6BA7D01435F991",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "fe14f604-4c00-49d5-bfc4-6f0a1b2faeb4",
+              "count": 1,
+              "front": {
+                "Name": "Nightgaunts - 2 - front.png",
+                "ID": "17D1AB303A23B1F89B9ABA9788CDE02C",
+                "SourceID": "F6685ABFFFA7DF8A3C28F354ED0AD61D9447606F",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "754f4e25-0ac1-4d8f-85ce-57daa8beed38",
+              "count": 1,
+              "front": {
+                "Name": "Nightgaunts - 3 - front.png",
+                "ID": "FF5A37E5D873F876D7E9748541E04460",
+                "SourceID": "54391F149DE418418128556ECD2ABBD2EFAA1422",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "7f6098e5-65e9-4eaf-b31a-7ca2fabc19fa",
+              "count": 1,
+              "front": {
+                "Name": "Nightgaunts - 4 - front.png",
+                "ID": "4C2FA48738779C6383D7F5353CC44DF1",
+                "SourceID": "EF64876CE2573E26B5E17AF7BBFE1C7DA8C5B904",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Rats",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "6c387ca4-c76d-4296-9bda-f80e6e1e544b",
+              "count": 1,
+              "front": {
+                "Name": "Rats - 1 - front.png",
+                "ID": "623AC265461B8D9138EF1B793F8E6ED3",
+                "SourceID": "FAB33B38BBF8E8C2C51857E6B62C0A5AC2F9161B",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "25acab95-60de-4bd5-88e9-a4261104425a",
+              "count": 1,
+              "front": {
+                "Name": "Rats - 2 - front.png",
+                "ID": "5E71E09FC8065EEDD59CC1DAA8A06525",
+                "SourceID": "D9B42368A4E41DF5C071D0FBF81AF62483CF9212",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "82ace3ff-65e8-4f13-b674-6778b09e82c1",
+              "count": 1,
+              "front": {
+                "Name": "Rats - 3 - front.png",
+                "ID": "CA4BE8994F9D74F9733D7A2B5A6FD429",
+                "SourceID": "0E6E87FC532B233544F6CD6B6AC92CCBD209615C",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Striking Fear",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "25a2cfad-1ea4-4d8d-a9cd-36e6bc4d764a",
+              "count": 1,
+              "front": {
+                "Name": "Striking Fear - 1 - front.png",
+                "ID": "DC55351188F03387C9A10E24D1D8838E",
+                "SourceID": "CCCE3282ABB065489894D1458AD8F77AB2D44026",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "a455ccc8-b7e5-4485-b8d9-b0896f774fa2",
+              "count": 1,
+              "front": {
+                "Name": "Striking Fear - 2 - front.png",
+                "ID": "855F37E4DD353250D79CF63200F5CDCC",
+                "SourceID": "B1D4B158D235876DBECA835979B55338B288E62E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "b72f673f-5020-49ea-aeee-690909dde46c",
+              "count": 1,
+              "front": {
+                "Name": "Striking Fear - 3 - front.png",
+                "ID": "72E7A0EBB8412702C9423802285AFA25",
+                "SourceID": "AEE589B41D7C5B8CB8F46CB0A15EAF8459374270",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "a5efb41a-f926-40c2-bea6-6d5ad2713af1",
+              "count": 1,
+              "front": {
+                "Name": "Striking Fear - 4 - front.png",
+                "ID": "E5334CEB4C733F2CF381AE08B29BAB8C",
+                "SourceID": "D6E352BF070E2682895BAC8346DB6C2DA917E979",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "8daf370c-73c4-43ad-a9a6-fe99a661f8cc",
+              "count": 1,
+              "front": {
+                "Name": "Striking Fear - 5 - front.png",
+                "ID": "2EB88BE8E3B29E7D5EAB6C234A7CB45C",
+                "SourceID": "91C02EDC19A4C92B610853149E43F12432111B80",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "92b6e5bf-e02c-441a-9277-9e16099b1e9b",
+              "count": 1,
+              "front": {
+                "Name": "Striking Fear - 6 - front.png",
+                "ID": "B8BFD1C376FE58D4411807CBB0141B3A",
+                "SourceID": "FC4A48B5864CEEB8F4A47ED6CF5A35662324FF4A",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "de21a099-f38d-4bc6-b609-1306719b06df",
+              "count": 1,
+              "front": {
+                "Name": "Striking Fear - 7 - front.png",
+                "ID": "5D32568A099B530A7CA558C0AE356E00",
+                "SourceID": "DB35696A7487F39D270465CC0869AE9F9D977343",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        },
+        {
+          "name": "Midnight Masks treacheries",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "bfcde057-0da2-4aec-8e12-199af95cea55",
+              "count": 1,
+              "front": {
+                "Name": "The Midnight Masks - 1 - front.png",
+                "ID": "E0FB7A6AE29D7E687905DD3ECE214FC2",
+                "SourceID": "291807A0A17C8E873EBEC5BA249CEFF80906E8AD",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "921a5e4c-ceea-4c0c-8166-c41888e9cae6",
+              "count": 1,
+              "front": {
+                "Name": "The Midnight Masks - 2 - front.png",
+                "ID": "294A3562B30D818C6ADDFB1562438080",
+                "SourceID": "24A4023C080D7DD012965941AC7C537BF6CB365F",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "51e1905d-481f-4010-b42d-599771eac42d",
+              "count": 1,
+              "front": {
+                "Name": "The Midnight Masks - 3 - front.png",
+                "ID": "B29D751C7AC2F44C46D2F526844CB08D",
+                "SourceID": "5E781FDE655EED78606015F2BB66FC4318FEABBB",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "3cdc4126-1e7c-4d7a-8271-86d39b5249a8",
+              "count": 1,
+              "front": {
+                "Name": "The Midnight Masks - 4 - front.png",
+                "ID": "BFFAC5F76EC2B1D78A7FDFA346713B27",
+                "SourceID": "CDF71F9DB2D0AD32F37EEE1B58881916FD80B340",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            },
+            {
+              "id": "e77a5cf9-b8d4-4a39-81e1-458e821a5006",
+              "count": 1,
+              "front": {
+                "Name": "The Midnight Masks - 5 - front.png",
+                "ID": "619FE9304C0E4A4B020395D283E407FD",
+                "SourceID": "93EF5CC569E759317E52E5AC9DD2C46AB924860C",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              },
+              "back": {
+                "Name": "_encounterback.png",
+                "ID": "E0A369C86EE8F0D0F6E6BF79CA5BDAFF",
+                "SourceID": "F475D00EB7E9CFC7E27D6A3C60C5CE849DB08F5E",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
         }
       ]
     }
   ],
-  "created": "",
-  "updated": "2024-09-12T23:07:57.115Z",
+  "created": "2024-09-12T23:07:57.115Z",
+  "updated": "2026-03-T23:07:57.115Z",
   "hash": "014217fb0c095dea626e122a921f915e9e6be54d78bd30fee8f278fe9c5f94a7"
 }
