@@ -1553,7 +1553,7 @@
               "id": "8b004cf9-2acb-415a-a196-6b9fa3440ff6",
               "count": 1,
               "front": {
-                "Name": "077-Marigolds Greatest Treasure-1.png",
+                "Name": "077-Marigolds Greatest Treasure-x4-1.png",
                 "ID": "9473474FC2179062B5FA413774902D18",
                 "SourceID": "7E3D3310E897C042E881B3D3BEF062B14DE03387",
                 "Exp": "png",
@@ -1561,7 +1561,7 @@
                 "Height": 1126
               },
               "back": {
-                "Name": "077-Marigolds Greatest Treasure-2.png",
+                "Name": "077-Marigolds Greatest Treasure-x4-2.png",
                 "ID": "ACF5C21B79E31C80E298F513A752A3EE",
                 "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
                 "Exp": "png",
@@ -7853,9 +7853,40 @@
           "code": "C380050185D1C1AF"
         }
       ]
+    },
+    {
+      "name": "Errata if printed before 7 Jun 2026 (see changelog)",
+      "parts": [
+        {
+          "name": "Marigold’s Greatest Treasure",
+          "enabled": false,
+          "cards": [
+            {
+              "id": "8b004cf9-2acb-415a-a196-6b9fa3440ff6",
+              "count": 1,
+              "front": {
+                "Name": "077-Marigolds Greatest Treasure-x3-1.png",
+                "ID": "9473474FC2179062B5FA413774902D18",
+                "SourceID": "7E3D3310E897C042E881B3D3BEF062B14DE03387",
+                "Exp": "png",
+                "Width": 826,
+                "Height": 1126
+              },
+              "back": {
+                "Name": "077-Marigolds Greatest Treasure-x3-2.png",
+                "ID": "ACF5C21B79E31C80E298F513A752A3EE",
+                "SourceID": "5303F8BB1C0D1707F4B60413A29A8DBC84EDAEE1",
+                "Exp": "png",
+                "Width": 822,
+                "Height": 1122
+              }
+            }
+          ]
+        }
+      ]
     }
   ],
   "created": "2025-03-31T16:24:20.213Z",
-  "updated": "2025-03-31T16:24:20.213Z",
+  "updated": "2026-06-07T15:07:20.213Z",
   "hash": "227e754d7201c19a491421438f0270e11210Db44717e6362ff747ea47344c80b"
 }
