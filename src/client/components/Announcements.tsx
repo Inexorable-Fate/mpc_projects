@@ -18,7 +18,7 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
           <div className={'alert-content'}>
             <div className={'alert-item'}>
               <h3>Recently added: </h3>
-              <p>Chapter 1 Core Encounters • Ultimatiums, Boons & Refractions from FAQ 2.5 • Taboo 2.5</p>
+              <p>Curse of the Concealed Rougarou • Chapter 1 Core Encounters • Ultimatiums, Boons & Refractions from FAQ 2.5 • Taboo 2.5</p>
             </div>
             <div className={'alert-item'}>
               <h3>Newly updated: </h3>
@@ -30,7 +30,7 @@ export const Announcements = ({ displayAnnouncements, showAnnouncements, setShow
             </div>
             <div className={'alert-item'}>
               <h3>Project errata: </h3>
-              <p>Click the changelog icons <ChangelogIcon/> to see if you need to reprint errata for Taboo 2.5, Alice in Wonderland, Ages Unwound, Bloodborne, Parallel Lola, When the World Screamed, Night of Vespers, or any other projects.</p>
+              <p>Click the changelog icons <ChangelogIcon/> to see if you need to reprint errata for The Matter of Britain, Taboo 2.5, Alice in Wonderland, Ages Unwound, Bloodborne, Parallel Lola, When the World Screamed, Night of Vespers, or any other projects.</p>
             </div>
           </div>
         </Alert>

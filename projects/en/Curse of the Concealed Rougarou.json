@@ -1,0 +1,200 @@
+{
+  "version": 5,
+  "projectIds": {
+    "4AA27E16539090283398BBEF519BA6E987A406B1731224EC8CA8DE123F0FF22793D6573B5B2317A6": "Curse of the Concealed Rougarou"
+  },
+  "name": "Curse of the Concealed Rougarou",
+  "description": "A reimagining of Curse of the Rougarou using the Concealed keyword from The Scarlet Keys.",
+  "artist": "Imad Awan",
+  "info": "Requires the Curse of the Rougarou standalone scenario and rules for the Concealed Keyword from The Scarlet Keys. Does not require Concealed cards from TSK.",
+  "website": null,
+  "cardsLink": "https://drive.google.com/drive/folders/1XRBvA6LDv9uICTapC-L8G04GGFa4YpvT?usp=drive_link",
+  "scenarioCount": 0,
+  "investigatorCount": 0,
+  "authors": [
+    "Head Librarian Chad"
+  ],
+  "statuses": [
+    "Finished",
+    "Project Available"
+  ],
+  "tags": [
+    "Rework"
+  ],
+  "options": [
+    {
+      "name": "",
+      "parts": [
+        {
+          "name": "Curse of the Concealed Rougarou",
+          "cards": [
+            {
+              "id": "db5d1edd-2bab-4825-a428-6800c75cbdf9",
+              "count": 1,
+              "front": {
+                "Name": "001-Curse of the Concealed Rougarou-1.png",
+                "ID": "CD2DB869323AA17A5D1B22A0088C75BE",
+                "SourceID": "73FAADD1CCEC828B9A75ED3BC677E26AB8D3AA2C",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              },
+              "back": {
+                "Name": "001-Curse of the Concealed Rougarou-2.png",
+                "ID": "029A7E6A87ED5C956EFA71E6F9EDD6D1",
+                "SourceID": "F5A1086AC597A8AB8B06163322F2948FAE062D53",
+                "Exp": "png",
+                "Width": 1239,
+                "Height": 1689
+              }
+            },
+            {
+              "id": "92701668-b9be-4e01-ac53-498d6b4d9bcd",
+              "count": 1,
+              "front": {
+                "Name": "002-Ultimatum of the Hunter-1.png",
+                "ID": "94EED851F63157FA6AF1279BEBA9885B",
+                "SourceID": "357EAB373C6855CDC395F7125513D4EF7CDD933A",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2297
+              },
+              "back": {
+                "Name": "002-Ultimatum of the Hunter-2.png",
+                "ID": "A38CC81E1E9A788D2B0A4DFD1C1E62E8",
+                "SourceID": "64B449422149C27C2D79772355010E7FA2348125",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "ddc9a561-c6b3-4c00-91d9-65bdde20b0e4",
+              "count": 1,
+              "front": {
+                "Name": "003-Scenario Card (v II)-1.png",
+                "ID": "44D008AD987203DFB08F3389CBD2F085",
+                "SourceID": "4FF322ECF25F48454112A82DFFBD0D1CD24FB797",
+                "Exp": "png",
+                "Width": 1239,
+                "Height": 1689
+              },
+              "back": {
+                "Name": "003-Scenario Card (v II)-2.png",
+                "ID": "9498FEA4A5A9C86D79F40C0671E5ECAC",
+                "SourceID": "D73119E06556C8F7D5A0034A821926DB31C55AB4",
+                "Exp": "png",
+                "Width": 1239,
+                "Height": 1689
+              }
+            },
+            {
+              "id": "0825e011-ad75-4f13-a00a-39c08d8af30f",
+              "count": 1,
+              "front": {
+                "Name": "004-Act 2a Hunting the Rougarou (v II)-1.png",
+                "ID": "2C52B882F723F5EDFC35799B2E746D2C",
+                "SourceID": "EFFD028D8AFE6D40A3CB17FB5BB443EE9AE51BF9",
+                "Exp": "png",
+                "Width": 1239,
+                "Height": 1689
+              },
+              "back": {
+                "Name": "004-Act 2a Hunting the Rougarou (v II)-2.png",
+                "ID": "7AE64488AC90CD960CE4AEF0E01078DB",
+                "SourceID": "FF97FD323BB386CCDD9E457A6D3B5F4E62EA8E88",
+                "Exp": "png",
+                "Width": 1239,
+                "Height": 1689
+              }
+            },
+            {
+              "id": "2584f7cc-d768-4f24-a8c6-ed8977e8d07e",
+              "count": 1,
+              "front": {
+                "Name": "005-The Rougarou (v II)-1.png",
+                "ID": "8139C901F7ADAF5FFF59DA6BAD44CC2B",
+                "SourceID": "7B1054E2AD7950321DC5770A7A3277ACF97FAB49",
+                "Exp": "png",
+                "Width": 1239,
+                "Height": 1689
+              },
+              "back": {
+                "Name": "005-The Rougarou (v II)-2.png",
+                "ID": "A82231BEC36CF00EA0F5795621A36510",
+                "SourceID": "63D85B15394C2B23BEC378537DFA393C22462308",
+                "Exp": "png",
+                "Width": 1644,
+                "Height": 2244
+              }
+            },
+            {
+              "id": "a24c52fa-9a80-437e-8c77-681f2a89b0e8",
+              "count": 1,
+              "front": {
+                "Name": "006-Concealed Card-1.png",
+                "ID": "A0B6B1706CFE4B3C6F4BCB6133D51E70",
+                "SourceID": "65C636198D74B0EB194859ED3F4EF753A1D2F596",
+                "Exp": "png",
+                "Width": 1239,
+                "Height": 1689
+              },
+              "back": {
+                "Name": "006-Concealed Card-2.png",
+                "ID": "0F4A5350DB051D7312A7A8F36C3F0831",
+                "SourceID": "3B71ECCEC4BEBC6170DBC771DE8F677B140A53EB",
+                "Exp": "png",
+                "Width": 1239,
+                "Height": 1689
+              }
+            },
+            {
+              "id": "e7dc42ff-bd5b-47d4-9148-69b4b7f073c5",
+              "count": 1,
+              "front": {
+                "Name": "007-Concealed Card-1.png",
+                "ID": "347BFFDFF3434B250951D92C52148582",
+                "SourceID": "6038432C58AFF3E8AF71A8572728BB4093AE9206",
+                "Exp": "png",
+                "Width": 1239,
+                "Height": 1689
+              },
+              "back": {
+                "Name": "007-Concealed Card-2.png",
+                "ID": "05271B04CD324B2EC782501C624DF31E",
+                "SourceID": "A00B1695CBFEDEE2B29029BB57B4867F4572E347",
+                "Exp": "png",
+                "Width": 1239,
+                "Height": 1689
+              }
+            },
+            {
+              "id": "167c2582-c195-4814-956e-f0fb0048f4c6",
+              "count": 1,
+              "front": {
+                "Name": "008-Concealed Card-1.png",
+                "ID": "347BFFDFF3434B250951D92C52148582",
+                "SourceID": "6038432C58AFF3E8AF71A8572728BB4093AE9206",
+                "Exp": "png",
+                "Width": 1239,
+                "Height": 1689
+              },
+              "back": {
+                "Name": "008-Concealed Card-2.png",
+                "ID": "DF3FFD681282A87F892AE6A168CD6F07",
+                "SourceID": "7E9A1AC867B98A718118E4CFEE57908D37A85E43",
+                "Exp": "png",
+                "Width": 1239,
+                "Height": 1689
+              }
+            }
+          ],
+          "code": "C380050185D1C1AF"
+        }
+      ]
+    }
+  ],
+  "created": "2026-06-07T14:56:28.754Z",
+  "updated": "2026-06-07T14:56:28.754Z",
+  "hash": "e8652179a7f91a2707985f232bdebc2e21a4207251abcbc46354b708362ba98ed"
+}
