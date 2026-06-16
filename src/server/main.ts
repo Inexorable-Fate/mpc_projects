@@ -26,7 +26,7 @@ app.post('/set_cookie', async (req, res) => {
   })
 
   if (await login(config.refreshProjects!.baseUrl, formatCookie(cookie))) {
-    task.now()
+    task.execute()
     res.json({
       success: true,
     })
